@@ -8,7 +8,7 @@ Decisive, creative, technology professional with extensive experience leading co
 
 ## Experience
 
-### PRODUCT OWNER & BUSINESS ANALYST**
+### PRODUCT OWNER & BUSINESS ANALYST
 **DXC Technology/2017-Present**
 Product Owner for DXC's "Front Door" single point of entry for global solutioning and sales support. Successfully transitioned to an Agile development model while deploying the first smart agent chatbot on DXC’s award winning sales portal. Current user, peer, and leader feedback: 
 
