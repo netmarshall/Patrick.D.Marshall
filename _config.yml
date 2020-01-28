@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Patrick Marshall
+title: Patrick D. Marshall
 email: patrick.d.marshall@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -62,18 +62,18 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label: "patrick.d.marshall@gmail.com"
+      icon: "fas fa-envelope"
+      url: mailto:patrick.d.marshall@gmail.com
+    - label: "214 641 9872"
+      icon: "fas fa-mobile-alt"
+    - label: "Plano, TX"
+      icon: "fas fa-map-marker-alt"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://Linkedin.com/in/patrick-marshall/"
+    
+      
 
 footer:
   links:
