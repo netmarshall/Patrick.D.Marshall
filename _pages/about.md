@@ -8,8 +8,8 @@ Decisive, creative, technology professional with extensive experience leading co
 
 ## Experience
 
-### PRODUCT OWNER & BUSINESS ANALYST
-**DXC Technology/2017-Present**
+### Product Owner & Business Analyst
+**DXC Technology (2017-Present)**
 Product Owner for DXC's "Front Door" single point of entry for global solutioning and sales support. Successfully transitioned to an Agile development model while deploying the first smart agent chatbot on DXC’s award winning sales portal. Current user, peer, and leader feedback: 
 
 * *“Guys, the bot is awesome! Just test drove it and works perfectly...Great work!”* – **Americas Offering Leader**
@@ -19,8 +19,34 @@ Product Owner for DXC's "Front Door" single point of entry for global solutionin
 * *"From the redesign of the Front Door catalog, the new Enhanced dashboard, and now the implementation of the BOTs, Patrick has been a thought leader from the beginning. Nothing is impossible to Patrick. I am happy to have him on the team!"* - **Scrum Master**
 * *"Patrick had a very strong year in his role as product owner for Front Door and Sales Information Center. He enthusiastically embraced the use of bots to automate tasks previously done by analysts, greatly enhancing his digital skills and experience with digital tools."* - **Direct Leader**
 
-### SENIOR ANALYST-SALES INFORMATION CENTER
-**DXC Technology / 2012 -2016** 
+### Senior Analyst Sales Information Center
+**DXC Technology (2012 -2016)** 
 Consults with global DXC sales and account teams on sales strategy, competitive intelligence, proposal & orals preparation, effective use of references, proof points, and sales collateral to grow new business. Our team touches over $40B in total opportunity value each year across all stages of the sales pipeline from prospecting and demand generation, to qualification, through negotiation, close, and post sales expansion.
 
-* **2016 Winners Summit** – *“One of the highest accolades a[DXC] client-facing employee can earn. The honor goes to the top performers who not only exceed their growth commitment but also demonstrate a strong will to win with tenacity, integrity and passion.”*
+* **2016 Winners Summit** – *“One of the highest accolades a [DXC] client-facing employee can earn. The honor goes to the top performers who not only exceed their growth commitment but also demonstrate a strong will to win with tenacity, integrity and passion.”*
+
+### Strategic Sales Center - Content Consultant
+**Hewlett Packard Enterprise (2006 - 2012)** 
+Founding member of knowledge management “tiger team” of senior sales, solution, and delivery professionals focused on enhancing agility, re-use, and quality of proposal and orals responses for Strategic Sales pursuits (>$100 million USD). Built out a library of re-usable templates and artifacts for third party sourcing advisor led opportunities (such as ISG/TPI, KPMG/EquaTerra, Alsbridge, and Everest Group).  
+
+*	Personally supported over 100 Strategic Sales pursuits, and consulted on countless others
+*	Directly recognized as a core contributor to more than $3B in new contract wins
+*	Global Sales Support “Top Performer” – Annual Corporate wide sales recognition Award
+*	Strategic Sales Center “Content Consultant of the Year” – Annual Peer nominated recognition Award
+*	Two-time Strategic Sales Center “Lantern Award” winner – Annual Leadership nominated recognition Award
+
+### Sales Support Executive/Client Sales Executive
+**Electronic Data Systems (1996 - 2006)**
+
+* **Sales Support Executive (2001-2006)** - End to end management of outsourcing bids across functional teams of solution architects, financial analysts, legal, HR, marketing, and sales specialists to meet demanding external client deadlines, navigate internal governance processes, and win new business
+* **Client Sales Executive, Internet & New Media and Infrastructure Solutions (1996-2001)** – Responsible for developing relationships at the CEO, CFO, and CIO level to drive new business opportunities in the Internet and electronic markets space
+*	Personally led sales efforts resulting in more than $80 million in new business for EDS - including new contracts with the largest manufacturer and the largest distributor in my assigned industry sector
+*	Conceptualized and sold web-based supply chain management system to streamline government procurement - resulting in a 300% increase in sales for EDS' client
+*	EDS **"Inner Circle"** annual corporate wide sales recognition event - Gold Level (exceeded sales quota by 100%) 
+
+### Technical Sales Representative & Field Sales Trainer
+**Dianon Systems (1994 - 1996)**
+Managed state sized sales territory for nationally renowned diagnostic testing center specializing in oncology. 
+*	Revived a territory that had been operating 30% below plan into a top performer producing 117% of assigned goal overall, and more than 150% above goal in two different product lines
+*	Selected over 7 other sales representatives as the Regional Field Sales Trainer
+
