@@ -6,7 +6,7 @@ toc: true
 
 Decisive, creative, technology professional with extensive experience leading complex business analysis, strategic sourcing, and business development programs. Effective organizer who works comfortably under pressure and readily assumes additional responsibilities. Proven trackrecord of delivering positive results by leveraging a unique blend of leadership, relationship building, technology innovation, and communication skills.
 
-**Skills:**  [Innovation](#link){: .btn .btn--primary} [Leadership](#link){: .btn .btn--primary} [Problem Solving](){: .btn .btn--primary} [Collaboration]{: .btn .btn--primary}(#link) [Adaptability](#link){: .btn .btn--primary} [Critical Thinking](#link){: .btn .btn--primary} [Strong Work Ethic](#link){: .btn .btn--primary} [ITIL](#link){: .btn .btn--primary} [MS Flow](#link){: .btn .btn--primary} [MS Bot Framework](#link){: .btn .btn--primary} [LSS Yellow Belt](#link){: .btn .btn--primary} [Agile Development](#link){: .btn .btn--primary}
+**Skills:**  [Innovation](){: .btn .btn--primary} [Leadership](){: .btn .btn--primary} [Problem Solving](){: .btn .btn--primary} [Collaboration](){: .btn .btn--primary} [Adaptability](){: .btn .btn--primary} [Critical Thinking](){: .btn .btn--primary} [Strong Work Ethic](){: .btn .btn--primary} [ITIL](){: .btn .btn--primary} [MS Flow](){: .btn .btn--primary} [MS Bot Framework](){: .btn .btn--primary} [LSS Yellow Belt](){: .btn .btn--primary} [Agile Development](){: .btn .btn--primary}
 
 ## Experience
 
