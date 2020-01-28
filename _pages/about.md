@@ -6,6 +6,8 @@ toc: true
 
 Decisive, creative, technology professional with extensive experience leading complex business analysis, strategic sourcing, and business development programs. Effective organizer who works comfortably under pressure and readily assumes additional responsibilities. Proven trackrecord of delivering positive results by leveraging a unique blend of leadership, relationship building, technology innovation, and communication skills.
 
+**Skills:**  
+
 ## Experience
 
 ### Product Owner & Business Analyst
@@ -47,9 +49,25 @@ Managed state sized sales territory for nationally renowned diagnostic testing c
 *	Selected over 7 other sales representatives as the Regional Field Sales Trainer
 
 ### Captain
-**United States Army (1989 - 1994)
+**United States Army (1989 - 1994)**
 * **Battalion Adjutant** - led a Personnel Administration Center caring for the financial and human resources needs of 560 soldiers and their dependents. Earned seventh Army Commendation Medal for spearheading new casualty tracking and management system which significantly reduced mock fatalities during multi-million dollar deployment exercise at the Army's National Training Center.
 * **Support Platoon Leader** - Supervised 55 soldiers in providing the fuel, ammunition, cargo, and food service support for an M1A1 Tank Battalion. Improved the readiness rate of my 46 vehicle fleet by 20%, while supporting three major deployments. Hand-picked by the Battalion Commander for "the most critical Lieutenant position in the Battalion".
 * **M1A1 Tank Platoon Leader** - Prepared nineteen soldiers and five M1A1 Abrams tanks to deploy, fight, and win. Safely led my Platoon through three enemy minefields and 350 KM into Iraq. Top Platoon in the Brigade (#1 out of 24) in three consecutive evaluated gunnery exercises. Only Tank Platoon in the Brigade recognized with the "Order of the Cobra" for Tactical Excellence.
 
 **Awards** - Army Commendation Medal with six Oak Leaf Clusters, Army Achievement Medal, Southwest Asia Service Medal with three Campaign Stars, National Defense Service Medal, Liberation of Kuwait Medal, Basic Parachutist Badge
+
+## Education
+
+### BBA Managment
+**Texas A&M University(1984-1988)**
+*	Distinguished Military Graduate
+*	College of Business Administration Distinguished Student
+
+### U.S. Army Armor School
+**Fort Knox, Kentucky (1989 - 1990)**
+*	Mastered “Shock and Awe” at the Armor Officer's Basic (AOB) Course
+* Distinguished Graduate and member of the Commandant’s List
+
+### U.S. Army Airborne School
+**Fort Benning, Georgia (1990)**
+*	Jumped out of a perfectly good airplane
