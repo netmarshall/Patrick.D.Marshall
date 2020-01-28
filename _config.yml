@@ -67,10 +67,10 @@ author:
       url: mailto:patrick.d.marshall@gmail.com
     - label: "214 641 9872"
       icon: "fas fa-mobile-alt"
-      url: “href=”tel:+12146419872”
+      url: "tel:+12146419872”
     - label: "Send a text"  
       icon: "fas fa-comment-alt"
-      url: "sms:+18664504185&body=I%20was%20reviewing%20your%20resume%20on%20GitHub%2C%20and%20have%20a%20challenging%20opportunity%20that%20might%20interest%20you..."
+      url: "sms:+12146419872"
     - label: "Plano, TX"
       icon: "fas fa-map-marker-alt"
       url: "https://www.google.com/maps/search/?api=1&query=Plano%2C+Plano%2C+TX%2C+us&query_place_id=ChIJE5XFE9ohTIYRK2DNiWQDqmI"
