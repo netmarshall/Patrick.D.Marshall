@@ -1,7 +1,6 @@
 ---
 permalink: /about/
 title: "About"
-layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.4"
@@ -11,8 +10,7 @@ header:
       url: "https://github.com/mmistakes/minimal-mistakes/"
     
 excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
-intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+
 ---
 {% include toc title="On this Page" %}
 Decisive, creative, technology professional with extensive experience leading complex business analysis, strategic sourcing, and business development programs. Effective organizer who works comfortably under pressure and readily assumes additional responsibilities. Proven trackrecord of delivering positive results by leveraging a unique blend of leadership, relationship building, technology innovation, and communication skills.
