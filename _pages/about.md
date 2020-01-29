@@ -4,7 +4,7 @@ title: "About"
 layout: splash
 header:
   overlay_color: "#000"
-  overlay_filter: "0.5"
+  overlay_filter: "0.4"
   overlay_image: /assets/images/Banner.jpg
   actions:
     - label: "Download"
