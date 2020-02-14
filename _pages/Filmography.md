@@ -11,16 +11,16 @@ header:
     
 excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
 gallery:
-  - url: /assets/images/72330193_741088306399396_7771213505102179450_n.jpg
-    image_path: /assets/images/72330193_741088306399396_7771213505102179450_n.jpg
+  - url: /assets/images/Chicago-PSHS.jpg
+    image_path: /assets/Chicago-PSHS.jpg
     alt: "Chicago"
     title: "Chicago - Plano Senior High School"
-  - url: /assets/images/Macabaret Poster.jpg
-    image_path: /assets/images/Macabaret Poster.jpg
+  - url: /assets/images/Macabaret-PSHS.jpg
+    image_path: /assets/images/Macabaret-PSHS.jpg
     alt: "Macabaret"
     title: "Macabaret - Plano Senior High School"
-  - url: /assets/images/71530192_965952623750209_4699115781454036992_n.jpg
-    image_path: /assets/images/71530192_965952623750209_4699115781454036992_n.jpg
+  - url: /assets/images/Wendy-and-Peter-Pan-PSHS.jpg
+    image_path: /assets/images/Wendy-and-Peter-Pan-PSHS.jpg
     alt: "Wendy and Peter Pan"
     title: "Wendy and Peter Pan - Plano Senior High School"
 ---
