@@ -11,7 +11,7 @@ header:
 excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
 gallery:
   - url: /assets/images/Chicago-PSHS.jpg
-    image_path: /assets/Chicago-PSHS.jpg
+    image_path: /assets/images/Chicago-PSHS.jpg
     alt: "Chicago"
     title: "Chicago - Plano Senior High School"
   - url: /assets/images/Macabaret-PSHS.jpg
