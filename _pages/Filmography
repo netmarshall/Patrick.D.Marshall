@@ -10,7 +10,19 @@ header:
       url: "https://github.com/mmistakes/minimal-mistakes/"
     
 excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
-
+gallery:
+  - url: /assets/images/72330193_741088306399396_7771213505102179450_n.jpg
+    image_path: /assets/images/72330193_741088306399396_7771213505102179450_n.jpg
+    alt: "Chicago"
+    title: "Chicago - Plano Senior High School"
+  - url: /assets/images/Macabaret Poster.jpg
+    image_path: /assets/images/Macabaret Poster.jpg
+    alt: "Macabaret"
+    title: "Macabaret - Plano Senior High School"
+  - url: /assets/images/71530192_965952623750209_4699115781454036992_n.jpg
+    image_path: /assets/images/71530192_965952623750209_4699115781454036992_n.jpg
+    alt: "Wendy and Peter Pan"
+    title: "Wendy and Peter Pan - Plano Senior High School"
 ---
 {% include toc title="On this Page" %}
 Decisive, creative, technology professional with extensive experience leading complex business analysis, strategic sourcing, and business development programs. Effective organizer who works comfortably under pressure and readily assumes additional responsibilities. Proven track record of delivering positive results by leveraging a unique blend of leadership, relationship building, technology innovation, and communication skills.
@@ -30,3 +42,4 @@ Product Owner for DXC's "Front Door" single point of entry for global solutionin
 * *"Patrick had a very strong year in his role as product owner for Front Door and Sales Information Center. He enthusiastically embraced the use of bots to automate tasks previously done by analysts, greatly enhancing his digital skills and experience with digital tools."* - **Direct Leader**
 
 ### Shows
+{% include gallery id="gallery" %}
