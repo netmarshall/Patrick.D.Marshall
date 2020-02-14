@@ -33,7 +33,9 @@ Decisive, creative, technology professional with extensive experience leading co
 
 <iframe src="https://onedrive.live.com/embed?cid=D93412E825705104&resid=D93412E825705104%21265962&authkey=AAWPJ8HBvyDM5Kg" width="320" height="180" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
+https://1drv.ms/v/s!AgRRcCXoEjTZkJ1qzZr6TGrOdOALIg?e=X0OAby
 
+{% include video id="s!AgRRcCXoEjTZkJ1qzZr6TGrOdOALIg?e=X0OAby" provider="1drv.ms/v/" %}
 
 ### Shows
 {% include gallery id="gallery" %}
