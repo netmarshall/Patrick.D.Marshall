@@ -4,7 +4,7 @@ title: "Filmography"
 header:
   overlay_color: "#000"
   overlay_filter: "0.4"
-  overlay_image: /assets/images/Banner.jpg
+  overlay_image: /assets/images/Splash.jpg
   actions:
     - label: "Download"
       url: "https://github.com/mmistakes/minimal-mistakes/"
