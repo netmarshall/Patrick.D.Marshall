@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Patrick D. Marshall
-email: patrick.d.marshall@gmail.com
+title: John H. Marshall
+email: john.h.marshall04@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -58,13 +58,13 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Patrick Marshall"
+  name   : "John Marshall"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
-    - label: "patrick.d.marshall@gmail.com"
+    - label: "john.h.marshall04@gmail.com"
       icon: "fas fa-envelope"
-      url: mailto:patrick.d.marshall@gmail.com
+      url: mailto:john.h.marshall04@gmail.com
     - label: "214 641 9872"
       icon: "fas fa-mobile-alt"
       url: "tel:+12146419872"
