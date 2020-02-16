@@ -1,6 +1,6 @@
 ---
-permalink: /about/
-title: "About"
+permalink: /about2/
+title: "About2"
 header:
   overlay_color: "#000"
   overlay_filter: "0.4"
