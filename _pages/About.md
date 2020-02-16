@@ -1,5 +1,5 @@
 ---
-permalink: /about/
+permalink: /About/
 title: "About"
 header:
   overlay_color: "#000"
