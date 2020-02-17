@@ -6,10 +6,10 @@ header:
   overlay_filter: "0.4"
   overlay_image: /assets/images/Splash.png
   actions:
-    - label: "Download"
+    - label: "Downloads"
       url: "https://github.com/mmistakes/minimal-mistakes/"
     
-excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
+excerpt: "Actor. Student. All around decent Human."
 
 ---
 {% include toc title="On this Page" %}
@@ -43,7 +43,7 @@ Decisive, creative, technology professional with extensive experience leading co
 | Eurydice | Father (Understudy) | [Haggard Middle School](https://sites.google.com/Pisd.edu/haggardtheatre) (Feb. 2016) |
 | Shrek The Musical Jr. | Captain of the Gaurd | [Haggard Middle School](https://sites.google.com/Pisd.edu/haggardtheatre) (Nov. 2015) |
 
-**Skills:** <a class="btn btn--primary">Innovation</a> [Innovation](){: .btn .btn--primary} [Leadership](){: .btn .btn--primary} [Problem Solving](){: .btn .btn--primary} [Collaboration](){: .btn .btn--primary} [Adaptability](){: .btn .btn--primary} [Critical Thinking](){: .btn .btn--primary} [Strong Work Ethic](){: .btn .btn--primary} [MS Flow](){: .btn .btn--primary} [ITIL](){: .btn .btn--primary} [MS Bot Framework](){: .btn .btn--primary} [LSS Yellow Belt](){: .btn .btn--primary} [Agile Development](){: .btn .btn--primary}
+** Special Skills:** <a class="btn btn--primary">Intermediate Spanish</a> <a class="btn btn--primary">Trombone</a> <a class="btn btn--primary">Types 100 WPM</a> <a class="btn btn--primary">Patrick Warburton Impression</a>
 
 ## Education & Experience
 
