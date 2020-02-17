@@ -64,13 +64,12 @@ Accomplished student, actor, and leader. Effective organizer who works comfortab
 * VHS Theatre Vice President
 
 **Theatrical Training**:
-
 | Acting | PSHS Theatre Production  III & IV (Ballard) 2018-2020 |
-| Voice| | [Feledichuk Music Studio](https://feledichuk.musicteachershelper.com/Introduction) June 2019-Present |
+| Voice | [Feledichuk Music Studio](https://feledichuk.musicteachershelper.com/Introduction) June 2019-Present |
 | Voice | PSHS Musical Theatre  I & II (Lozana/Ballard/Newby) 2018-2020 |
 | Acting | [Texas Thespians Festival](https://www.texasthespians.org/) 2017 and 2018 |
 | Acting | VHS Theatre Production  I & II (Miller) 2016-2018 |
-| Actig | PISD CenterStage Summer 2017 |
+| Acting | PISD CenterStage Summer (Price) 2017 |
 | Dance | Jazz/Ballet PISD CenterStage (Lozano/Hefty) Summer 2017 |
 | Stage Combat | PISD CenterStage (Stewart/Aarp) Summer 2017 |
 
