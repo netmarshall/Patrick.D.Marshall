@@ -18,7 +18,7 @@ Accomplished student, actor, and leader. Effective organizer who works comfortab
 ## Performances
 
 | Eurydice | Father | [Plano Senior High School](https://www.pshstheatre.com/about) March 2020 |
-| Chicago | Alvin Lipschitz \| Announcer \| <br>Jury \| Ensemble | [Plano Senior High School](https://www.pshstheatre.com/about) (Jan. 2020 ) |
+| Chicago | Alvin Lipschitz \| Announcer \| <br>Jury \| Ensemble | [Plano Senior High School](https://www.pshstheatre.com/about) Jan. 2020 |
 | Macabaret Night | Gomez Addams \| Ensemble | [Plano Senior High School](https://www.pshstheatre.com/about) Oct. 2019 |
 | Wendy & Peter Pan | George Darling | [Plano Senior High School](https://www.pshstheatre.com/about) Oct. 2019 |
 | Violet Sharp | Harry Walsh | [Centerstage](https://www.pisd.edu/Page/19755) (July 2019) |
@@ -30,10 +30,10 @@ Accomplished student, actor, and leader. Effective organizer who works comfortab
 | The Diviners | Basil Bennett  | [Centerstage](https://www.pisd.edu/Page/19755) June 2018 |
 | Coffee House (Frozen) | Kristoff \| Hans| [Vines High School](https://www.pisd.edu/Page/15110#calendar72951/20200216/month) May 2018 |
 | The Shakespeare Project | Petruchio | [Vines High School](https://www.pisd.edu/Page/15110#calendar72951/20200216/month) April 2018 |
-| On Having Good Fortune and Other Worthwhile Things | Director | [Vines High School](https://www.pisd.edu/Page/15110#calendar72951/20200216/month) Feb. 2018 |
+| On Having Good Fortune and <br>Other Worthwhile Things | Director | [Vines High School](https://www.pisd.edu/Page/15110#calendar72951/20200216/month) Feb. 2018 |
 | Coffee House (Little Mermaid) | Arial | [Vines High School](https://www.pisd.edu/Page/15110#calendar72951/20200216/month) Dec. 2017 |
 | The Secret Life of Madame Defarge | Ernest Defarge | [Vines High School](https://www.pisd.edu/Page/15110#calendar72951/20200216/month) Nov. 2017 |
-| Too Much Light Makes The Baby Go Blind | Himself | [Vines High School](https://www.pisd.edu/Page/15110#calendar72951/20200216/month) Sept. 2017 |
+| Too Much Light Makes <br>The Baby Go Blind | Himself | [Vines High School](https://www.pisd.edu/Page/15110#calendar72951/20200216/month) Sept. 2017 |
 | Oh, the Humanity | Man | [Centerstage](https://www.pisd.edu/Page/19755) July 2017 |
 | Lend Me a Tenor | Max | [Vines High School](https://www.pisd.edu/Page/15110#calendar72951/20200216/month) May 2017 |
 | The Drowsy Chaperone | Ensemble  | [Vines High School](https://www.pisd.edu/Page/15110#calendar72951/20200216/month) Feb. 2017 |
