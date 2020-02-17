@@ -10,16 +10,16 @@ header:
       url: "https://github.com/mmistakes/minimal-mistakes/"
 excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
 gallery:
-  - url: /assets/images/Chicago-banner.png
-    image_path: /assets/images/Chicago-banner.png
+  - url: /assets/images/Chicago-banner.jpg
+    image_path: /assets/images/Chicago-banner.jpg
     alt: "Chicago"
     title: "Chicago - Plano Senior High School"
-  - url: /assets/images/Macabaret-banner.png
-    image_path: /assets/images/Macabaret-banner.png
+  - url: /assets/images/Macabaret-banner.jpg
+    image_path: /assets/images/Macabaret-banner.jpg
     alt: "Macabaret"
     title: "Macabaret - Plano Senior High School"
-  - url: /assets/images/Wendy-and-Peter-Pan-banner.png
-    image_path: /assets/images/Wendy-and-Peter-Pan-banner.png
+  - url: /assets/images/Wendy-and-Peter-Pan-banner.jpg
+    image_path: /assets/images/Wendy-and-Peter-Pan-banner.jpg
     alt: "Wendy and Peter Pan"
     title: "Wendy and Peter Pan - Plano Senior High School"
 ---
