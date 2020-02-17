@@ -14,12 +14,12 @@ gallery:
     image_path: /assets/images/Chicago-banner.jpg
     alt: "Chicago"
     title: "Chicago - Plano Senior High School"
-  - url: /assets/images/Macabaret-banner.jpg
-    image_path: /assets/images/Macabaret-banner.jpg
+  - url: /assets/images/Macabaret Poster.jpg
+    image_path: /assets/images/Macabaret Poster.jpg
     alt: "Macabaret"
     title: "Macabaret - Plano Senior High School"
-  - url: /assets/images/Wendy-and-Peter-Pan-banner.jpg
-    image_path: /assets/images/Wendy-and-Peter-Pan-banner.jpg
+  - url: /assets/images/Wendy-and-Peter-Pan.jpg
+    image_path: /assets/images/Wendy-and-Peter-Pan.jpg
     alt: "Wendy and Peter Pan"
     title: "Wendy and Peter Pan - Plano Senior High School"
 ---
