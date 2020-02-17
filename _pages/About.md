@@ -21,20 +21,20 @@ Accomplished student, actor, and leader. Effective organizer who works comfortab
 | Chicago | Alvin Lipschitz \| Announcer \| Jury \| Ensemble | [Plano Senior High School](https://www.pshstheatre.com/about) (Jan. 2020 ) |
 | Macabaret Night | Gomez Addams \| Ensemble | [Plano Senior High School](https://www.pshstheatre.com/about) (Oct. 2019 ) |
 | Wendy & Peter Pan | George Darling | [Plano Senior High School](https://www.pshstheatre.com/about) (Oct. 2019) |
-| Violet Sharp | Harry Walsh | [Centerstage](https://www.centerstageyouththeatre.org/) (July 2019) |
+| Violet Sharp | Harry Walsh | [Centerstage](https://www.pisd.edu/Page/19755) (July 2019) |
 | Bright Ideas | Joshua Bradley | [Plano Senior High School](https://www.pshstheatre.com/about) (April 2019) |
 | These Shining Lives | Tom Donohue | [Plano Senior High School](https://www.pshstheatre.com/about) (March 2019) |
 | Mamma Mia | Ensemble | [Plano Senior High School](https://www.pshstheatre.com/about) (Jan. 2019) |
 | Cabaret Night| Evan Hansen \| Ensemble | [Plano Senior High School](https://www.pshstheatre.com/about) (Nov. 2018) |
 | Almost, Maine | East | [Plano Senior High School](https://www.pshstheatre.com/about) (Oct. 2018) |
-| The Diviners | Basil Bennett  | [Centerstage](https://www.centerstageyouththeatre.org/) (June 2018) |
+| The Diviners | Basil Bennett  | [Centerstage](https://www.pisd.edu/Page/19755) (June 2018) |
 | Coffee House (Frozen) | Kristoff \| Hans| [Vines High School](https://www.pisd.edu/Page/15110#calendar72951/20200216/month) (May 2018) |
 | The Shakespeare Project | Petruchio | [Vines High School](https://www.pisd.edu/Page/15110#calendar72951/20200216/month) (April 2018) |
 | On Having Good Fortune and Other Worthwhile Things | Director | [Vines High School](https://www.pisd.edu/Page/15110#calendar72951/20200216/month) (Feb. 2018) |
 | Coffee House (Little Mermaid) | Arial | [Vines High School](https://www.pisd.edu/Page/15110#calendar72951/20200216/month) (Dec. 2017) |
 | The Secret Life of Madame Defarge | Ernest Defarge | [Vines High School](https://www.pisd.edu/Page/15110#calendar72951/20200216/month) (Nov. 2017) |
 | Too Much Light Makes The Baby Go Blind | Himself | [Vines High School](https://www.pisd.edu/Page/15110#calendar72951/20200216/month) (Sept. 2017) |
-| Oh, the Humanity | Man | [Centerstage](https://www.centerstageyouththeatre.org/) (July 2017) |
+| Oh, the Humanity | Man | [Centerstage](https://www.pisd.edu/Page/19755) (July 2017) |
 | Lend Me a Tenor | Max | [Vines High School](https://www.pisd.edu/Page/15110#calendar72951/20200216/month) (May 2017) |
 | The Drowsy Chaperone | Ensemble  | [Vines High School](https://www.pisd.edu/Page/15110#calendar72951/20200216/month) (Feb. 2017) |
 | Coffee House (Lion King) | Mustafah | [Vines High School](https://www.pisd.edu/Page/15110#calendar72951/20200216/month) (Dec. 2016 |
@@ -57,16 +57,28 @@ Accomplished student, actor, and leader. Effective organizer who works comfortab
 * District Level UIL Award for Best Actor (These Shining Lives)
 * International Thespian Society Member (9th-12th grade)
 
-**Vines High School (VHS)**: 
+**Vines High School (VHS)**: 2016-2018
 * Academic Excellence Award
 * Outstanding Citizenship Award
 * VHS Speech and Debate President
 * VHS Theatre Vice President
 
+**Theatrical Training**:
+
+| Acting | PSHS Theatre Production  III & IV (Ballard) 2018-2020 |
+| Voice| | MeLisa Feledichuk's Music Studio (https://feledichuk.musicteachershelper.com/Introduction) June 2019-Present |
+| Voice | PSHS Musical Theatre  I & II (Lozana/Ballard/Newby) 2018-2020 |
+| Acting | [Texas Thespians Festival](https://www.texasthespians.org/) 2017 and 2018 |
+| Acting | VHS Theatre Production  I & II (Miller) 2016-2018 |
+| Actig | PISD CenterStage Summer 2017 |
+| Dance | Jazz/Ballet PISD CenterStage (Lozano/Hefty) Summer 2017 |
+| Stage Combat | PISD CenterStage (Stewart/Aarp) Summer 2017 |
+
+
 ## Awards & Honors
-* Accpeted to the University of Texas Arlington Honors College with Presidential Honors Scholarship
-* UIL Best Actor
-* ITS President
+* Accepeted to the University of Texas Arlington Honors College with Presidential Honors Scholarship
+* UIL Best Actor (2019)
+
 
 
 
