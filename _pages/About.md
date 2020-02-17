@@ -64,6 +64,7 @@ Accomplished student, actor, and leader. Effective organizer who works comfortab
 * VHS Theatre Vice President
 
 **Theatrical Training**:
+
 | Acting | PSHS Theatre Production  III & IV (Ballard) 2018-2020 |
 | Voice | [Feledichuk Music Studio](https://feledichuk.musicteachershelper.com/Introduction) June 2019-Present |
 | Voice | PSHS Musical Theatre  I & II (Lozana/Ballard/Newby) 2018-2020 |
