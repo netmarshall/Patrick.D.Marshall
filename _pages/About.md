@@ -43,7 +43,7 @@ Decisive, creative, technology professional with extensive experience leading co
 | Eurydice | Father (Understudy) | [Haggard Middle School](https://sites.google.com/Pisd.edu/haggardtheatre) (Feb. 2016) |
 | Shrek The Musical Jr. | Captain of the Gaurd | [Haggard Middle School](https://sites.google.com/Pisd.edu/haggardtheatre) (Nov. 2015) |
 
-**Skills:** [Innovation](){: .btn .btn--primary} [Leadership](){: .btn .btn--primary} [Problem Solving](){: .btn .btn--primary} [Collaboration](){: .btn .btn--primary} [Adaptability](){: .btn .btn--primary} [Critical Thinking](){: .btn .btn--primary} [Strong Work Ethic](){: .btn .btn--primary} [MS Flow](){: .btn .btn--primary} [ITIL](){: .btn .btn--primary} [MS Bot Framework](){: .btn .btn--primary} [LSS Yellow Belt](){: .btn .btn--primary} [Agile Development](){: .btn .btn--primary}
+**Skills:** <a class="btn btn--primary">Innovation</a> [Innovation](){: .btn .btn--primary} [Leadership](){: .btn .btn--primary} [Problem Solving](){: .btn .btn--primary} [Collaboration](){: .btn .btn--primary} [Adaptability](){: .btn .btn--primary} [Critical Thinking](){: .btn .btn--primary} [Strong Work Ethic](){: .btn .btn--primary} [MS Flow](){: .btn .btn--primary} [ITIL](){: .btn .btn--primary} [MS Bot Framework](){: .btn .btn--primary} [LSS Yellow Belt](){: .btn .btn--primary} [Agile Development](){: .btn .btn--primary}
 
 ## Education & Experience
 
