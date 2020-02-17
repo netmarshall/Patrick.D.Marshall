@@ -81,7 +81,7 @@ Managed state sized sales territory for nationally renowned diagnostic testing c
 **Fort Benning, Georgia (1990)**
 *	Jumped out of a perfectly good airplane
 
-| Eurydice | Father | Plano Senior High School (March 2020 |
+| Eurydice | Father | March 2020 [Plano Senior High School](https://www.pshstheatre.com/about) |
 | Chicago | Alvin Lipschitz \| Announcer \| Jury \| Ensemble | Jan. 2020 [Plano Senior High School](https://www.pshstheatre.com/about) |
 | Macabaret Night | Gomez Addams \| Ensemble | Oct. 2019 [Plano Senior High School](https://www.pshstheatre.com/about) |
 | Wendy & Peter Pan | George Darling | Oct. 2019 [Plano Senior High School](https://www.pshstheatre.com/about) |
