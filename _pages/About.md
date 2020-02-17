@@ -81,10 +81,10 @@ Managed state sized sales territory for nationally renowned diagnostic testing c
 **Fort Benning, Georgia (1990)**
 *	Jumped out of a perfectly good airplane
 
-| Eurydice | Father | March 2020 [Plano Senior High School](https://www.pshstheatre.com/about) |
-| Chicago | Alvin Lipschitz \| Announcer \| Jury \| Ensemble | Jan. 2020 [Plano Senior High School](https://www.pshstheatre.com/about) |
-| Macabaret Night | Gomez Addams \| Ensemble | Oct. 2019 [Plano Senior High School](https://www.pshstheatre.com/about) |
-| Wendy & Peter Pan | George Darling | Oct. 2019 [Plano Senior High School](https://www.pshstheatre.com/about) |
+| Eurydice | Father | [Plano Senior High School](https://www.pshstheatre.com/about) (March 2020) |
+| Chicago | Alvin Lipschitz \| Announcer \| Jury \| Ensemble | [Plano Senior High School](https://www.pshstheatre.com/about) (Jan. 2020 ) |
+| Macabaret Night | Gomez Addams \| Ensemble | [Plano Senior High School](https://www.pshstheatre.com/about) (Oct. 2019 ) |
+| Wendy & Peter Pan | George Darling | [Plano Senior High School](https://www.pshstheatre.com/about) (Oct. 2019) |
 | Violet Sharp | Harry Walsh | [Centerstage](https://www.centerstageyouththeatre.org/) (July 2019) |
 | Bright Ideas | Joshua Bradley | [Plano Senior High School](https://www.pshstheatre.com/about) (April 2019) |
 | These Shining Lives | Tom Donohue | [Plano Senior High School](https://www.pshstheatre.com/about) (March 2019) |
@@ -92,9 +92,9 @@ Managed state sized sales territory for nationally renowned diagnostic testing c
 | Cabaret Night| Evan Hansen \| Ensemble | [Plano Senior High School](https://www.pshstheatre.com/about) (Nov. 2018) |
 | Almost, Maine | East | [Plano Senior High School](https://www.pshstheatre.com/about) (Oct. 2018) |
 | The Diviners | Basil Bennett  | [Centerstage](https://www.centerstageyouththeatre.org/) (June 2018) |
-| Coffee House Cabaret - Frozen (A One Act Play in 5 minutes) | Krstoff \| Hans| [Vines High School](https://www.pisd.edu/Page/15110#calendar72951/20200216/month) (May 2018) |
+| Coffee House Cabaret | Kristoff \| Hans| [Vines High School](https://www.pisd.edu/Page/15110#calendar72951/20200216/month) (May 2018) |
 | The Shakespeare Project | Petruchio | [Vines High School](https://www.pisd.edu/Page/15110#calendar72951/20200216/month) (April 2018) |
-| On Having Good Fortune and Other Worthwhile Things (Student Direct) | Director | [Vines High School](https://www.pisd.edu/Page/15110#calendar72951/20200216/month) (Feb. 2018) |
+| On Having Good Fortune and Other Worthwhile Things | Director | [Vines High School](https://www.pisd.edu/Page/15110#calendar72951/20200216/month) (Feb. 2018) |
 | The Secret Life of Madame Defarge | Ernest Defarge | [Vines High School](https://www.pisd.edu/Page/15110#calendar72951/20200216/month) (Nov. 2017) |
 | Too Much Light Makes The Baby Go Blind | Himself | [Vines High School](https://www.pisd.edu/Page/15110#calendar72951/20200216/month) (Sept. 2017) |
 | Oh, the Humanity | Man | [Centerstage](https://www.centerstageyouththeatre.org/) (July 2017) |
