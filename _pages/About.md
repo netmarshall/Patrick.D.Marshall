@@ -21,7 +21,7 @@ Accomplished student, actor, and leader. Effective organizer who works comfortab
 | Chicago | Alvin Lipschitz \| Announcer \| <br>Jury \| Ensemble | [Plano Senior High School](https://www.pshstheatre.com/about) Jan. 2020 |
 | Macabaret Night | Gomez Addams \| Ensemble | [Plano Senior High School](https://www.pshstheatre.com/about) Oct. 2019 |
 | Wendy & Peter Pan | George Darling | [Plano Senior High School](https://www.pshstheatre.com/about) Oct. 2019 |
-| Violet Sharp | Harry Walsh | [Centerstage](https://www.pisd.edu/Page/19755) (July 2019) |
+| Violet Sharp | Harry Walsh | [Centerstage](https://www.pisd.edu/Page/19755) July 2019 |
 | Bright Ideas | Joshua Bradley | [Plano Senior High School](https://www.pshstheatre.com/about) April 2019 |
 | These Shining Lives | Tom Donohue | [Plano Senior High School](https://www.pshstheatre.com/about) March 2019 |
 | Mamma Mia | Ensemble | [Plano Senior High School](https://www.pshstheatre.com/about) Jan. 2019 |
