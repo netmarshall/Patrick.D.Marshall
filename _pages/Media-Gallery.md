@@ -1,6 +1,6 @@
 ---
-permalink: /filmography/
-title: "Filmography"
+permalink: /gallery/
+title: "Media Gallery"
 header:
   overlay_color: "#000"
   overlay_filter: "0.4"
@@ -24,12 +24,61 @@ gallery:
     title: "Wendy and Peter Pan - Plano Senior High School"
 ---
 {% include toc title="On this Page" %}
-Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop
 
+# Media Gallery 
+Scroll through the Media Gallery for additional details on productions, cast and crew photos, and select videos.
 
-
-## Video Gallery 1
-
-
-### Shows
 {% include gallery id="gallery" %}
+
+## Eurydice
+Coming March 2020!
+
+## Chicago
+
+## Macabaret Night
+
+## Wendy and Peter Pan
+
+## Violet Sharp
+
+## Bright Ideas
+
+## These Shining Lives
+
+## Mamma Mia
+
+## Cabaret Night 
+
+## Almost Main
+
+## The Diviners
+
+## Coffee House (Frozen)
+
+## The Shakespeare Project
+
+## On Having Good Fortune and Other Worthwhile Things
+
+## Coffee House (Little Mermaid)
+
+## The Secret Life of Maddame Defarge
+
+## Too Much Light Makes the Baby Go Blind
+
+## Oh, the Humanity
+
+## Lend Me a Tenor
+
+## The Drowsey Chaperone
+
+## Coffee House (Lion King)
+
+## Front
+
+## subText
+
+## Eurydice
+
+## Shrek the Musical Jr. 
+
+
