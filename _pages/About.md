@@ -43,6 +43,7 @@ Decisive, creative, technology professional with extensive experience leading co
 | Eurydice | Father (Understudy) | [Haggard Middle School](https://sites.google.com/Pisd.edu/haggardtheatre) (Feb. 2016) |
 | Shrek The Musical Jr. | Captain of the Gaurd | [Haggard Middle School](https://sites.google.com/Pisd.edu/haggardtheatre) (Nov. 2015) |
 
+**Skills:** [Innovation](){: .btn .btn--primary} [Leadership](){: .btn .btn--primary} [Problem Solving](){: .btn .btn--primary} [Collaboration](){: .btn .btn--primary} [Adaptability](){: .btn .btn--primary} [Critical Thinking](){: .btn .btn--primary} [Strong Work Ethic](){: .btn .btn--primary} [MS Flow](){: .btn .btn--primary} [ITIL](){: .btn .btn--primary} [MS Bot Framework](){: .btn .btn--primary} [LSS Yellow Belt](){: .btn .btn--primary} [Agile Development](){: .btn .btn--primary}
 
 ## Education & Experience
 
@@ -54,5 +55,9 @@ Product Owner for DXC's "Front Door" single point of entry for global solutionin
 * *"From the redesign of the Front Door catalog, the new Enhanced dashboard, and now the implementation of the BOTs, Patrick has been a thought leader from the beginning. Nothing is impossible to Patrick. I am happy to have him on the team!"* - **Scrum Master**
 * *"Patrick had a very strong year in his role as product owner for Front Door and Sales Information Center. He enthusiastically embraced the use of bots to automate tasks previously done by analysts, greatly enhancing his digital skills and experience with digital tools."* - **Direct Leader**
 
-**Skills:** [Innovation](){: .btn .btn--primary} [Leadership](){: .btn .btn--primary} [Problem Solving](){: .btn .btn--primary} [Collaboration](){: .btn .btn--primary} [Adaptability](){: .btn .btn--primary} [Critical Thinking](){: .btn .btn--primary} [Strong Work Ethic](){: .btn .btn--primary} [MS Flow](){: .btn .btn--primary} [ITIL](){: .btn .btn--primary} [MS Bot Framework](){: .btn .btn--primary} [LSS Yellow Belt](){: .btn .btn--primary} [Agile Development](){: .btn .btn--primary}
+## Awards & Honors
+* Accpeted to the University of Texas Arlington Honors College with Presidential Honors Scholarship
+* UIL Best Actor* ITS President
+* etc.
+
 
