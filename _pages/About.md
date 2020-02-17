@@ -43,8 +43,7 @@ Accomplished student, actor, and leader. Effective organizer who works comfortab
 | Eurydice | Father (Understudy) | [Haggard Middle School](https://sites.google.com/Pisd.edu/haggardtheatre) (Feb. 2016) |
 | Shrek The Musical Jr. | Captain of the Gaurd | [Haggard Middle School](https://sites.google.com/Pisd.edu/haggardtheatre) (Nov. 2015) |
 
-** Special Skills:** 
-<a class="btn btn--primary">Intermediate Spanish</a> <a class="btn btn--primary">Trombone</a> <a class="btn btn--primary">Types 100 WPM</a> <a class="btn btn--primary">Patrick Warburton Impression</a>
+**Special Skills**: <a class="btn btn--primary">Intermediate Spanish</a> <a class="btn btn--primary">Trombone</a> <a class="btn btn--primary">Types 100 WPM</a> <a class="btn btn--primary">Patrick Warburton Impression</a>
 
 ## Education & Experience
 
