@@ -71,16 +71,16 @@ author:
     - label: "214 886 7791"
       icon: "fas fa-mobile-alt"
       url: "tel:+12148867791"
+    - label: "Send a text"  
+      icon: "fas fa-comment-alt"
+      url: "sms:+12146419872"
     - label: "Plano, TX"
       icon: "fas fa-map-marker-alt"
       url: "https://www.google.com/maps/search/?api=1&query=Plano%2C+Plano%2C+TX%2C+us&query_place_id=ChIJE5XFE9ohTIYRK2DNiWQDqmI"
     - label: "Twitter"
       icon: "fab fa-twitter"
       url: "https://twitter.com/John_HMarshall"
-    - label: "Instagram"
-      icon: "fab fa-instagram"
-      url: "https://www.instagram.com/johnhmarshall/
-      
+   
 
 footer:
   links:
