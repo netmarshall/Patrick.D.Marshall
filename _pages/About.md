@@ -13,7 +13,7 @@ excerpt: "Actor. Student. All around decent Human."
 
 ---
 {% include toc title="On this Page" %}
-Decisive, creative, technology professional with extensive experience leading complex business analysis, strategic sourcing, and business development programs. Effective organizer who works comfortably under pressure and readily assumes additional responsibilities. Proven track record of delivering positive results by leveraging a unique blend of leadership, relationship building, technology innovation, and communication skills.
+Accomplished student, actor, and leader. Effective organizer who works comfortably under pressure and readily assumes additional responsibilities. Proven track record of delivering positive results by leveraging a unique blend of leadership, relationship building, innovation, and communication skills.
 
 ## Performances
 
@@ -43,21 +43,30 @@ Decisive, creative, technology professional with extensive experience leading co
 | Eurydice | Father (Understudy) | [Haggard Middle School](https://sites.google.com/Pisd.edu/haggardtheatre) (Feb. 2016) |
 | Shrek The Musical Jr. | Captain of the Gaurd | [Haggard Middle School](https://sites.google.com/Pisd.edu/haggardtheatre) (Nov. 2015) |
 
-** Special Skills:** <a class="btn btn--primary">Intermediate Spanish</a> <a class="btn btn--primary">Trombone</a> <a class="btn btn--primary">Types 100 WPM</a> <a class="btn btn--primary">Patrick Warburton Impression</a>
+** Special Skills:** 
+<a class="btn btn--primary">Intermediate Spanish</a> <a class="btn btn--primary">Trombone</a> <a class="btn btn--primary">Types 100 WPM</a> <a class="btn btn--primary">Patrick Warburton Impression</a>
 
 ## Education & Experience
 
-Product Owner for DXC's "Front Door" single point of entry for global solutioning and sales support. Successfully transitioned to an Agile development model while deploying the first smart agent chatbot on DXC’s award winning sales portal. Current user, peer, and leader feedback: 
-* *“Guys, the bot is awesome! Just test drove it and works perfectly...Great work!”* – **Americas Offering Leader**
-* *“Good stuff! I am telling everyone about it -It’s a great piece of work -well done!”* – **Deployment Lead** 
-* *“Front Door assistant is wonderful."* – **Bid Manager US Public Sector**
-* *"Patrick has been a supreme champion of BOTs...He has grabbed a technical challenge and run with it, engaging suitable help from the China dev team and progressing like lightening!"* - **Chief Technologist** 
-* *"From the redesign of the Front Door catalog, the new Enhanced dashboard, and now the implementation of the BOTs, Patrick has been a thought leader from the beginning. Nothing is impossible to Patrick. I am happy to have him on the team!"* - **Scrum Master**
-* *"Patrick had a very strong year in his role as product owner for Front Door and Sales Information Center. He enthusiastically embraced the use of bots to automate tasks previously done by analysts, greatly enhancing his digital skills and experience with digital tools."* - **Direct Leader**
+**Plano Senior High School (PSHS)**: Senior at PSHS graduating in June 2020. 
+* National Merit Scholarship Program Letter of Commendation 
+* 98th Percentile on the Scholastic Apptitude Test (SAT): **1420** (710 verbal, and 710 Math)
+* GPA: **4.2** - Ranked #121 out of 1,303 (Top 7% of graduating class)
+* Seven Advanced Placement courses (4 completed exams) 
+* Elected by my peers as PSHS Theatre President for our Senior year 
+* District Level UIL Award for Best Actor (These Shining Lives)
+* International Thespian Society Member (9th-12th grade)
+
+**Vines High School (VHS)**: 
+* Academic Excellence Award
+* Outstanding Citizenship Award
+* VHS Speech and Debate President
+* VHS Theatre Vice President
 
 ## Awards & Honors
 * Accpeted to the University of Texas Arlington Honors College with Presidential Honors Scholarship
-* UIL Best Actor* ITS President
-* etc.
+* UIL Best Actor
+* ITS President
+
 
 
