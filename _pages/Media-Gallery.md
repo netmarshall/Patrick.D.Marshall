@@ -10,18 +10,16 @@ header:
       url: "https://netmarshall.github.io/John.H.Marshall/download/"
 excerpt: "Lights, Camera, Action! Enjoy the show!"
 gallery:
-  - url: /assets/images/Chicago-banner.jpg
-    image_path: /assets/images/Chicago-banner.jpg
-    alt: "Chicago"
-    title: "Chicago - Plano Senior High School"
-  - url: /assets/images/Macabaret Poster.jpg
-    image_path: /assets/images/Macabaret Poster.jpg
-    alt: "Macabaret"
-    title: "Macabaret - Plano Senior High School"
-  - url: /assets/images/Wendy-and-Peter-Pan.jpg
-    image_path: /assets/images/Wendy-and-Peter-Pan.jpg
-    alt: "Wendy and Peter Pan"
-    title: "Wendy and Peter Pan - Plano Senior High School"
+  - url: /assets/images/Almost-Maine1.jpg
+    image_path: /assets/images/Almost-Maine1.jpg
+    alt: "Almost, Maine"
+  - url: /assets/images/Almost-Maine2.jpg
+    image_path: /assets/images/Almost-Maine2.jpg
+    alt: "Almost, Maine"
+  - url: /assets/images/Almost-Maine2.jpg
+    image_path: /assets/images/Almost-Maine2.jpg
+    alt: "Almost, Maine"
+   
     
 feature_row:
   - image_path: /assets/images/Almost-Maine-PSHS.jpg
@@ -33,8 +31,6 @@ feature_row:
 
 # Media Gallery 
 Scroll through the Media Gallery for additional details on productions, cast and crew photos, and select videos.
-
-{% include gallery id="gallery" %}
 
 ## Eurydice
 Coming March 2020!
@@ -57,6 +53,8 @@ Coming March 2020!
 
 ## Almost, Main
 {% include feature_row type="left" %}
+
+{% include gallery id="gallery" %}
 
 {% include video id="295641795" provider="vimeo" %}
 
