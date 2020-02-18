@@ -1,5 +1,5 @@
 ---
-permalink: /thanks/
+permalink: thanks/
 title: "So Much Love!"
 header:
   overlay_color: "#000"
