@@ -27,7 +27,7 @@ feature_row:
   - image_path: /assets/images/Almost-Maine-PSHS.jpg
     alt: "Almost Maine"
     title: "Almost Maine"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "**Plano Senior High School**: Oct 18-20 2019 ,br>*Welcome to Almost, Maine, a town that’s so far north, it’s almost not in the United States—it’s almost in Canada. And it almost doesn’t exist. Because its residents never got around to getting organized. So it’s just…Almost..*<br>Featuring John Marshall as East"
 ---
 {% include toc title="On this Page" %}
 
