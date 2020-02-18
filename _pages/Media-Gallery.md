@@ -25,7 +25,7 @@ feature_row:
   - image_path: /assets/images/Almost-Maine-PSHS.jpg
     alt: "Almost, Maine"
     title: "Almost, Maine"
-    excerpt: "**Plano Senior High School**: Oct 18-20, 2019 <br><br>*Welcome to Almost, Maine, a town that’s so far north, it’s almost not in the United States—it’s almost in Canada. And it almost doesn’t exist. Because its residents never got around to getting organized. So it’s just…Almost..*<br><br>**ALMOST, MAINE**: It’s love. But not quite. <br><br>Featuring John Marshall as **East**"
+    excerpt: "**Plano Senior High School**: Oct 18-20, 2019 <br>*Welcome to Almost, Maine, a town that’s so far north, it’s almost not in the United States-it’s almost in Canada. And it almost doesn’t exist. Because its residents never got around to getting organized. So it’s just…Almost..*<br><br>**ALMOST, MAINE**: It’s love. But not quite. <br>Featuring John Marshall as **East**"
 ---
 # Media Gallery 
 Scroll through the Media Gallery for additional details on productions, cast and crew photos (click to expand images), and select videos.
