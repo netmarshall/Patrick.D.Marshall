@@ -6,9 +6,9 @@ header:
   overlay_filter: "0.4"
   overlay_image: /assets/images/Splash.png
   actions:
-    - label: "Download"
-      url: "https://github.com/mmistakes/minimal-mistakes/"
-excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
+    - label: "Downloads"
+      url: "https://netmarshall.github.io/John.H.Marshall/download/"
+excerpt: "Lights, Camera, Action! Enjoy the show!"
 gallery:
   - url: /assets/images/Chicago-banner.jpg
     image_path: /assets/images/Chicago-banner.jpg
