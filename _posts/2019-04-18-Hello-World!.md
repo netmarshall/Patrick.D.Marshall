@@ -1,14 +1,14 @@
 ---
-title: "Welcome to Jekyll!"
-date: 2019-04-18T15:34:30-04:00
+title: "Hello World!"
+date: 2020-02-18T15:34:30-04:00
 categories:
   - blog
 tags:
-  - Jekyll
-  - update
+  - first
+  
 ---
 
-You'll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+"Hello World" may be a cliche, but with the finish line for high school in sight, and college on the near horizan, it seems pretty on point. This blog is still on training wheels, so I will leave the template content below...I'm still learning GitHub and how to use this awesome Minimal Mistakes theme, so I may actually need it!
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
