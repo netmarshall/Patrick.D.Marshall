@@ -75,7 +75,7 @@ Accomplished student, actor, and leader. Effective organizer who works comfortab
 
 
 ## Awards & Honors
-* Accepeted to the University of Texas Arlington Honors College with Presidential Honors Scholarship
+* Accepted to the University of Texas Arlington Honors College with Presidential Honors Scholarship
 * UIL Best Actor (2019)
 
 
