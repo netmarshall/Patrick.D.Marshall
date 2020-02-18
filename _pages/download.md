@@ -1,5 +1,5 @@
 ---
-permalink: /download/
+permalink: /downloads/
 title: "Downloads"
 header:
   overlay_color: "#000"
