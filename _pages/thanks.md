@@ -11,4 +11,3 @@ excerpt: "I get by with a LOT of help from my friends <br>and mentors, and famil
 ---
 ## Mad love for these peeps!
 Coming soon!
-
