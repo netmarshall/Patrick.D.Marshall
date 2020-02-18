@@ -43,9 +43,7 @@ Scroll through the Media Gallery for additional details on productions, cast and
 Coming March 2020!
 
 ## Chicago
-![Chicago]({{ "/assets/images/Chicago-PSHS.jpg" | relative_url }}){: .align-left}{:height="35%" width="35%"} | **Plano Senior High School**: Jan. 30-Feb. 1, 2020 | 
-| *With the right song and dance, you can get away with murder. In a city where everyone loves a legend, there's only room for one. ... If You Can't Be Famous, Be Infamous.* | 
-| Featuring John Marshall as **Alvin Lipschitz; Announcer; Jury; and Ensemble**|
+| ![Chicago]({{ "/assets/images/Chicago-PSHS.jpg" | relative_url }}){: .align-left}{:height="35%" width="35%"} | **Plano Senior High School**: Jan. 30-Feb. 1, 2020 <br>*With the right song and dance, you can get away with murder. In a city where everyone loves a legend, there's only room for one. ... If You Can't Be Famous, Be Infamous.* <br>Featuring John Marshall as **Alvin Lipschitz; Announcer; Jury; and Ensemble**|
 
 {% include video id="VSZk2NPFaG8" provider="youtube" %}
 
