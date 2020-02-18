@@ -22,11 +22,11 @@ gallery:
     alt: "Almost, Maine"
    
 intro:   
- - excerpt: "**Plano Senior High School**: Jan. 31-Feb. 2, 2020<br><br>*With the right song and dance, you can get away with murder. In a city where everyone loves a legend, there's only room for one. ... If You Can't Be Famous, Be Infamous.*<br><br>Featuring John Marshall as **Alvin Lipschitz; Announcer; Jury; and Ensemble**"
+ - excerpt: "# Media Gallery <br>Scroll through the Media Gallery for additional details on productions, cast and crew photos (click to expand images), and select videos."
 feature_row:
   - image_path: /assets/images/Chicago-PSHS.jpg
     alt: "Chicago"
-    excerpt: "**Plano Senior High School**: Jan. 31-Feb. 2, 2020<br><br>*With the right song and dance, you can get away with murder. In a city where everyone loves a legend, there's only room for one. ... If You Can't Be Famous, Be Infamous.*<br><br>Featuring John Marshall as **Alvin Lipschitz; Announcer; Jury; and Ensemble**"
+    excerpt: "**Plano Senior High School**: Jan. 30-Feb. 1, 2020<br><br>*With the right song and dance, you can get away with murder. In a city where everyone loves a legend, there's only room for one. ... If You Can't Be Famous, Be Infamous.*<br><br>Featuring John Marshall as **Alvin Lipschitz; Announcer; Jury; and Ensemble**"
 feature_row9:
   - image_path: /assets/images/Almost-Maine-PSHS.jpg
     alt: "Almost, Maine"
