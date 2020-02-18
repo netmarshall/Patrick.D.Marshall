@@ -23,7 +23,7 @@ gallery:
     alt: "Wendy and Peter Pan"
     title: "Wendy and Peter Pan - Plano Senior High School"
     
-feature_row9:
+feature_row:
   - image_path: /assets/images/Almost-Maine-PSHS.jpg
     alt: "Almost Maine"
     title: "Almost Maine"
@@ -56,7 +56,7 @@ Coming March 2020!
 ## Cabaret Night 
 
 ## Almost Main
-{% include feature_row id="row9" type="left" %}
+{% include feature_row type="left" %}
 
 {% include video id="295641795" provider="vimeo" %}
 
