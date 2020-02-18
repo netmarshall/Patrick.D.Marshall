@@ -21,16 +21,17 @@ gallery:
     image_path: /assets/images/Almost-Maine3.jpg
     alt: "Almost, Maine"
    
-    
+intro:   
+ - excerpt: "**Plano Senior High School**: Jan. 31-Feb. 2, 2020<br><br>*With the right song and dance, you can get away with murder. In a city where everyone loves a legend, there's only room for one. ... If You Can't Be Famous, Be Infamous.*<br><br>Featuring John Marshall as **Alvin Lipschitz; Announcer; Jury; and Ensemble**"
 feature_row:
+  - image_path: /assets/images/Chicago-PSHS.jpg
+    alt: "Chicago"
+    excerpt: "**Plano Senior High School**: Jan. 31-Feb. 2, 2020<br><br>*With the right song and dance, you can get away with murder. In a city where everyone loves a legend, there's only room for one. ... If You Can't Be Famous, Be Infamous.*<br><br>Featuring John Marshall as **Alvin Lipschitz; Announcer; Jury; and Ensemble**"
+feature_row9:
   - image_path: /assets/images/Almost-Maine-PSHS.jpg
     alt: "Almost, Maine"
     excerpt: "**Plano Senior High School**: Oct 18-20, 2019<br><br>*Welcome to Almost, Maine, a town that’s so far north, it’s almost not in the United States-it’s almost in Canada. And it almost doesn’t exist. Because its residents never got around to getting organized. So it’s just…Almost..*<br><br>**ALMOST, MAINE**: It’s love. But not quite.<br><br>Featuring John Marshall as **East**"
 
-feature_row2:
-  - image_path: /assets/images/Chicago-PSHS.jpg
-    alt: "Chicago"
-    excerpt: "**Plano Senior High School**: Jan. 31-Feb. 2, 2020<br><br>*With the right song and dance, you can get away with murder. In a city where everyone loves a legend, there's only room for one. ... If You Can't Be Famous, Be Infamous.*<br><br>Featuring John Marshall as **Alvin Lipschitz; Announcer; Jury; and Ensemble**"
 
 ---
 # Media Gallery 
@@ -40,7 +41,7 @@ Scroll through the Media Gallery for additional details on productions, cast and
 Coming March 2020!
 
 ## Chicago
-{% include feature_row id="row2" type="left" %}
+{% include feature_row type="left" %}
 
 ## Macabaret Night
 
@@ -57,7 +58,7 @@ Coming March 2020!
 ## Cabaret Night 
 
 ## Almost, Main
-{% include feature_row type="left" %}
+{% include feature_row id="feature_row9" type="left" %}
 {% include gallery id="gallery" %}
 {% include video id="295641795" provider="vimeo" %}
 
