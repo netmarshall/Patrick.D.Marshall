@@ -25,8 +25,8 @@ gallery:
     
 feature_row:
   - image_path: /assets/images/Almost-Maine-PSHS.jpg
-    alt: "Almost Maine"
-    title: "Almost Maine"
+    alt: "Almost, Maine"
+    title: "Almost, Maine"
     excerpt: "**Plano Senior High School**: Oct 18-20, 2019 <br><br>*Welcome to Almost, Maine, a town that’s so far north, it’s almost not in the United States—it’s almost in Canada. And it almost doesn’t exist. Because its residents never got around to getting organized. So it’s just…Almost..*<br><br>*One cold, clear Friday night in the middle of winter, while the northern lights hover in the sky above, Almost’s residents find themselves falling in and out of love in the strangest ways. Knees are bruised. Hearts are broken. Love is lost, found, and confounded. And life for the people of Almost, Maine will never be the same.*<br><br>**ALMOST, MAINE**: It’s love. But not quite. <br><br>Featuring John Marshall as **East**"
 ---
 {% include toc title="On this Page" %}
@@ -55,7 +55,7 @@ Coming March 2020!
 
 ## Cabaret Night 
 
-## Almost Main
+## Almost, Main
 {% include feature_row type="left" %}
 
 {% include video id="295641795" provider="vimeo" %}
