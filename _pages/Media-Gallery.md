@@ -31,7 +31,10 @@ feature_row9:
   - image_path: /assets/images/Almost-Maine-PSHS.jpg
     alt: "Almost, Maine"
     excerpt: "**Plano Senior High School**: Oct 18-20, 2019<br><br>*Welcome to Almost, Maine, a town that’s so far north, it’s almost not in the United States-it’s almost in Canada. And it almost doesn’t exist. Because its residents never got around to getting organized. So it’s just…Almost..*<br><br>**ALMOST, MAINE**: It’s love. But not quite.<br><br>Featuring John Marshall as **East**"
-
+feature_row14:
+  - image_path: /assets/images/Coffee-House-2017.jpg
+    alt: "The Little Mermaid (in under 5 minutes)"
+    excerpt: "**Vines High School**: Dec. 2017<br><br>*VHS Winter Coffee House. An original parody of the Little Mermaid in 5 minutes (actually closer to 10).* Written and performed by **John Marshall** (Ariel), **Fletcher Cummings** (Sebastian), and **Sam** (Ursula) and **Adam Koch** (King Triton/Prince Eric). <br><br>It sounds a litlle fishy, but what the shell, you only live once, give it watch!*"
 
 ---
 # Media Gallery 
@@ -72,6 +75,8 @@ Coming March 2020!
 ## On Having Good Fortune and Other Worthwhile Things
 
 ## Coffee House (Little Mermaid)
+{% include feature_row id="feature_row14" type="left" %}
+{% include video id="392303514" provider="vimeo" %}
 
 ## The Secret Life of Maddame Defarge
 
