@@ -7,7 +7,7 @@ header:
   overlay_image: /assets/images/Splash.png
   actions:
     - label: "Downloads"
-      url: "https://github.com/mmistakes/minimal-mistakes/"
+      url: "https://netmarshall.github.io/John.H.Marshall/downloads/"
     
 excerpt: "Actor. Student. All around decent Human."
 
