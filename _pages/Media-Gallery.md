@@ -42,7 +42,7 @@ Coming March 2020!
 
 ## Chicago
 {% include feature_row type="left" %}
-{% include video id="VSZk2NPFaG8" provider="youtube" %}https://www.youtube.com/watch?v=VSZk2NPFaG8
+{% include video id="VSZk2NPFaG8" provider="youtube" %}
 
 ## Macabaret Night
 
