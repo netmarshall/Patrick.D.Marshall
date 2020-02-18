@@ -1,7 +1,6 @@
 ---
 permalink: /gallery/
 title: "Media Gallery"
-classes: wide
 header:
   overlay_color: "#000"
   overlay_filter: "0.4"
