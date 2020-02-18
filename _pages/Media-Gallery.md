@@ -10,6 +10,35 @@ header:
       url: "https://netmarshall.github.io/John.H.Marshall/download/"
 excerpt: "Lights, Camera, Action! Enjoy the show!"
 gallery:
+  - url: /assets/images/Chicago1.jpg
+  - url: /assets/images/Chicago1-2.jpg
+  - url: /assets/images/Chicago1-3.jpg
+  - url: /assets/images/Chicago2.jpg
+  - url: /assets/images/Chicago3.jpg
+  - url: /assets/images/Chicago4.jpg
+  - url: /assets/images/Chicago5.jpg
+  - url: /assets/images/Chicago6.jpg
+  - url: /assets/images/Chicago7.jpg
+  - url: /assets/images/Chicago8.jpg
+  - url: /assets/images/Chicago9.jpg
+  - url: /assets/images/Chicago10.jpg
+  - url: /assets/images/Chicago11.jpg
+  - url: /assets/images/Chicago12.jpg
+  - url: /assets/images/Chicago12-2.jpg
+  - url: /assets/images/Chicago13.jpg
+  - url: /assets/images/Chicago14.jpg
+  - url: /assets/images/Chicago15.jpg
+  - url: /assets/images/Chicago16.jpg
+  - url: /assets/images/Chicago17.jpg
+  - url: /assets/images/Chicago18.jpg
+  - url: /assets/images/Chicago18-1.jpg
+  - url: /assets/images/Chicago19.jpg
+  - url: /assets/images/Chicago20.jpg
+  - url: /assets/images/Chicago21.jpg
+  - url: /assets/images/Chicago22.JPG
+ 
+  
+  gallery9:
   - url: /assets/images/Almost-Maine1.jpg
     image_path: /assets/images/Almost-Maine1.jpg
     alt: "Almost, Maine"
@@ -18,7 +47,7 @@ gallery:
     alt: "Almost, Maine"
   - url: /assets/images/Almost-Maine3.jpg
     image_path: /assets/images/Almost-Maine3.jpg
-    alt: "Almost, Maine"
+    alt: "Almost, Maine"  
    
 intro:   
  - excerpt: "# Media Gallery <br>Scroll through the Media Gallery for additional details on productions, cast and crew photos (click to expand images), and select videos."
@@ -44,6 +73,7 @@ Coming March 2020!
 
 ## Chicago
 ![Chicago]({{ "/assets/images/Chicago-PSHS.jpg" | relative_url }}){: .align-left}{:height="40%" width="40%"} **Plano Senior High School**: Jan. 30-Feb. 1, 2020 <br><br>*With the right song and dance, you can get away with murder. In a city where everyone loves a legend, there's only room for one. ... If You Can't Be Famous, Be Infamous.* <br><br>Featuring John Marshall as **Alvin Lipschitz; Announcer; Jury; and Ensemble** 
+{% include gallery id="gallery" %}
 <br>{% include video id="VSZk2NPFaG8" provider="youtube" %}
 
 ## Macabaret Night
@@ -62,7 +92,7 @@ Coming March 2020!
 
 ## Almost, Main
 {% include feature_row id="feature_row9" type="left" %}
-{% include gallery id="gallery" %}
+{% include gallery id="gallery9" %}
 {% include video id="295641795" provider="vimeo" %}
 
 ## The Diviners
