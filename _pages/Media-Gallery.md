@@ -16,8 +16,8 @@ gallery:
   - url: /assets/images/Almost-Maine2.jpg
     image_path: /assets/images/Almost-Maine2.jpg
     alt: "Almost, Maine"
-  - url: /assets/images/Almost-Maine2.jpg
-    image_path: /assets/images/Almost-Maine2.jpg
+  - url: /assets/images/Almost-Maine3.jpg
+    image_path: /assets/images/Almost-Maine3.jpg
     alt: "Almost, Maine"
    
     
@@ -30,7 +30,7 @@ feature_row:
 {% include toc title="On this Page" %}
 
 # Media Gallery 
-Scroll through the Media Gallery for additional details on productions, cast and crew photos, and select videos.
+Scroll through the Media Gallery for additional details on productions, cast and crew photos (click to expand images), and select videos.
 
 ## Eurydice
 Coming March 2020!
