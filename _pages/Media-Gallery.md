@@ -50,9 +50,7 @@ Coming March 2020!
 
 ## Almost, Main
 {% include feature_row type="left" %}
-
 {% include gallery id="gallery" %}
-
 {% include video id="295641795" provider="vimeo" %}
 
 ## The Diviners
