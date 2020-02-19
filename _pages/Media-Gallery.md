@@ -58,6 +58,7 @@ gallery:
   - url: /assets/images/Chicago13.jpg 
     image_path: /assets/images/Chicago13.jpg
     alt: "Chicago"
+  - url: /assets/images/Chicago14.jpg 
     image_path: /assets/images/Chicago14.jpg
     alt: "Chicago"
   - url: /assets/images/Chicago15.jpg 
