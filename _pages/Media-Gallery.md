@@ -208,6 +208,7 @@ Coming March 2020!
 
 ## Macabaret Night
 {% include feature_row id="feature_row2" type="left" %}
+{% include gallery id="gallery2" %}
 
 ## Wendy and Peter Pan
 {% include feature_row id="feature_row3" type="left" %}
