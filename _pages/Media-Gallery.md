@@ -137,7 +137,7 @@ feature_row9:
 feature_row14:
   - image_path: /assets/images/Vines-Coffee-House-2017.PNG
     alt: "The Little Mermaid (in under 5 minutes)"
-    excerpt: "**Vines High School**: Dec. 2017<br><br>*VHS Winter Coffee House. An original parody of the Little Mermaid in 5 minutes (okay, actually closer to 10 minutes, but who can count when you are laughing that hard).* <br><br>Written and performed by **John Marshall** (Ariel), **Fletcher Cummings** (Sebastian), and **Sam** (Ursula) and **Adam Koch** (King Triton/Prince Eric). <br><br>Now, I know it sounds a litle fishy, but you only live once, so if you like comedy, what the shell, give it watch!"
+    excerpt: "**Vines High School**: Dec. 2017<br><br>*VHS Winter Coffee House. An almost, not quite exact replica of the Little Mermaid in just 5 minutes.* <br><br>Written and performed by **John Marshall** (Ariel), **Fletcher Cummings** (Sebastian), and **Sam** (Ursula) and **Adam Koch** (King Triton/Prince Eric). <br><br>It sounds a litle fishy, but you only live once, so if you like comedy, what the shell, give it watch!"
 
 ---
 # Media Gallery 
@@ -147,7 +147,7 @@ Scroll through the Media Gallery for additional details on productions, cast and
 Coming March 2020!
 
 ## Chicago
-{% include feature_row type="left" %}
+{% include feature_row id="feature_row2"type="left" %}
 {% include gallery id="gallery" %}
 {% include video id="VSZk2NPFaG8" provider="youtube" %}
 
