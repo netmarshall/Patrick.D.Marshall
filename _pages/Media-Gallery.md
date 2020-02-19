@@ -147,7 +147,7 @@ Scroll through the Media Gallery for additional details on productions, cast and
 Coming March 2020!
 
 ## Chicago
-{% include feature_row id="feature_row"type="left" %}
+{% include feature_row id="feature_row" type="left" %}
 {% include gallery id="gallery" %}
 {% include video id="VSZk2NPFaG8" provider="youtube" %}
 
