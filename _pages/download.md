@@ -13,10 +13,10 @@ gallery:
   - url: /assets/images/John.H.Marshall.jpg
     image_path: /assets/images/John.H.Marshall.jpg
     alt: "Headshot"
-    title: "John Marshall - Headshot - Click to expand, then right click to "Save As"!"
+    title: "John Marshall - Headshot - Click to expand, then right click to \"Save As\"!"
 ---
 ## Resume
 Coming soon!
 
 ## Headshot
-{% include gallery caption="John Marshall - Headshot - Click to expand, then right click to "Save As"!" %}
+{% include gallery caption="John Marshall - Headshot - Click to expand, then right click to \"Save As\"!" %}
