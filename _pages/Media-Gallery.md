@@ -162,8 +162,18 @@ feature_row19:
   - image_path: /assets/images/The-Drowsey-Chaperone-VHS.jpg
     alt: "The Drowsey Chaperone"
     excerpt: "**Vines High School**: Feb. 23-25, 2017 <br><br>*Show summary coming soon!*  <br><br>John Marshall - Ensemble" 
- 
-    
+feature_row20:
+  - image_path: /assets/images/The-Drowsey-Chaperone-VHS.jpg
+    alt: "Coffe House - Lion King"
+    excerpt: "**Vines High School**: Dec. 2016 <br><br>*Show summary coming soon!*  <br><br>John Marshall - Mustapha" 
+feature_row21:
+  - image_path: /assets/images/Front-VHS.jpg
+    alt: "Front"
+    excerpt: "**Vines High School**: Nov. 10/12, 2016 <br><br>*Show summary coming soon!*  <br><br>John Marshall - Tom" 
+feature_row22:
+  - image_path: /assets/images/SubText-VHS.jpg
+    alt: "suText"
+    excerpt: "**Vines High School**: Sept. 23-24, 2016 <br><br>*Show summary coming soon!*  <br><br>John Marshall - Drew/Boy #2"  
 ---
 # Media Gallery 
 Scroll through the Media Gallery for additional details on productions, cast and crew photos (click to expand images), and select videos.
@@ -203,9 +213,10 @@ Coming March 2020!
 {% include video id="295641795" provider="vimeo" %}
 
 ## The Diviners
-Coming Soon!
+Coming soon!
 
-## Coffee House (Frozen)
+## Coffee House - Frozen
+Coming soon!
 
 ## The Shakespeare Project
 {% include feature_row id="feature_row12" type="left" %}
@@ -213,7 +224,7 @@ Coming Soon!
 ## On Having Good Fortune and Other Worthwhile Things
 {% include feature_row id="feature_row13" type="left" %}
 
-## Coffee House (Little Mermaid)
+## Coffee House - Little Mermaid
 {% include feature_row id="feature_row14" type="left" %}
 {% include video id="392303514" provider="vimeo" %}
 
@@ -232,7 +243,7 @@ Coming soon!
 ## The Drowsey Chaperone
 {% include feature_row id="feature_row19" type="left" %}
 
-## Coffee House (Lion King)
+## Coffee House - Lion King
 {% include feature_row id="feature_row20" type="left" %}
 
 ## Front
