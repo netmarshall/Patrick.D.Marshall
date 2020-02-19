@@ -98,8 +98,8 @@ gallery2:
   - url: /assets/images/Addams.JPG
     image_path: /assets/images/Addams.JPG
     alt: "Addams Family"
-  - url: /assets/images/Time-Warp.JPG
-    image_path: /assets/images/Time-Warp.JPG
+  - url: /assets/images/Timewarp.JPG
+    image_path: /assets/images/Timewarp.JPG
     alt: "Timewarp"      
 gallery9:
   - url: /assets/images/Almost-Maine1.jpg
