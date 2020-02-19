@@ -217,10 +217,10 @@ Coming March 2020!
 {% include video id="295641795" provider="vimeo" %}
 
 ## The Diviners
-{% include feature_row id="feature_row11" type="left" %}
+Coming soon!
 
 ## Coffee House - Frozen
-Coming soon!
+{% include feature_row id="feature_row11" type="left" %}
 
 ## The Shakespeare Project
 {% include feature_row id="feature_row12" type="left" %}
