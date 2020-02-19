@@ -134,6 +134,10 @@ feature_row9:
   - image_path: /assets/images/Almost-Maine-PSHS.jpg
     alt: "Almost, Maine"
     excerpt: "**Plano Senior High School**: Oct 18-20, 2019<br><br>*Welcome to Almost, Maine, a town that’s so far north, it’s almost not in the United States-it’s almost in Canada. And it almost doesn’t exist. Because its residents never got around to getting organized. So it’s just…Almost..*<br><br>**ALMOST, MAINE**: It’s love. But not quite.<br><br>Featuring John Marshall as **East**"
+feature_row11:
+  - image_path: /assets/images/May-Coffee-House.png
+    alt: "Vines Spring Coffee House - Frozen"
+    excerpt: "**Vines High School**: May, 4 2018 <br><br>*Show summary coming soon!*  <br><br>John Marshall - Petruchio"
 feature_row12:
   - image_path: /assets/images/The-Shakespeare-Project-VHS.jpg
     alt: "The-Shakespeare-Project"
@@ -143,7 +147,7 @@ feature_row13:
     alt: "On Having Good Fortune and Other Worthwhile Things"
     excerpt: "**Vines High School**: Apr. 13-14, 2018 <br><br>*Show summary coming soon!*  <br><br>John Marshall - Director"
 feature_row14:
-  - image_path: /assets/images/Vines-Coffee-House-2017.PNG
+  - image_path: /assets/images/Winter-Coffee-House.png
     alt: "The Little Mermaid (in under 5 minutes)"
     excerpt: "**Vines High School**: Dec. 2017<br><br>*VHS Winter Coffee House. An almost, not quite exact replica of the Little Mermaid in just 5 minutes.* <br><br>Written and performed by **John Marshall** (Ariel), **Fletcher Cummings** (Sebastian), and **Sam** (Ursula) and **Adam Koch** (King Triton/Prince Eric). <br><br>It sounds a litle fishy, but you only live once, so if you like comedy, what the shell, give it watch!"      
 feature_row15:
@@ -213,7 +217,7 @@ Coming March 2020!
 {% include video id="295641795" provider="vimeo" %}
 
 ## The Diviners
-Coming soon!
+{% include feature_row id="feature_row11" type="left" %}
 
 ## Coffee House - Frozen
 Coming soon!
