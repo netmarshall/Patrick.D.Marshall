@@ -10,32 +10,32 @@ header:
       url: "https://netmarshall.github.io/John.H.Marshall/download/"
 excerpt: "Lights, Camera, Action! Enjoy the show!"
 gallery:
-  - url: /assets/images/Chicago1.jpg
-  - url: /assets/images/Chicago1-2.jpg
-  - url: /assets/images/Chicago1-3.jpg
-  - url: /assets/images/Chicago2.jpg
-  - url: /assets/images/Chicago3.jpg
-  - url: /assets/images/Chicago4.jpg
-  - url: /assets/images/Chicago5.jpg
-  - url: /assets/images/Chicago6.jpg
-  - url: /assets/images/Chicago7.jpg
-  - url: /assets/images/Chicago8.jpg
-  - url: /assets/images/Chicago9.jpg
-  - url: /assets/images/Chicago10.jpg
-  - url: /assets/images/Chicago11.jpg
-  - url: /assets/images/Chicago12.jpg
-  - url: /assets/images/Chicago12-2.jpg
-  - url: /assets/images/Chicago13.jpg
-  - url: /assets/images/Chicago14.jpg
-  - url: /assets/images/Chicago15.jpg
-  - url: /assets/images/Chicago16.jpg
-  - url: /assets/images/Chicago17.jpg
-  - url: /assets/images/Chicago18.jpg
-  - url: /assets/images/Chicago18-1.jpg
-  - url: /assets/images/Chicago19.jpg
-  - url: /assets/images/Chicago20.jpg
-  - url: /assets/images/Chicago21.jpg
-  - url: /assets/images/Chicago22.JPG
+    image_path: /assets/images/Chicago1.jpg
+    image_path: /assets/images/Chicago1-2.jpg
+    image_path: /assets/images/Chicago1-3.jpg
+    image_path: /assets/images/Chicago2.jpg
+    image_path: /assets/images/Chicago3.jpg
+    image_path: /assets/images/Chicago4.jpg
+    image_path: /assets/images/Chicago5.jpg
+    image_path: /assets/images/Chicago6.jpg
+    image_path: /assets/images/Chicago7.jpg
+    image_path:/assets/images/Chicago8.jpg
+    image_path:/assets/images/Chicago9.jpg
+    image_path:/assets/images/Chicago10.jpg
+    image_path: /assets/images/Chicago11.jpg
+    image_path:/assets/images/Chicago12.jpg
+    image_path: /assets/images/Chicago12-2.jpg
+    image_path: /assets/images/Chicago13.jpg
+    image_path: /assets/images/Chicago14.jpg
+    image_path: /assets/images/Chicago15.jpg
+    image_path:/assets/images/Chicago16.jpg
+    image_path: /assets/images/Chicago17.jpg
+    image_path: /assets/images/Chicago18.jpg
+    image_path: /assets/images/Chicago18-1.jpg
+    image_path:/assets/images/Chicago19.jpg
+    image_path:/assets/images/Chicago20.jpg
+    image_path: /assets/images/Chicago21.jpg
+    image_path:/assets/images/Chicago22.JPG
  
   
 gallery9:
