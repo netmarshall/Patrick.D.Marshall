@@ -102,7 +102,7 @@ feature_row:
   - image_path: /assets/images/Chicago-PSHS.jpg
     alt: "Chicago"
     excerpt: "**Plano Senior High School**: Jan. 30-Feb. 1, 2020<br><br>*With the right song and dance, you can get away with murder. In a city where everyone loves a legend, there's only room for one. ... If You Can't Be Famous, Be Infamous.*<br><br>Featuring John Marshall as **Alvin Lipschitz, Announcer, Reporter, Jury and Ensemble**"
-feature_row9:
+feature_row2:
   - image_path: /assets/images/Macabaret-PSHS.jpg
     alt: "Macabaret Night"
     excerpt: ""
