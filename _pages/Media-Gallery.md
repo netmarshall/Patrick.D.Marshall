@@ -105,7 +105,31 @@ feature_row:
 feature_row2:
   - image_path: /assets/images/Macabaret-PSHS.jpg
     alt: "Macabaret Night"
-    excerpt: "*A night of song, dance, and terror!*  Featuring John Marshall as Gomeze Addams leading his family in When Your'e an Addams, as the Prologue announcer and Ensemble in Little Shop of Horrors, learning how to Build a Man in just 7 days the Rocky Horror way, and Doing the Time Warp Thriller style!"
+    excerpt: "**Plano Senior High School**: Oct. 25-26, 2019 <br><br>*A night of song, dance, and terror!*  <br><br>Featuring John Marshall as Gomez Addams (leading his family in When Your'e an Addams), as the Prologue announcer and Ensemble in Little Shop of Horrors, learning how to Build a Man in just 7 days the Rocky Horror way, and Doing the Time Warp Thriller style!"
+feature_row3:
+  - image_path: /assets/images/Wendy-and-Peter-Pan-PSHS.jpg
+    alt: "Wendy and Peter Pan"
+    excerpt: "**Plano Senior High School**: Oct. 25-26, 2019 <br><br>Show summary (coming soon)*  <br>br>Featuring John Marshall as George Darling."
+feature_row4
+  - image_path: /assets/images/Violet-Sharp-PSHS.jpg
+    alt: "Violet Sharp"
+    excerpt: "**Plano Independent School District (PISD) CenterStage**: July 2019 <br><br>Show summary (coming soon)*  <br>br>Featuring John Marshall as gritty Prosecutor Harry Walsh."
+feature_row5
+  - image_path: /assets/images/Bright-Ideas-VHS.jpg
+    alt: "Bright Ideas"
+    excerpt: "**Plano Senior High School**: April 18, 2019 <br><br>Show summary (coming soon)*  <br>br>Featuring John Marshall as Joshua Bradley."   
+feature_row6
+  - image_path: /assets/images/These-Shining-Lives-PSHS.jpg
+    alt: "These Shining Lives"
+    excerpt: "**Plano Senior High School**: April 18, 2019 <br><br>Show summary (coming soon)*  <br>br>John Marshall recoginzed as the **2019 UIL District Level Best Actor** for his his portrayl of Tom Donohuethe."      
+feature_row7
+  - image_path: /assets/images/Mamma-Mia-PSHS.jpg
+    alt: "Mamma Mia"
+    excerpt: "**Plano Senior High School**: Jan. 24-27, 2019 <br><br>Show summary (coming soon)*  <br>br>John Marshall - Ensemble"      
+feature_row8
+  - image_path: /assets/images/Cabaret-Night-PSHS.jpg
+    alt: "Cabaret-Night"
+    excerpt: "**Plano Senior High School**: Nov. 1-2, 2018 <br><br>Show summary (coming soon)*  <br>br>John Marshall - Evan Hansen \| Ensemble"      
 feature_row9:
   - image_path: /assets/images/Almost-Maine-PSHS.jpg
     alt: "Almost, Maine"
@@ -131,16 +155,22 @@ Coming March 2020!
 {% include feature_row id="feature_row2" type="left" %}
 
 ## Wendy and Peter Pan
+{% include feature_row id="feature_row3" type="left" %}
 
 ## Violet Sharp
+{% include feature_row id="feature_row4" type="left" %}
 
 ## Bright Ideas
+{% include feature_row id="feature_row5" type="left" %}
 
 ## These Shining Lives
+{% include feature_row id="feature_row6" type="left" %}
 
 ## Mamma Mia
+{% include feature_row id="feature_row7" type="left" %}
 
 ## Cabaret Night 
+{% include feature_row id="feature_row8" type="left" %}
 
 ## Almost, Main
 {% include feature_row id="feature_row9" type="left" %}
