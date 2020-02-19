@@ -19,23 +19,23 @@ gallery:
     image_path: /assets/images/Chicago5.jpg
     image_path: /assets/images/Chicago6.jpg
     image_path: /assets/images/Chicago7.jpg
-    image_path:/assets/images/Chicago8.jpg
-    image_path:/assets/images/Chicago9.jpg
-    image_path:/assets/images/Chicago10.jpg
+    image_path: /assets/images/Chicago8.jpg
+    image_path: /assets/images/Chicago9.jpg
+    image_path: /assets/images/Chicago10.jpg
     image_path: /assets/images/Chicago11.jpg
-    image_path:/assets/images/Chicago12.jpg
+    image_path: /assets/images/Chicago12.jpg
     image_path: /assets/images/Chicago12-2.jpg
     image_path: /assets/images/Chicago13.jpg
     image_path: /assets/images/Chicago14.jpg
     image_path: /assets/images/Chicago15.jpg
-    image_path:/assets/images/Chicago16.jpg
+    image_path: /assets/images/Chicago16.jpg
     image_path: /assets/images/Chicago17.jpg
     image_path: /assets/images/Chicago18.jpg
     image_path: /assets/images/Chicago18-1.jpg
-    image_path:/assets/images/Chicago19.jpg
-    image_path:/assets/images/Chicago20.jpg
+    image_path: /assets/images/Chicago19.jpg
+    image_path: /assets/images/Chicago20.jpg
     image_path: /assets/images/Chicago21.jpg
-    image_path:/assets/images/Chicago22.JPG
+    image_path: /assets/images/Chicago22.JPG
    
 gallery9:
   - url: /assets/images/Almost-Maine1.jpg
