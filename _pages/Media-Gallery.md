@@ -111,7 +111,7 @@ feature_row3:
     alt: "Wendy and Peter Pan"
     excerpt: "**Plano Senior High School**: Oct. 25-26, 2019 <br><br>*Show summary coming soon!*  <br>br>Featuring John Marshall as George Darling."
 feature_row4:
-  - image_path: /assets/images/Violet-Sharp-PSHS.jpg
+  - image_path: /assets/images/Violet-Sharp-banner.png
     alt: "Violet Sharp"
     excerpt: "**PISD CenterStage**: July, 2019 <br><br>*Show summary coming soon!*  <br>br>Featuring John Marshall as gritty Prosecutor Harry Walsh."
 feature_row5:
