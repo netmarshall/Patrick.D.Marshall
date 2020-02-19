@@ -105,7 +105,7 @@ feature_row:
 feature_row2:
   - image_path: /assets/images/Macabaret-PSHS.jpg
     alt: "Macabaret Night"
-    excerpt: ""
+    excerpt: "*A night of song, dance, and terror!*  Featuring John Marshall as Gomeze Addams leading his family in When Your'e an Addams, as the Prologue announcer and Ensemble in Little Shop of Horrors, learning how to Build a Man in just 7 days the Rocky Horror way, and Doing the Time Warp Thriller style!"
 feature_row9:
   - image_path: /assets/images/Almost-Maine-PSHS.jpg
     alt: "Almost, Maine"
