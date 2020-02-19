@@ -119,7 +119,7 @@ feature_row5:
     alt: "Bright Ideas"
     excerpt: "**Plano Senior High School**: April 18, 2019 <br><br>*Show summary coming soon!*   <br><br>Featuring John Marshall as Joshua Bradley."   
 feature_row6:
-  - image_path: /assets/images/These-Shining-Lives-PSHS.jpg
+  - image_path: /assets/images/These Shining Lives.jpg
     alt: "These Shining Lives"
     excerpt: "**Plano Senior High School**: April 18, 2019 <br><br>*Show summary coming soon!*   <br><br>John Marshall recoginzed as the **2019 UIL District Level Best Actor** for his his portrayl of Tom Donohuethe."      
 feature_row7:
