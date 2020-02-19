@@ -158,7 +158,7 @@ feature_row18:
   - image_path: /assets/images/Lend-Me-a-Tenor-VHS.jpg
     alt: "Lend Me a Tenor"
     excerpt: "**Vines High School**: May 13, 2017 <br><br>*Show summary coming soon!*  <br><br>John Marshall - Max" 
-feature_row18:
+feature_row19:
   - image_path: /assets/images/The-Drowsey-Chaperone-VHS.jpg
     alt: "The Drowsey Chaperone"
     excerpt: "**Vines High School**: Feb. 23-25, 2017 <br><br>*Show summary coming soon!*  <br><br>John Marshall - Ensemble" 
