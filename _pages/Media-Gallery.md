@@ -13,50 +13,72 @@ gallery:
   - url: /assets/images/Chicago1.jpg
     image_path: /assets/images/Chicago1.jpg
     alt: "Chicago"
+  - url: /assets/images/Chicago1-2.jpg
     image_path: /assets/images/Chicago1-2.jpg
     alt: "Chicago"
+  - url: /assets/images/Chicago1-3.jpg  
     image_path: /assets/images/Chicago1-3.jpg
     alt: "Chicago"
+  - url: /assets/images/Chicago2.jpg 
     image_path: /assets/images/Chicago2.jpg
     alt: "Chicago"
+  - url: /assets/images/Chicago3.jpg 
     image_path: /assets/images/Chicago3.jpg
     alt: "Chicago"
+  - url: /assets/images/Chicago4.jpg 
     image_path: /assets/images/Chicago4.jpg
     alt: "Chicago"
+  - url: /assets/images/Chicago5.jpg   
     image_path: /assets/images/Chicago5.jpg
     alt: "Chicago"
+  - url: /assets/images/Chicago6.jpg 
     image_path: /assets/images/Chicago6.jpg
     alt: "Chicago"
+  - url: /assets/images/Chicago7.jpg 
     image_path: /assets/images/Chicago7.jpg
     alt: "Chicago"
+  - url: /assets/images/Chicago8.jpg 
     image_path: /assets/images/Chicago8.jpg
     alt: "Chicago"
+  - url: /assets/images/Chicago9.jpg 
     image_path: /assets/images/Chicago9.jpg
     alt: "Chicago"
+  - url: /assets/images/Chicago10.jpg 
     image_path: /assets/images/Chicago10.jpg
     alt: "Chicago"
+  - url: /assets/images/Chicago11.jpg 
     image_path: /assets/images/Chicago11.jpg
     alt: "Chicago"
+  - url: /assets/images/Chicago12.jpg 
     image_path: /assets/images/Chicago12.jpg
     alt: "Chicago"
+  - url: /assets/images/Chicago12-2.jpg 
     image_path: /assets/images/Chicago12-2.jpg
     alt: "Chicago"
+  - url: /assets/images/Chicago13.jpg 
     image_path: /assets/images/Chicago13.jpg
     alt: "Chicago"
     image_path: /assets/images/Chicago14.jpg
     alt: "Chicago"
+  - url: /assets/images/Chicago15.jpg 
     image_path: /assets/images/Chicago15.jpg
     alt: "Chicago"
+  - url: /assets/images/Chicago16.jpg 
     image_path: /assets/images/Chicago16.jpg
     alt: "Chicago"
+  - url: /assets/images/Chicago17.jpg 
     image_path: /assets/images/Chicago17.jpg
     alt: "Chicago"
+  - url: /assets/images/Chicago18.jpg 
     image_path: /assets/images/Chicago18.jpg
     alt: "Chicago"
+  - url: /assets/images/Chicago18-1.jpg 
     image_path: /assets/images/Chicago18-1.jpg
     alt: "Chicago"
+  - url: /assets/images/Chicago19.jpg 
     image_path: /assets/images/Chicago19.jpg
     alt: "Chicago"
+  - url: /assets/images/Chicago20.jpg 
     image_path: /assets/images/Chicago20.jpg
     alt: "Chicago"
 gallery9:
