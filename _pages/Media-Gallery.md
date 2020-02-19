@@ -85,6 +85,22 @@ gallery:
   - url: /assets/images/Chicago21.jpg 
     image_path: /assets/images/Chicago21.jpg
     alt: "Chicago"
+gallery2:
+  - url: /assets/images/Little-Shop1.JPG
+    image_path: /assets/images/Little-Shop1.JPG
+    alt: "Little Shop"
+  - url: /assets/images/Little-Shop2.JPG
+    image_path: /assets/images/Little-Shop2.JPG
+    alt: "Little Shop"
+  - url: /assets/images/Little-Shop3.JPG
+    image_path: /assets/images/Little-Shop3.JPG
+    alt: "Little Shop"
+  - url: /assets/images/Addams.JPG
+    image_path: /assets/images/Addams.JPG
+    alt: "Addams Family"
+  - url: /assets/images/Time-Warp.JPG
+    image_path: /assets/images/Time-Warp.JPG
+    alt: "Timewarp"      
 gallery9:
   - url: /assets/images/Almost-Maine1.jpg
     image_path: /assets/images/Almost-Maine1.jpg
