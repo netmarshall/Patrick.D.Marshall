@@ -81,7 +81,7 @@ gallery:
   - url: /assets/images/Chicago20.jpg 
     image_path: /assets/images/Chicago20.jpg
     alt: "Chicago"
-   - url: /assets/images/Chicago21.jpg 
+  - url: /assets/images/Chicago21.jpg 
     image_path: /assets/images/Chicago21.jpg
     alt: "Chicago"
 gallery9:
