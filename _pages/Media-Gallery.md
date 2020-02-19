@@ -163,7 +163,7 @@ feature_row19:
     alt: "The Drowsey Chaperone"
     excerpt: "**Vines High School**: Feb. 23-25, 2017 <br><br>*Show summary coming soon!*  <br><br>John Marshall - Ensemble" 
 feature_row20:
-  - image_path: /assets/images/The-Drowsey-Chaperone-VHS.jpg
+  - image_path: /assets/images/Winter-Coffee-House-VHS.jpg
     alt: "Coffe House - Lion King"
     excerpt: "**Vines High School**: Dec. 2016 <br><br>*Show summary coming soon!*  <br><br>John Marshall - Mustapha" 
 feature_row21:
@@ -172,7 +172,7 @@ feature_row21:
     excerpt: "**Vines High School**: Nov. 10/12, 2016 <br><br>*Show summary coming soon!*  <br><br>John Marshall - Tom" 
 feature_row22:
   - image_path: /assets/images/SubText-VHS.jpg
-    alt: "suText"
+    alt: "subText"
     excerpt: "**Vines High School**: Sept. 23-24, 2016 <br><br>*Show summary coming soon!*  <br><br>John Marshall - Drew/Boy #2"  
 ---
 # Media Gallery 
