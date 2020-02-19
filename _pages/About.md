@@ -51,7 +51,7 @@ Accomplished student, actor, and leader. Effective organizer who works comfortab
 * National Merit Scholarship Program Letter of Commendation 
 * 98th Percentile on the Scholastic Apptitude Test (SAT): **1420** (710 verbal, and 710 Math)
 * GPA: **4.24 / 4.0 - Ranked #103 out of 1,339** (Top 7% of graduating class)
-* Seven Advanced Placement courses completed exams 
+* Seven Advanced Placement courses completed
 * Elected by my peers as PSHS Theatre President for our Senior year 
 * District Level UIL Award for Best Actor (These Shining Lives)
 * International Thespian Society Member (9th-12th grade)
