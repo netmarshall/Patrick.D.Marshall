@@ -38,7 +38,7 @@ gallery:
   - url: /assets/images/Chicago22.JPG
  
   
-  gallery9:
+gallery9:
   - url: /assets/images/Almost-Maine1.jpg
     image_path: /assets/images/Almost-Maine1.jpg
     alt: "Almost, Maine"
