@@ -109,27 +109,27 @@ feature_row2:
 feature_row3:
   - image_path: /assets/images/Wendy-and-Peter-Pan-PSHS.jpg
     alt: "Wendy and Peter Pan"
-    excerpt: "**Plano Senior High School**: Oct. 25-26, 2019 <br><br>*Show summary coming soon!*  <br>br>Featuring John Marshall as George Darling."
+    excerpt: "**Plano Senior High School**: Oct. 25-26, 2019 <br><br>*Show summary coming soon!*  <br><br>Featuring John Marshall as George Darling."
 feature_row4:
   - image_path: /assets/images/Violet-Sharp-banner.png
     alt: "Violet Sharp"
-    excerpt: "**PISD CenterStage**: July, 2019 <br><br>*Show summary coming soon!*  <br>br>Featuring John Marshall as gritty Prosecutor Harry Walsh."
+    excerpt: "**PISD CenterStage**: July, 2019 <br><br>*Show summary coming soon!*  <br><br>Featuring John Marshall as gritty Prosecutor Harry Walsh."
 feature_row5:
   - image_path: /assets/images/Bright-Ideas-VHS.jpg
     alt: "Bright Ideas"
-    excerpt: "**Plano Senior High School**: April 18, 2019 <br><br>*Show summary coming soon!*   <br>br>Featuring John Marshall as Joshua Bradley."   
+    excerpt: "**Plano Senior High School**: April 18, 2019 <br><br>*Show summary coming soon!*   <br><br>Featuring John Marshall as Joshua Bradley."   
 feature_row6:
   - image_path: /assets/images/These-Shining-Lives-PSHS.jpg
     alt: "These Shining Lives"
-    excerpt: "**Plano Senior High School**: April 18, 2019 <br><br>*Show summary coming soon!*   <br>br>John Marshall recoginzed as the **2019 UIL District Level Best Actor** for his his portrayl of Tom Donohuethe."      
+    excerpt: "**Plano Senior High School**: April 18, 2019 <br><br>*Show summary coming soon!*   <br><br>John Marshall recoginzed as the **2019 UIL District Level Best Actor** for his his portrayl of Tom Donohuethe."      
 feature_row7:
   - image_path: /assets/images/Mamma-Mia-PSHS.jpg
     alt: "Mamma Mia"
-    excerpt: "**Plano Senior High School**: Jan. 24-27, 2019 <br><br>*Show summary coming soon!*   <br>br>John Marshall - Ensemble"
+    excerpt: "**Plano Senior High School**: Jan. 24-27, 2019 <br><br>*Show summary coming soon!*   <br><br>John Marshall - Ensemble"
 feature_row8:
   - image_path: /assets/images/Cabaret-Night-PSHS.jpg
     alt: "Cabaret-Night"
-    excerpt: "**Plano Senior High School**: Nov. 1-2, 2018 <br><br>*Show summary coming soon!*  <br>br>John Marshall - Evan Hansen/Ensemble"      
+    excerpt: "**Plano Senior High School**: Nov. 1-2, 2018 <br><br>*Show summary coming soon!*  <br><br>John Marshall - Evan Hansen/Ensemble"      
 feature_row9:
   - image_path: /assets/images/Almost-Maine-PSHS.jpg
     alt: "Almost, Maine"
