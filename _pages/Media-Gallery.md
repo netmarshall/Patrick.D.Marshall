@@ -134,11 +134,36 @@ feature_row9:
   - image_path: /assets/images/Almost-Maine-PSHS.jpg
     alt: "Almost, Maine"
     excerpt: "**Plano Senior High School**: Oct 18-20, 2019<br><br>*Welcome to Almost, Maine, a town that’s so far north, it’s almost not in the United States-it’s almost in Canada. And it almost doesn’t exist. Because its residents never got around to getting organized. So it’s just…Almost..*<br><br>**ALMOST, MAINE**: It’s love. But not quite.<br><br>Featuring John Marshall as **East**"
+feature_row12:
+  - image_path: /assets/images/The-Shakespeare-Project-VHS.jpg
+    alt: "The-Shakespeare-Project"
+    excerpt: "**Vines High School**: Apr. 13-14, 2018 <br><br>*Show summary coming soon!*  <br><br>John Marshall - Petruchio"
+feature_row13:
+  - image_path: /assets/images/On-Having-Good-Fortune-and-Other-Worthwile-Things.jpg
+    alt: "On Having Good Fortune and Other Worthwhile Things"
+    excerpt: "**Vines High School**: Apr. 13-14, 2018 <br><br>*Show summary coming soon!*  <br><br>John Marshall - Director"
 feature_row14:
   - image_path: /assets/images/Vines-Coffee-House-2017.PNG
     alt: "The Little Mermaid (in under 5 minutes)"
-    excerpt: "**Vines High School**: Dec. 2017<br><br>*VHS Winter Coffee House. An almost, not quite exact replica of the Little Mermaid in just 5 minutes.* <br><br>Written and performed by **John Marshall** (Ariel), **Fletcher Cummings** (Sebastian), and **Sam** (Ursula) and **Adam Koch** (King Triton/Prince Eric). <br><br>It sounds a litle fishy, but you only live once, so if you like comedy, what the shell, give it watch!"
-
+    excerpt: "**Vines High School**: Dec. 2017<br><br>*VHS Winter Coffee House. An almost, not quite exact replica of the Little Mermaid in just 5 minutes.* <br><br>Written and performed by **John Marshall** (Ariel), **Fletcher Cummings** (Sebastian), and **Sam** (Ursula) and **Adam Koch** (King Triton/Prince Eric). <br><br>It sounds a litle fishy, but you only live once, so if you like comedy, what the shell, give it watch!"      
+feature_row15:
+  - image_path: /assets/images/The-Secret-Life-of-Madam-Dufarge-VHS.jpg
+    alt: "The Secret Life of Madam Dufarge"
+    excerpt: "**Vines High School**: Nov. 2/8/11, 2017 <br><br>*Show summary coming soon!*  <br><br>John Marshall - Ernest Defarge"
+feature_row16:
+  - image_path: /assets/images/Too-Much-Light-Makes-the-Baby-Go-Blind-VHS.jpg
+    alt: "Too Much Light Makes the Baby Go Blind"
+    excerpt: "**Vines High School**: Sept. 28-30, 2017 <br><br>*Show summary coming soon!*  <br><br>John Marshall - Himslef"
+feature_row18:
+  - image_path: /assets/images/Lend-Me-a-Tenor-VHS.jpg
+    alt: "Lend Me a Tenor"
+    excerpt: "**Vines High School**: May 13, 2017 <br><br>*Show summary coming soon!*  <br><br>John Marshall - Max" 
+feature_row18:
+  - image_path: /assets/images/The-Drowsey-Chaperone-VHS.jpg
+    alt: "The Drowsey Chaperone"
+    excerpt: "**Vines High School**: Feb. 23-25, 2017 <br><br>*Show summary coming soon!*  <br><br>John Marshall - Ensemble" 
+ 
+    
 ---
 # Media Gallery 
 Scroll through the Media Gallery for additional details on productions, cast and crew photos (click to expand images), and select videos.
@@ -178,35 +203,47 @@ Coming March 2020!
 {% include video id="295641795" provider="vimeo" %}
 
 ## The Diviners
+Coming Soon!
 
 ## Coffee House (Frozen)
 
 ## The Shakespeare Project
+{% include feature_row id="feature_row12" type="left" %}
 
 ## On Having Good Fortune and Other Worthwhile Things
+{% include feature_row id="feature_row13" type="left" %}
 
 ## Coffee House (Little Mermaid)
 {% include feature_row id="feature_row14" type="left" %}
 {% include video id="392303514" provider="vimeo" %}
 
 ## The Secret Life of Maddame Defarge
+{% include feature_row id="feature_row15" type="left" %}
 
 ## Too Much Light Makes the Baby Go Blind
+{% include feature_row id="feature_row16" type="left" %}
 
 ## Oh, the Humanity
+Coming soon!
 
 ## Lend Me a Tenor
+{% include feature_row id="feature_row18" type="left" %}
 
 ## The Drowsey Chaperone
+{% include feature_row id="feature_row19" type="left" %}
 
 ## Coffee House (Lion King)
+{% include feature_row id="feature_row20" type="left" %}
 
 ## Front
+{% include feature_row id="feature_row21" type="left" %}
 
 ## subText
+{% include feature_row id="feature_row22" type="left" %}
 
 ## Eurydice
+Coming soon!
 
 ## Shrek the Musical Jr. 
-
+Coming soon!
 
