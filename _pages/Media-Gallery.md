@@ -98,7 +98,7 @@ gallery9:
    
 intro:   
  - excerpt: "# Media Gallery <br>Scroll through the Media Gallery for additional details on productions, cast and crew photos (click to expand images), and select videos."
-feature_row1:
+feature_row:
   - image_path: /assets/images/Chicago-PSHS.jpg
     alt: "Chicago"
     excerpt: "**Plano Senior High School**: Jan. 30-Feb. 1, 2020<br><br>*With the right song and dance, you can get away with murder. In a city where everyone loves a legend, there's only room for one. ... If You Can't Be Famous, Be Infamous.*<br><br>Featuring John Marshall as **Alvin Lipschitz, Announcer, Reporter, Jury and Ensemble**"
@@ -109,27 +109,27 @@ feature_row2:
 feature_row3:
   - image_path: /assets/images/Wendy-and-Peter-Pan-PSHS.jpg
     alt: "Wendy and Peter Pan"
-    excerpt: "**Plano Senior High School**: Oct. 25-26, 2019 <br><br>Show summary (coming soon)*  <br>br>Featuring John Marshall as George Darling."
+    excerpt: "**Plano Senior High School**: Oct. 25-26, 2019 <br><br>*Show summary coming soon!*  <br>br>Featuring John Marshall as George Darling."
 feature_row4
   - image_path: /assets/images/Violet-Sharp-PSHS.jpg
     alt: "Violet Sharp"
-    excerpt: "**Plano Independent School District (PISD) CenterStage**: July 2019 <br><br>Show summary (coming soon)*  <br>br>Featuring John Marshall as gritty Prosecutor Harry Walsh."
+    excerpt: "**PISD CenterStage**: July, 2019 <br><br>*Show summary coming soon!*  <br>br>Featuring John Marshall as gritty Prosecutor Harry Walsh."
 feature_row5
   - image_path: /assets/images/Bright-Ideas-VHS.jpg
     alt: "Bright Ideas"
-    excerpt: "**Plano Senior High School**: April 18, 2019 <br><br>Show summary (coming soon)*  <br>br>Featuring John Marshall as Joshua Bradley."   
+    excerpt: "**Plano Senior High School**: April 18, 2019 <br><br>*Show summary coming soon!*   <br>br>Featuring John Marshall as Joshua Bradley."   
 feature_row6
   - image_path: /assets/images/These-Shining-Lives-PSHS.jpg
     alt: "These Shining Lives"
-    excerpt: "**Plano Senior High School**: April 18, 2019 <br><br>Show summary (coming soon)*  <br>br>John Marshall recoginzed as the **2019 UIL District Level Best Actor** for his his portrayl of Tom Donohuethe."      
+    excerpt: "**Plano Senior High School**: April 18, 2019 <br><br>*Show summary coming soon!*   <br>br>John Marshall recoginzed as the **2019 UIL District Level Best Actor** for his his portrayl of Tom Donohuethe."      
 feature_row7
   - image_path: /assets/images/Mamma-Mia-PSHS.jpg
     alt: "Mamma Mia"
-    excerpt: "**Plano Senior High School**: Jan. 24-27, 2019 <br><br>Show summary (coming soon)*  <br>br>John Marshall - Ensemble"      
+    excerpt: "**Plano Senior High School**: Jan. 24-27, 2019 <br><br>*Show summary coming soon!*   <br>br>John Marshall - Ensemble"      
 feature_row8
   - image_path: /assets/images/Cabaret-Night-PSHS.jpg
     alt: "Cabaret-Night"
-    excerpt: "**Plano Senior High School**: Nov. 1-2, 2018 <br><br>Show summary (coming soon)*  <br>br>John Marshall - Evan Hansen \| Ensemble"      
+    excerpt: "**Plano Senior High School**: Nov. 1-2, 2018 <br><br>*Show summary coming soon!*  <br>br>John Marshall - Evan Hansen \| Ensemble"      
 feature_row9:
   - image_path: /assets/images/Almost-Maine-PSHS.jpg
     alt: "Almost, Maine"
@@ -147,7 +147,7 @@ Scroll through the Media Gallery for additional details on productions, cast and
 Coming March 2020!
 
 ## Chicago
-{% include feature_row id="feature_row1" type="left" %}
+{% include feature_row type="left" %}
 {% include gallery id="gallery" %}
 {% include video id="VSZk2NPFaG8" provider="youtube" %}
 
