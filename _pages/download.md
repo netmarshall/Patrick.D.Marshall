@@ -19,4 +19,4 @@ gallery:
 Coming soon!
 
 ## Headshot
-{% include gallery caption="John Marshall - Headshot - more coming soon!" %}
+{% include gallery caption="John Marshall - Headshot - Click to expand, then right click to "Save As"!" %}
