@@ -33,10 +33,7 @@ gallery:
     image_path: /assets/images/Chicago18.jpg
     image_path: /assets/images/Chicago18-1.jpg
     image_path: /assets/images/Chicago19.jpg
-    image_path: /assets/images/Chicago20.jpg
-    image_path: /assets/images/Chicago21.jpg
-    image_path: /assets/images/Chicago22.JPG
-   
+    image_path: /assets/images/Chicago20.jpg      
 gallery9:
   - url: /assets/images/Almost-Maine1.jpg
     image_path: /assets/images/Almost-Maine1.jpg
@@ -71,10 +68,8 @@ Scroll through the Media Gallery for additional details on productions, cast and
 Coming March 2020!
 
 ## Chicago
-![Chicago]({{ "/assets/images/Chicago-PSHS.jpg" | relative_url }}){: .align-left}{:height="40%" width="40%"} **Plano Senior High School**: Jan. 30-Feb. 1, 2020 <br><br>*With the right song and dance, you can get away with murder. In a city where everyone loves a legend, there's only room for one. ... If You Can't Be Famous, Be Infamous.* <br><br>Featuring John Marshall as **Alvin Lipschitz; Announcer; Jury; and Ensemble** 
-
+{% include feature_row id="feature_row9" type="left" %}
 {% include gallery %}
-
 {% include video id="VSZk2NPFaG8" provider="youtube" %}
 
 ## Macabaret Night
