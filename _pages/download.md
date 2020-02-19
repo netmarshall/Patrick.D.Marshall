@@ -10,8 +10,8 @@ header:
 excerpt: "Prefer things on paper? <br>Need a headshot? <br>I got you!"
 
 gallery:
-  - url: /assets/images/John.H.Marsall.jpg
-    image_path: /assets/images/John.H.Marsall.jpg
+  - url: /assets/images/John.H.Marshall.jpg
+    image_path: /assets/images/John.H.Marshall.jpg
     alt: "Headshot"
     title: "John Marshall - Headshot - more coming soon!"
 ---
