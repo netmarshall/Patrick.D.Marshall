@@ -123,19 +123,19 @@ feature_row:
 feature_row2:
   - image_path: /assets/images/Macabaret-PSHS.jpg
     alt: "Macabaret Night"
-    excerpt: "**Plano Senior High School**: Oct. 25-26, 2019 <br><br>*A night of song, dance, and terror!*  <br><br>Featuring John Marshall as Gomez Addams (leading his family in When Your'e an Addams), as the Prologue announcer and Ensemble in Little Shop of Horrors, learning how to Build a Man in just 7 days the Rocky Horror way, and Doing the Time Warp Thriller style!"
+    excerpt: "**Plano Senior High School**: Oct. 25-26, 2019 <br><br>*A night of song, dance, and terror!*  <br><br>Featuring John Marshall as Gomez Addams (leading his family in 'When Your'e an Addams'), Prologue Announcer and Ensemble singer/dancer in Little Shop of Horrors, learning how to Build a Man in just 7 days the Rocky Horror way, and Doing the Time Warp Thriller style!"
 feature_row3:
   - image_path: /assets/images/Wendy-and-Peter-Pan-PSHS.jpg
     alt: "Wendy and Peter Pan"
-    excerpt: "**Plano Senior High School**: Oct. 25-26, 2019 <br><br>*Wendy Darling and her brothers sleep peacefully in their bedroom as their parents bicker downstairs. In a sudden flurry of snow their window blows open and mischievous boy callws Peter (and a fairy named Tink) stumble into thier lives!*  <br><br>Featuring John Marshall as George Darling."
+    excerpt: "**Plano Senior High School**: Oct. 25-26, 2019 <br><br>*Wendy Darling and her brothers sleep peacefully in their bedroom as their parents bicker downstairs. In a sudden flurry of snow their window blows open and mischievous boy called Peter (and a fairy named Tink) stumble into their lives!*  <br><br>Featuring John Marshall as George Darling."
 feature_row4:
   - image_path: /assets/images/Violet-Sharp-banner.png
     alt: "Violet Sharp"
-    excerpt: "**PISD CenterStage**: July, 2019 <br><br>*Based on the true story of the 1932 Lindbergh Kidnapping Case, Violet Sharp is named for the young British maid working at the home of Anne Lindbergh’s mother. In the wake of the historic kidnapping of beloved aviator Charles Lindbergh’s 20-month-old son, Violet raises the suspicion of the police with a contradictory testimony about her whereabouts to police investigator Officer Walsh. Under pressure from her own personal demons as well as the police, Violet’s efforts to clear her name cannot seem to overpower a growing reputation of guilt.*  <br><br>Featuring John Marshall as gritty police interrogator Harry Walsh."
+    excerpt: "**PISD CenterStage**: July, 2019 <br><br>*Based on the true story of the 1932 Lindbergh Kidnapping, Violet Sharp is a young British maid working at the home of Anne Lindbergh’s mother. In the wake of the historic kidnapping, Violet raises suspicion with contradictory testimony about her whereabouts to police investigator Officer Walsh. Under pressure from her own personal demons as well as the police, Violet’s efforts to clear her name can't overcome a growing reputation of guilt.*  <br><br>Featuring John Marshall as gritty police interrogator Harry Walsh."
 feature_row5:
   - image_path: /assets/images/Bright-Ideas-VHS.jpg
     alt: "Bright Ideas"
-    excerpt: "**Plano Senior High School**: April 18, 2019 <br><br>*How far would you go for your child? For Genevra and Joshua Bradley, the question is no longer hypothetical. Josh and Gen have had to scramble all their lives to get this far…and now they are one fatal dinner party away from the ultimate success as parents: The Right Pre-School. You may never look at pre-school—or pesto—the same way again…*   <br><br>Featuring John Marshall as Joshua Bradley."   
+    excerpt: "**Plano Senior High School**: April 18, 2019 <br><br>*How far would you go for your child? For Genevra and Joshua Bradley, the question is no longer hypothetical. Josh and Gen have had to scramble all their lives to get this far…and now they are one fatal dinner party away from the ultimate success as parents: The Right Pre-School.*  <br><br>Featuring John Marshall as Joshua Bradley."   
 feature_row6:
   - image_path: /assets/images/These Shining Lives.jpg
     alt: "These Shining Lives"
@@ -155,7 +155,7 @@ feature_row9:
 feature_row11:
   - image_path: /assets/images/May-Coffee-House.png
     alt: "Vines Spring Coffee House - Frozen"
-    excerpt: "**Vines High School**: May, 4 2018 <br><br>*In the (somewhate) epic finale of their three year trilogy, John Marshall, Fletcher Cummings, and non-identical twins Sam and Adam Kach, give the Disney classic Frozen their patented 5 minute (plus or minus) parody treatment (and yes, Elsa, finally learns to let things go)!*  <br><br>Featuring John Marshall as Kristoff/Hans"
+    excerpt: "**Vines High School**: May, 4 2018 <br><br>*In the (somewhat) epic finale of their three year trilogy, John Marshall, Fletcher Cummings, and non-identical twins Sam and Adam Koch, give the Disney classic Frozen their patented 5 minute- plus or minus - parody treatment (and yes, Elsa, finally learns to let things go)!*  <br><br>Featuring John Marshall as Kristoff/Hans"
 feature_row12:
   - image_path: /assets/images/The-Shakespeare-Project-VHS.jpg
     alt: "The-Shakespeare-Project"
@@ -163,7 +163,7 @@ feature_row12:
 feature_row13:
   - image_path: /assets/images/On-Having-Good-Fortune-and-Other-Worthwile-Things.jpg
     alt: "On Having Good Fortune and Other Worthwhile Things"
-    excerpt: "**Vines High School**: Apr. 13-14, 2018 <br><br>*Fake Fortune tellers Edgar and Ethel work at a circus swindling people locals. Everything is going swell until a mysterious woman comes into their tent claiming to be a real fortune teller. She tells them of 3 events that will come to pass: one of them shall find love and be loved in return while the other shall love in vain, one shall betray their father,and one shall die. Each tries to sabotage the other to be the one who lives.*  <br><br>**John Marshall**  and **Adam Koch** Co-Direct this student led productionr"
+    excerpt: "**Vines High School**: Apr. 13-14, 2018 <br><br>*Fake Fortune tellers Edgar and Ethel work at a circus swindling people locals. Everything is going swell until a mysterious woman comes into their tent claiming to be a real fortune teller. She tells them of 3 events that will come to pass: one of them shall find love and be loved in return while the other shall love in vain, one shall betray their father,and one shall die. Each tries to sabotage the other to be the one who lives.*  <br><br>**John Marshall**  and **Adam Koch** Co-Direct this student led production"
 feature_row14:
   - image_path: /assets/images/Winter-Coffee-House.png
     alt: "The Little Mermaid (in under 5 minutes)"
@@ -176,6 +176,10 @@ feature_row16:
   - image_path: /assets/images/Too-Much-Light-Makes-the-Baby-Go-Blind-VHS.jpg
     alt: "Too Much Light Makes the Baby Go Blind"
     excerpt: "**Vines High School**: Sept. 28-30, 2017 <br><br>*Show summary coming soon!*  <br><br>John Marshall - Himslef"
+feature_row17:
+  - image_path: /assets/images/Lend-Me-a-Tenor.jpg
+    alt: "Oh, the Humnaity""
+    excerpt: "**PISD CenterStage**: June 2017 <br><br>*Two people and their two chairs seek to find meaning and direction in life, seek to find just the tiniest shred of certainty, consistency. A stranger arrives -- though he doesn't do what strangers always do, when strangers arrive. If you were ever born, and expect to ever die, this might be a play for you.*  <br><br>Featuring John Marshall as Man" 
 feature_row18:
   - image_path: /assets/images/Lend-Me-a-Tenor.jpg
     alt: "Lend Me a Tenor"
