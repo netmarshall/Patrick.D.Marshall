@@ -8,7 +8,7 @@ header:
   actions:
     - label: "Downloads"
       url: "https://netmarshall.github.io/John.H.Marshall/downloads/"
-excerpt: "Lights, Camera, Action! Enjoy the show!"
+excerpt: "Lights, Camera, Action!<br>Enjoy the show!"
 gallery:
   - url: /assets/images/Chicago1.jpg
     image_path: /assets/images/Chicago1.jpg
