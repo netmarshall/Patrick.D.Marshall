@@ -187,7 +187,7 @@ feature_row18:
 feature_row19:
   - image_path: /assets/images/The-Drowsey-Chaperone-VHS.jpg
     alt: "The Drowsey Chaperone"
-    excerpt: "**Vines High School**: Feb. 23-25, 2017 <br><br>*Show summary coming soon!*  <br><br>John Marshall - Ensemble" 
+    excerpt: "**Vines High School**: Feb. 23-25, 2017 <br><br>*SWith the houselights down, a man in a chair appears on stage and puts on his favorite record: the cast recording of a fictitious 1928 musical. The recording comes to life and The Drowsy Chaperone begins as the man in the chair looks on. Mix in two lovers on the eve of their wedding, a bumbling best man, a desperate theatre producer, a not-so-bright hostess, two gangsters posing as pastry chefs, a misguided Don Juan and an intoxicated chaperone, and you have the ingredients for an evening of madcap delight.*  <br><br>John Marshall - Ensemble" 
 feature_row20:
   - image_path: /assets/images/Winter-Coffee-House-VHS.jpg
     alt: "Coffe House - Lion King"
@@ -195,11 +195,11 @@ feature_row20:
 feature_row21:
   - image_path: /assets/images/Front-VHS.jpg
     alt: "Front"
-    excerpt: "**Vines High School**: Nov. 10/12, 2016 <br><br>*Show summary coming soon!*  <br><br>John Marshall - Tom" 
+    excerpt: "**Vines High School**: Nov. 10/12, 2016 <br><br>*Set in England during the Blitz, a number of struggling individuals and families come to terms with war and the horrors and tragedies it provides. This includes Judith, a proud matriarch, who works in a factory that makes bomb detonators, her missing husband, Frank, and their two children, Angie and Tom who are forced to grow up much too quickly. A number of other war-torn individuals are also profiled, each butting heads with the raging war.*  <br><br>John Marshall - Tom" 
 feature_row22:
   - image_path: /assets/images/SubText-VHS.jpg
     alt: "subText"
-    excerpt: "**Vines High School**: Sept. 23-24, 2016 <br><br>*Show summary coming soon!*  <br><br>John Marshall - Drew/Boy #2"  
+    excerpt: "**Vines High School**: Sept. 23-24, 2016 <br><br>*Even though everybody on the planet is just a text away, getting your message across has never been more complicated. subText is a hilarious series of vignettes detailing the awkwardness of dating in the digital age, from capturing the perfect selfie to making a relationship Facebook official. At its heart, subText is a reminder that 'love is a lot of things, but it is rarely a thing of convenience.'"*  <br><br>John Marshall - Drew/Boy #2"  
 ---
 # Media Gallery 
 Scroll through the Media Gallery for additional details on productions, cast and crew photos (click to expand images), and select videos.
