@@ -175,7 +175,7 @@ feature_row15:
 feature_row16:
   - image_path: /assets/images/Too-Much-Light-Makes-the-Baby-Go-Blind-VHS.jpg
     alt: "Too Much Light Makes the Baby Go Blind"
-    excerpt: "**Vines High School**: Sept. 28-30, 2017<br><br>*The longest-running show in Chicago history, Too Much Light Makes The Baby Go Blind is an ensemble experiment in presenting '30 Plays in 60 Minutes'. Each two-minute play is performed in random order with an interactive audience. An onstage 60-minute timer keeps everyone honest.*<br><br>John Marshall - Himself"
+    excerpt: "**Vines High School**: Sept. 28-30, 2017<br><br>*The longest-running show in Chicago history, Too Much Light Makes The Baby Go Blind is an ensemble experiment in presenting **30 Plays in 60 Minutes**. Each two-minute play is performed in random order with an interactive audience. An onstage 60-minute timer keeps everyone honest.*<br><br>John Marshall - Himself"
 feature_row17:
   - image_path: /assets/images/Humanity.png
     alt: "Oh the Humanity"
