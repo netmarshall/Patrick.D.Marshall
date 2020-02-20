@@ -4,7 +4,7 @@ title: "Media Gallery"
 header:
   overlay_color: "#000"
   overlay_filter: "0.4"
-  overlay_image: /assets/images/Splash.png
+  overlay_image: /assets/images/splash2.png
   actions:
     - label: "Downloads"
       url: "https://netmarshall.github.io/John.H.Marshall/downloads/"
