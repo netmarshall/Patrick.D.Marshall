@@ -131,19 +131,19 @@ feature_row3:
 feature_row4:
   - image_path: /assets/images/Violet-Sharp-banner.png
     alt: "Violet Sharp"
-    excerpt: "**PISD CenterStage**: July, 2019 <br><br>*Show summary coming soon!*  <br><br>Featuring John Marshall as gritty Prosecutor Harry Walsh."
+    excerpt: "**PISD CenterStage**: July, 2019 <br><br>*Based on the true story of the 1932 Lindbergh Kidnapping Case, Violet Sharp is named for the young British maid working at the home of Anne Lindbergh’s mother. In the wake of the historic kidnapping of beloved aviator Charles Lindbergh’s 20-month-old son, Violet raises the suspicion of the police with a contradictory testimony about her whereabouts to police investigator Officer Walsh. Under pressure from her own personal demons as well as the police, Violet’s efforts to clear her name cannot seem to overpower a growing reputation of guilt.*  <br><br>Featuring John Marshall as gritty police interrogator Harry Walsh."
 feature_row5:
   - image_path: /assets/images/Bright-Ideas-VHS.jpg
     alt: "Bright Ideas"
-    excerpt: "**Plano Senior High School**: April 18, 2019 <br><br>*Show summary coming soon!*   <br><br>Featuring John Marshall as Joshua Bradley."   
+    excerpt: "**Plano Senior High School**: April 18, 2019 <br><br>*How far would you go for your child? For Genevra and Joshua Bradley, the question is no longer hypothetical. Josh and Gen have had to scramble all their lives to get this far…and now they are one fatal dinner party away from the ultimate success as parents: The Right Pre-School. You may never look at pre-school—or pesto—the same way again…*   <br><br>Featuring John Marshall as Joshua Bradley."   
 feature_row6:
   - image_path: /assets/images/These Shining Lives.jpg
     alt: "These Shining Lives"
-    excerpt: "**Plano Senior High School**: April 18, 2019 <br><br>*Show summary coming soon!*   <br><br>John Marshall recoginzed as the **2019 UIL District Level Best Actor** for his his portrayal of Tom Donohue."      
+    excerpt: "**Plano Senior High School**: April 18, 2019 <br><br>*Based on the true account of four women who worked for the Radium Dial Company watch factory in the late 20’s and early 30’s, the play chronicles the danger women faced in the American workforce, and the lack of concern by companies for protecting the health of its employees.*   <br><br>John Marshall recoginzed as the **2019 UIL District Level Best Actor** for his his portrayal of Tom Donohue."      
 feature_row7:
   - image_path: /assets/images/Mamma-Mia-PSHS.jpg
     alt: "Mamma Mia"
-    excerpt: "**Plano Senior High School**: Jan. 24-27, 2019 <br><br>*Show summary coming soon!*   <br><br>John Marshall - Ensemble"
+    excerpt: "**Plano Senior High School**: Jan. 24-27, 2019 <br><br>*ABBA's greatest hits are woven into a sunny tale set on a Greek island. On the eve of her wedding, a bride's quest to discover her father's identity brings three men from her mother's past back to the place they last visited 20 years ago.*   <br><br>John Marshall - Ensemble"
 feature_row8:
   - image_path: /assets/images/Cabaret-Night-PSHS.jpg
     alt: "Cabaret-Night"
