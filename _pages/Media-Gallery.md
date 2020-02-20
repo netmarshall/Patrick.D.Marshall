@@ -240,7 +240,7 @@ Coming soon (March 2020)!
 {% include video id="295641795" provider="vimeo" %}
 
 ## The Diviners
-Coming soon!
+"**PISD CenterStage**: June 2017<br><br>*A luminous story of religion and magic, faith and doubt, love and grief. The story of a disturbed young man and his friendship with a disenchanted preacher in southern Indiana in the early 1930s.*<br><br> Featuring John Marshall as Farmer/Doctor Basil Bennett.
 
 ## Coffee House - Frozen
 {% include feature_row id="feature_row11" type="left" %}
