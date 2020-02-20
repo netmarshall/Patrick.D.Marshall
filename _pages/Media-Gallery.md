@@ -199,7 +199,7 @@ feature_row21:
 feature_row22:
   - image_path: /assets/images/SubText-VHS.jpg
     alt: "subText"
-    excerpt: "**Vines High School**: Sept. 23-24, 2016<br><br>*Even though everybody on the planet is just a text away, getting your message across has never been more complicated. subText is a hilarious series of vignettes detailing the awkwardness of dating in the digital age, from capturing the perfect selfie to making a relationship Facebook official. At its heart, subText is a reminder that love is a lot of things, but it is rarely a thing of convenience."*<br><br>John Marshall - Drew/Boy #2"  
+    excerpt: "**Vines High School**: Sept. 23-24, 2016<br><br>*Even though everybody on the planet is just a text away, getting your message across has never been more complicated. subText is a hilarious series of vignettes detailing the awkwardness of dating in the digital age, from capturing the perfect selfie to making a relationship Facebook official. At its heart, subText is a reminder that love is a lot of things, but it is rarely a thing of convenience.*<br><br>John Marshall - Drew/Boy #2"  
 ---
 # Media Gallery 
 Scroll through the Media Gallery for additional details on productions, cast and crew photos (click to expand images), and select videos.
