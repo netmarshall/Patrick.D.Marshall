@@ -179,7 +179,7 @@ feature_row16:
 feature_row18:
   - image_path: /assets/images/Lend-Me-a-Tenor.jpg
     alt: "Lend Me a Tenor"
-    excerpt: "**Vines High School**: May 13, 2017 <br><br>*Show summary coming soon!*  <br><br>John Marshall - Max" 
+    excerpt: "**Vines High School**: May 13, 2017 <br><br>*World-renowned tenor Tito Merelli has signed on to play Otello at a Cleveland opera company in the fall of 1934. He arrives late and, through a set of crazy circumstances, passes out after mixing wine with a huge dose of tranquilizers. Believing that the divo is dead, the excitable opera manager taps his hapless assistant, an aspiring singer named Max, to suit up as the Moor and replace Merelli. *  <br><br>Featuring John Marshall, in his onstage singng debut, as Max" 
 feature_row19:
   - image_path: /assets/images/The-Drowsey-Chaperone-VHS.jpg
     alt: "The Drowsey Chaperone"
