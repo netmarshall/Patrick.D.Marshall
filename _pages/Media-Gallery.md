@@ -155,7 +155,7 @@ feature_row9:
 feature_row11:
   - image_path: /assets/images/May-Coffee-House.png
     alt: "Vines Spring Coffee House - Frozen"
-    excerpt: "**Vines High School**: May, 4 2018 <br><br>*Show summary coming soon!*  <br><br>John Marshall - Petruchio"
+    excerpt: "**Vines High School**: May, 4 2018 <br><br>*In the (somewhate) epic finale of their three year trilogy, John Marshall, Fletcher Cummings, and non-identical twins Sam and Adam Kach, give the Disney classic Frozen their patented 5 minute (plus or minus) parody treatment (and yes, Elsa, finally learns to let things go)!*  <br><br>Featuring John Marshall as Kristoff/Hans"
 feature_row12:
   - image_path: /assets/images/The-Shakespeare-Project-VHS.jpg
     alt: "The-Shakespeare-Project"
@@ -163,7 +163,7 @@ feature_row12:
 feature_row13:
   - image_path: /assets/images/On-Having-Good-Fortune-and-Other-Worthwile-Things.jpg
     alt: "On Having Good Fortune and Other Worthwhile Things"
-    excerpt: "**Vines High School**: Apr. 13-14, 2018 <br><br>*Show summary coming soon!*  <br><br>John Marshall - Director"
+    excerpt: "**Vines High School**: Apr. 13-14, 2018 <br><br>*Fake Fortune tellers Edgar and Ethel work at a circus swindling people locals. Everything is going swell until a mysterious woman comes into their tent claiming to be a real fortune teller. She tells them of 3 events that will come to pass: one of them shall find love and be loved in return while the other shall love in vain, one shall betray their father,and one shall die. Each tries to sabotage the other to be the one who lives.*  <br><br>**John Marshall**  and **Adam Koch** Co-Direct this student led productionr"
 feature_row14:
   - image_path: /assets/images/Winter-Coffee-House.png
     alt: "The Little Mermaid (in under 5 minutes)"
