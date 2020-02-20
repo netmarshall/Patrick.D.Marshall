@@ -177,7 +177,7 @@ feature_row16:
     alt: "Too Much Light Makes the Baby Go Blind"
     excerpt: "**Vines High School**: Sept. 28-30, 2017 <br><br>*Show summary coming soon!*  <br><br>John Marshall - Himslef"
 feature_row18:
-  - image_path: /assets/images/Lend-Me-a-Tenor-VHS.jpg
+  - image_path: /assets/images/Lend-Me-a-Tenor.jpg
     alt: "Lend Me a Tenor"
     excerpt: "**Vines High School**: May 13, 2017 <br><br>*Show summary coming soon!*  <br><br>John Marshall - Max" 
 feature_row19:
