@@ -179,7 +179,7 @@ feature_row16:
 feature_row18:
   - image_path: /assets/images/Lend-Me-a-Tenor.jpg
     alt: "Lend Me a Tenor"
-    excerpt: "**Vines High School**: May 13, 2017 <br><br>*World-renowned tenor Tito Merelli has signed on to play Otello at a Cleveland opera company in the fall of 1934. He arrives late and, through a set of crazy circumstances, passes out after mixing wine with a huge dose of tranquilizers. Believing that the divo is dead, the excitable opera manager taps his hapless assistant, an aspiring singer named Max, to suit up as the Moor and replace Merelli. *  <br><br>Featuring John Marshall, in his onstage singng debut, as Max" 
+    excerpt: "**Vines High School**: May 13, 2017 <br><br>*Set in the 1930s, Lend Me a Tenor is a madcap screwball comedy that takes place when Tito Merelli, the fiery-tempered and world famous Italian superstar, arrives in Cleveland, Ohio to make his debut with the local opera and promptly goes missing. As Saunders, the show’s presenter, conspires to cover for Tito’s absence, he taps his hapless assistant, an **aspiring singer named Max**, to suit up and replace Merelli.*  <br><br>Featuring John Marshall, in his onstage singng debut, as Max" 
 feature_row19:
   - image_path: /assets/images/The-Drowsey-Chaperone-VHS.jpg
     alt: "The Drowsey Chaperone"
