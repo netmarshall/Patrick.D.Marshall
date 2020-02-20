@@ -205,7 +205,7 @@ feature_row22:
 Scroll through the Media Gallery for additional details on productions, cast and crew photos (click to expand images), and select videos.
 
 ## Eurydice
-Coming March 2020!
+Coming soon (March 2020)!
 
 ## Chicago
 {% include feature_row type="left" %}
