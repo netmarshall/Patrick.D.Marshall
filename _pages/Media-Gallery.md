@@ -179,7 +179,7 @@ feature_row16:
 feature_row17:
   - image_path: /assets/images/Humanity.png
     alt: "Oh, the Humanity""
-    excerpt: "**PISD CenterStage**: June 2017<br><br>*Two people and their two chairs seek to find meaning and direction in life, seek to find just the tiniest shred of certainty, consistency. A stranger arrives - though he doesn't do what strangers always do, when strangers arrive. If you were ever born, and expect to ever die, this might be a play for you.*<br><br>Featuring John Marshall as Man" 
+    excerpt: "**PISD CenterStage**: June 2017<br><br><br><br>Featuring John Marshall as Man" 
 feature_row18:
   - image_path: /assets/images/Lend-Me-a-Tenor.jpg
     alt: "Lend Me a Tenor"
