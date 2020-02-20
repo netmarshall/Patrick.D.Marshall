@@ -209,7 +209,7 @@ Coming March 2020!
 
 In Eurydice, Sarah Ruhl reimagines the classic myth of Orpheus through the eyes of its heroine. Dying too young on her wedding day, Eurydice must journey to the underworld, where she reunites with her father and struggles to remember her lost love. With contemporary characters, ingenious plot twists, and breathtaking visual effects, the play is a fresh look at a timeless love story. 
 
-John Marshall returns to the role of Eurydice's Father, having previously been an understudy for the same role at Haggard Middle School - coincedently under the same Director, Racey Ballard, who is now Theatre Director at Plano Senior High School. John is thrilled to be nearing the end of his Secondary School career with the same Director that introduced him to performing arts.
+John Marshall returns to the role of Eurydice's Father, having previously been an understudy for the same role at Haggard Middle School - coincedently under the same Director, Racey Ballard, who is now Theatre Director at Plano Senior High School.<br><br>John is thrilled to be nearing the end of his Secondary School career with the same Director that introduced him to performing arts.
 
 ## Chicago
 {% include feature_row type="left" %}
@@ -284,8 +284,8 @@ John Marshall returns to the role of Eurydice's Father, having previously been a
 {% include feature_row id="feature_row22" type="left" %}
 
 ## Eurydice
-Coming soon!
+**Haggard Middle School**: Feb. 2016<br><br>*The classic myth of Orpheus reimagined through the eyes of its heroine. Dying too young on her wedding day, Eurydice must journey to the underworld, where she reunites with her father and struggles to remember her lost love.*<br><br>John Marshall - Father (Understudy)
 
 ## Shrek the Musical Jr. 
-Coming soon!
+**Haggard Middle School**: Nov. 2015<br><br>*Everyone's favorite ogre is back in this hilarious stage spectacle, based on the Oscar-winning smash hit film and outrageous Broadway musical.*<br><br>John Marshall - Captain of the Gaurd
 
