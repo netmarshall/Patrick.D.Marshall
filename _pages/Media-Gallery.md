@@ -187,7 +187,7 @@ feature_row18:
 feature_row19:
   - image_path: /assets/images/The-Drowsey-Chaperone-VHS.jpg
     alt: "The Drowsey Chaperone"
-    excerpt: "**Vines High School**: Feb. 23-25, 2017 <br><br>*SWith the houselights down, a man in a chair appears on stage and puts on his favorite record: the cast recording of a fictitious 1928 musical. The recording comes to life and The Drowsy Chaperone begins as the man in the chair looks on. Mix in two lovers on the eve of their wedding, a bumbling best man, a desperate theatre producer, a not-so-bright hostess, two gangsters posing as pastry chefs, a misguided Don Juan and an intoxicated chaperone, and you have the ingredients for an evening of madcap delight.*  <br><br>John Marshall - Ensemble" 
+    excerpt: "**Vines High School**: Feb. 23-25, 2017<br><br>*A man in a chair appears on stage and puts on his favorite record: the cast recording of a fictitious 1928 musical. The recording comes to life and The Drowsy Chaperone begins as the man in the chair looks on. Mix in two lovers on the eve of their wedding, a bumbling best man, a desperate theatre producer, a not-so-bright hostess, two gangsters posing as pastry chefs, a misguided Don Juan and an intoxicated chaperone, and you have the ingredients for an evening of madcap delight.*<br><br>John Marshall - Ensemble" 
 feature_row20:
   - image_path: /assets/images/Winter-Coffee-House-VHS.jpg
     alt: "Coffe House - Lion King"
