@@ -159,7 +159,7 @@ feature_row11:
 feature_row12:
   - image_path: /assets/images/The-Shakespeare-Project-VHS.jpg
     alt: "The Shakespeare Project"
-    excerpt: "**Vines High School**: Apr. 13-14, 2018<br><br>*Show summary coming soon!*<br><br>John Marshall - Petruchio"
+    excerpt: "**Vines High School**: Apr. 13-14, 2018<br><br>*By taking the most famous scenes and monologues from the canon of Shakespearean works and presenting them in a contemporary style, new and often remarkable interpretations of the classic materials emerge. We see the balcony scene from Romeo and Juliet as a late-night phone call, the witches from Macbeth as bag ladies, the wooing scene from **The Taming of the Shrew as a wrestling bout**, and Marc Antony's speech from Julius Caesar as a press conference. *<br><br>John Marshall - Petruchio"
 feature_row13:
   - image_path: /assets/images/On-Having-Good-Fortune-and-Other-Worthwile-Things.jpg
     alt: "On Having Good Fortune and Other Worthwhile Things"
