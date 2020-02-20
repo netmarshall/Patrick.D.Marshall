@@ -131,7 +131,7 @@ feature_row3:
 feature_row4:
   - image_path: /assets/images/Violet-Sharp-banner.png
     alt: "Violet Sharp"
-    excerpt: "**PISD CenterStage**: July, 2019 <br><br>*Based on the true story of the 1932 Lindbergh Kidnapping, Violet Sharp is a young British maid working at the home of Anne Lindbergh’s mother. In the wake of the historic kidnapping, Violet raises suspicion with contradictory testimony about her whereabouts to police investigator Officer Walsh. Under pressure from her own personal demons as well as the police, Violet’s efforts to clear her name can't overcome a growing reputation of guilt.*<br><br>Featuring John Marshall as gritty police interrogator Harry Walsh."
+    excerpt: "**PISD CenterStage**: July, 2019<br><br>*Based on the true story of the 1932 Lindbergh Kidnapping, Violet Sharp is a young British maid working at the home of Anne Lindbergh’s mother. In the wake of the historic kidnapping, Violet raises suspicion with contradictory testimony about her whereabouts to police investigator Officer Walsh. Under pressure from her own personal demons as well as the police, Violet’s efforts to clear her name can't overcome a growing reputation of guilt.*<br><br>Featuring John Marshall as gritty police interrogator Harry Walsh."
 feature_row5:
   - image_path: /assets/images/Bright-Ideas-VHS.jpg
     alt: "Bright Ideas"
@@ -158,28 +158,28 @@ feature_row11:
     excerpt: "**Vines High School**: May, 4 2018<br><br>*In the (somewhat) epic finale of their three year trilogy, John Marshall, Fletcher Cummings, and non-identical twins Sam and Adam Koch, give the Disney classic Frozen their patented 5 minute - plus or minus - parody treatment (and yes, Elsa, finally learns to let things go)!* <br><br>Featuring John Marshall as Kristoff/Hans"
 feature_row12:
   - image_path: /assets/images/The-Shakespeare-Project-VHS.jpg
-    alt: "The-Shakespeare-Project"
-    excerpt: "**Vines High School**: Apr. 13-14, 2018 <br><br>*Show summary coming soon!*<br><br>John Marshall - Petruchio"
+    alt: "The Shakespeare Project"
+    excerpt: "**Vines High School**: Apr. 13-14, 2018<br><br>*Show summary coming soon!*<br><br>John Marshall - Petruchio"
 feature_row13:
   - image_path: /assets/images/On-Having-Good-Fortune-and-Other-Worthwile-Things.jpg
     alt: "On Having Good Fortune and Other Worthwhile Things"
-    excerpt: "**Vines High School**: Apr. 13-14, 2018 <br><br>*Fake Fortune tellers Edgar and Ethel work at a circus swindling people locals. Everything is going swell until a mysterious woman comes into their tent claiming to be a real fortune teller. She tells them of 3 events that will come to pass: one of them shall find love and be loved in return while the other shall love in vain, one shall betray their father,and one shall die. Each tries to sabotage the other to be the one who lives.*  <br><br>**John Marshall**  and **Adam Koch** Co-Direct this student led production"
+    excerpt: "**Vines High School**: Apr. 13-14, 2018 <br><br>*Fake Fortune tellers Edgar and Ethel work at a circus swindling people locals. Everything is going swell until a mysterious woman comes into their tent claiming to be a real fortune teller. She tells them of 3 events that will come to pass: one of them shall find love and be loved in return while the other shall love in vain, one shall betray their father,and one shall die. Each tries to sabotage the other to be the one who lives.*<br><br>**John Marshall** and **Adam Koch** Co-Direct this student led production"
 feature_row14:
   - image_path: /assets/images/Winter-Coffee-House.png
-    alt: "The Little Mermaid (in under 5 minutes)"
-    excerpt: "**Vines High School**: Dec. 2017<br><br>*An almost, not quite, exact replica of the Little Mermaid in just 5 minutes.* <br><br>Written and performed by **John Marshall** (Ariel), **Fletcher Cummings** (Sebastian), and **Sam** (Ursula) and **Adam Koch** (King Triton/Prince Eric). <br><br>It sounds a litle fishy, but you only live once, so what the shell, give it watch!"      
+    alt: "The Little Mermaid"
+    excerpt: "**Vines High School**: Dec. 2017<br><br>*An almost, not quite, exact replica of the Little Mermaid in just 5 minutes.* <br><br>Written and performed by **John Marshall** (Ariel), **Fletcher Cummings** (Sebastian), and **Sam** (Ursula) and **Adam Koch** (King Triton/Prince Eric).<br><br>It sounds a litle fishy, but you only live once, so what the shell, give it watch!"      
 feature_row15:
   - image_path: /assets/images/The-Secret-Life-of-Madam-Dufarge-VHS.jpg
     alt: "The Secret Life of Madam Dufarge"
-    excerpt: "**Vines High School**: Nov. 2/8/11, 2017 <br><br>*Show summary coming soon!*  <br><br>John Marshall - Ernest Defarge"
+    excerpt: "**Vines High School**: Nov. 2/8/11, 2017<br><br>*Show summary coming soon!*<br><br>John Marshall - Ernest Defarge"
 feature_row16:
   - image_path: /assets/images/Too-Much-Light-Makes-the-Baby-Go-Blind-VHS.jpg
     alt: "Too Much Light Makes the Baby Go Blind"
-    excerpt: "**Vines High School**: Sept. 28-30, 2017<br><br>*Show summary coming soon!*<br><br>John Marshall - Himslef"
+    excerpt: "**Vines High School**: Sept. 28-30, 2017<br><br>*Show summary coming soon!*<br><br>John Marshall - Himself"
 feature_row17:
   - image_path: /assets/images/Humanity.png
-    alt: "Oh, the Humanity"
-    excerpt: "**PISD CenterStage**: June 2017<br><br>Two people and their two chairs seek to find meaning and direction in life, seek to find just the tiniest shred of certainty, consistency. A stranger arrives - though he doesn't do what strangers always do, when strangers arrive. If you were ever born, and expect to ever die, this might be a play for you.*<br><br><br>Featuring John Marshall as Man"     
+    alt: "Oh the Humanity"
+    excerpt: "**PISD CenterStage**: June 2017<br><br>*Two people and their two chairs seek to find meaning and direction in life, seek to find just the tiniest shred of certainty, consistency. A stranger arrives - though he doesn't do what strangers always do, when strangers arrive. If you were ever born, and expect to ever die, this might be a play for you.*<br><br><br>Featuring John Marshall as Man"     
 feature_row18:
   - image_path: /assets/images/Lend-Me-a-Tenor.jpg
     alt: "Lend Me a Tenor"
