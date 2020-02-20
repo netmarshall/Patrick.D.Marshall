@@ -205,7 +205,11 @@ feature_row22:
 Scroll through the Media Gallery for additional details on productions, cast and crew photos (click to expand images), and select videos.
 
 ## Eurydice
-Coming soon (March 2020)!
+Coming March 2020!
+
+In Eurydice, Sarah Ruhl reimagines the classic myth of Orpheus through the eyes of its heroine. Dying too young on her wedding day, Eurydice must journey to the underworld, where she reunites with her father and struggles to remember her lost love. With contemporary characters, ingenious plot twists, and breathtaking visual effects, the play is a fresh look at a timeless love story. 
+
+John Marshall returns to the role of Eurydice's Father, having previously been an understudy for the same role at Haggard Middle School - coincedently under the same Director, Racey Ballard, who is now Theatre Director at Plano Senior High School. John is thrilled to be nearing the end of his Secondary School career with the same Director that introduced him to performing arts.
 
 ## Chicago
 {% include feature_row type="left" %}
