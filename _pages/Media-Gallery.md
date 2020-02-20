@@ -131,7 +131,7 @@ feature_row3:
 feature_row4:
   - image_path: /assets/images/Violet-Sharp-banner.png
     alt: "Violet Sharp"
-    excerpt: "**PISD CenterStage**: July, 2019<br><br>*Based on the true story of the 1932 Lindbergh Kidnapping, Violet Sharp is a young British maid working at the home of Anne Lindbergh’s mother. In the wake of the historic kidnapping, Violet raises suspicion with contradictory testimony about her whereabouts to police investigator Officer Walsh. Under pressure from her own personal demons as well as the police, Violet’s efforts to clear her name can't overcome a growing reputation of guilt.*<br><br>Featuring John Marshall as gritty police interrogator Harry Walsh."
+    excerpt: "**PISD CenterStage**: July, 2019<br><br>*Based on the true story of the 1932 Lindbergh Kidnapping, Violet Sharp is a young British maid who raises suspicion with contradictory testimony about her whereabouts. Under pressure from her own personal demons as well as the police, Violet’s efforts to clear her name can't overcome a growing reputation of guilt.*<br><br>Featuring John Marshall as overvealous police interrogator Harry Walsh."
 feature_row5:
   - image_path: /assets/images/Bright-Ideas-VHS.jpg
     alt: "Bright Ideas"
@@ -240,7 +240,7 @@ Coming soon (March 2020)!
 {% include video id="295641795" provider="vimeo" %}
 
 ## The Diviners
-"**PISD CenterStage**: June 2017<br><br>*A luminous story of religion and magic, faith and doubt, love and grief. The story of a disturbed young man and his friendship with a disenchanted preacher in southern Indiana in the early 1930s.*<br><br> Featuring John Marshall as Farmer/Doctor Basil Bennett.
+**PISD CenterStage**: June 2017<br><br>*A luminous story of religion and magic, faith and doubt, love and grief. The story of a disturbed young man and his friendship with a disenchanted preacher in southern Indiana in the early 1930s.*<br><br> Featuring John Marshall as Farmer/Doctor Basil Bennett.
 
 ## Coffee House - Frozen
 {% include feature_row id="feature_row11" type="left" %}
