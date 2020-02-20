@@ -155,7 +155,7 @@ feature_row9:
 feature_row11:
   - image_path: /assets/images/May-Coffee-House.png
     alt: "Vines Spring Coffee House - Frozen"
-    excerpt: "**Vines High School**: May, 4 2018<br><br>*In the (somewhat) epic finale of their three year trilogy, John Marshall, Fletcher Cummings, and non-identical twins Sam and Adam Koch, give the Disney classic Frozen their patented 5 minute - plus or minus - parody treatment (and yes, Elsa, finally learns to let things go)!* <br><br>Featuring John Marshall as Kristoff/Hans"
+    excerpt: "**Vines High School**: May, 4 2018<br><br>*In the (somewhat) epic finale of their three year trilogy, John Marshall, Fletcher Cummings, and non-identical twins Sam and Adam Koch, give the Disney classic Frozen their patented 5 minute (plus or minus) parody treatment (and yes, Elsa, finally learns to let things go)!*<br><br>Featuring John Marshall as Kristoff/Hans"
 feature_row12:
   - image_path: /assets/images/The-Shakespeare-Project-VHS.jpg
     alt: "The Shakespeare Project"
@@ -183,7 +183,7 @@ feature_row17:
 feature_row18:
   - image_path: /assets/images/Lend-Me-a-Tenor.jpg
     alt: "Lend Me a Tenor"
-    excerpt: "**Vines High School**: May 13, 2017 <br><br>*Set in the 1930s, Lend Me a Tenor is a madcap screwball comedy that takes place when Tito Merelli, the fiery-tempered and world famous Italian superstar, arrives in Cleveland, Ohio to make his debut with the local opera and promptly goes missing. As Saunders, the show’s presenter, conspires to cover for Tito’s absence, he taps his hapless assistant, an **aspiring singer named Max**, to suit up and replace Merelli.*  <br><br>Featuring John Marshall, in his onstage singng debut, as Max" 
+    excerpt: "**Vines High School**: May 13, 2017<br><br>*Set in the 1930s, Lend Me a Tenor is a madcap screwball comedy that takes place when Tito Merelli, the fiery-tempered and world famous Italian superstar, arrives in Cleveland, Ohio to make his debut with the local opera and promptly goes missing. As Saunders, the show’s presenter, conspires to cover for Tito’s absence, he taps his hapless assistant, an aspiring singer named Max, to suit up and replace Merelli.*<br><br>Featuring John Marshall, in his onstage singng debut, as Max" 
 feature_row19:
   - image_path: /assets/images/The-Drowsey-Chaperone-VHS.jpg
     alt: "The Drowsey Chaperone"
@@ -199,7 +199,7 @@ feature_row21:
 feature_row22:
   - image_path: /assets/images/SubText-VHS.jpg
     alt: "subText"
-    excerpt: "**Vines High School**: Sept. 23-24, 2016<br><br>*Even though everybody on the planet is just a text away, getting your message across has never been more complicated. subText is a hilarious series of vignettes detailing the awkwardness of dating in the digital age, from capturing the perfect selfie to making a relationship Facebook official. At its heart, subText is a reminder that love is a lot of things, but it is rarely a thing of convenience."* <br><br>John Marshall - Drew/Boy #2"  
+    excerpt: "**Vines High School**: Sept. 23-24, 2016<br><br>*Even though everybody on the planet is just a text away, getting your message across has never been more complicated. subText is a hilarious series of vignettes detailing the awkwardness of dating in the digital age, from capturing the perfect selfie to making a relationship Facebook official. At its heart, subText is a reminder that love is a lot of things, but it is rarely a thing of convenience."*<br><br>John Marshall - Drew/Boy #2"  
 ---
 # Media Gallery 
 Scroll through the Media Gallery for additional details on productions, cast and crew photos (click to expand images), and select videos.
