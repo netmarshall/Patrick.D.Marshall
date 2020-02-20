@@ -159,7 +159,7 @@ feature_row11:
 feature_row12:
   - image_path: /assets/images/The-Shakespeare-Project-VHS.jpg
     alt: "The Shakespeare Project"
-    excerpt: "**Vines High School**: Apr. 13-14, 2018<br><br>*By taking the most famous scenes and monologues from the canon of Shakespearean works and presenting them in a contemporary style, new and often remarkable interpretations of the classic materials emerge. We see the balcony scene from Romeo and Juliet as a late-night phone call, the witches from Macbeth as bag ladies, the wooing scene from **The Taming of the Shrew as a wrestling bout**, and Marc Antony's speech from Julius Caesar as a press conference. *<br><br>John Marshall - Petruchio"
+    excerpt: "**Vines High School**: Apr. 13-14, 2018<br><br>*The most famous Shakespearean scenes and monologues presentedin a contemporary style. We see the balcony scene from Romeo and Juliet as a late-night phone call, the witches from Macbeth as bag ladies, the **wooing scene from The Taming of the Shrew as a wrestling bout**, the confrontation between Harry and Hotspur from Henry IV done in ritualistic fighting mode, and Marc Antony's speech from Julius Caesar as a press conference.*<br><br>Featuring John Marshall as Petruchio"
 feature_row13:
   - image_path: /assets/images/On-Having-Good-Fortune-and-Other-Worthwile-Things.jpg
     alt: "On Having Good Fortune and Other Worthwhile Things"
@@ -171,11 +171,11 @@ feature_row14:
 feature_row15:
   - image_path: /assets/images/The-Secret-Life-of-Madam-Dufarge-VHS.jpg
     alt: "The Secret Life of Madam Dufarge"
-    excerpt: "**Vines High School**: Nov. 2/8/11, 2017<br><br>*Show summary coming soon!*<br><br>John Marshall - Ernest Defarge"
+    excerpt: "**Vines High School**: Nov. 2/8/11, 2017<br><br>*Madame Defarge is one of Dickens' supreme villainesses. Her secret drives her to seek a revenge so strong that it ties her to the French revolution. In this short play, the main story of Charles Dickens' A Tale of Two Cities becomes the peripheral story to that of Madame Defarge and her single-minded revenge.*<br><br>Featruing John Marshall as Ernest Defarge"
 feature_row16:
   - image_path: /assets/images/Too-Much-Light-Makes-the-Baby-Go-Blind-VHS.jpg
     alt: "Too Much Light Makes the Baby Go Blind"
-    excerpt: "**Vines High School**: Sept. 28-30, 2017<br><br>*Show summary coming soon!*<br><br>John Marshall - Himself"
+    excerpt: "**Vines High School**: Sept. 28-30, 2017<br><br>*The longest-running show in Chicago history, Too Much Light Makes The Baby Go Blind is an ensemble experiment in presenting "30 Plays in 60 Minutes." Each two-minute play is performed in random order with an interactive audience. An onstage 60-minute timer keeps everyone honest.*<br><br>John Marshall - Himself"
 feature_row17:
   - image_path: /assets/images/Humanity.png
     alt: "Oh the Humanity"
