@@ -139,7 +139,7 @@ feature_row5:
 feature_row6:
   - image_path: /assets/images/These Shining Lives.jpg
     alt: "These Shining Lives"
-    excerpt: "**Plano Senior High School**: April 18, 2019 <br><br>*Show summary coming soon!*   <br><br>John Marshall recoginzed as the **2019 UIL District Level Best Actor** for his his portrayl of Tom Donohue."      
+    excerpt: "**Plano Senior High School**: April 18, 2019 <br><br>*Show summary coming soon!*   <br><br>John Marshall recoginzed as the **2019 UIL District Level Best Actor** for his his portrayal of Tom Donohue."      
 feature_row7:
   - image_path: /assets/images/Mamma-Mia-PSHS.jpg
     alt: "Mamma Mia"
