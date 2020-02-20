@@ -139,7 +139,7 @@ feature_row5:
 feature_row6:
   - image_path: /assets/images/These Shining Lives.jpg
     alt: "These Shining Lives"
-    excerpt: "**Plano Senior High School**: April 18, 2019<br><br>*Based on the true account of four women who worked for the Radium Dial Company watch factory in the late 20’s and early 30’s, the play chronicles the danger women faced in the American workforce, and the lack of concern by companies for protecting the health of its employees.*<br><br>John Marshall recoginzed as the **2019 UIL District Level Best Actor** for his his portrayal of Tom Donohue."      
+    excerpt: "**Plano Senior High School**: March 19, 2019<br><br>*Based on the true account of four women who worked for the Radium Dial Company watch factory in the late 20’s and early 30’s, the play chronicles the danger women faced in the American workforce, and the lack of concern by companies for protecting the health of its employees.*<br><br>John Marshall recoginzed as the **2019 UIL District Level Best Actor** for his his portrayal of Tom Donohue."      
 feature_row7:
   - image_path: /assets/images/Mamma-Mia-PSHS.jpg
     alt: "Mamma Mia"
