@@ -7,7 +7,7 @@ header:
   overlay_image: /assets/images/Splash.png
   
     
-excerpt: "I get by with a LOT of help from my friends <br>and mentors, and family!"
+excerpt: "I get by with a LOT of help<br>from my friends,mentors, and family!"
 
 ---
 ## Special Thanks
