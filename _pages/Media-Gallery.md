@@ -159,11 +159,11 @@ feature_row11:
 feature_row12:
   - image_path: /assets/images/The-Shakespeare-Project-VHS.jpg
     alt: "The Shakespeare Project"
-    excerpt: "**Vines High School**: Apr. 13-14, 2018<br><br>*The most famous Shakespearean scenes and monologues presentedin a contemporary style. We see the balcony scene from Romeo and Juliet as a late-night phone call, the witches from Macbeth as bag ladies, the **wooing scene from The Taming of the Shrew as a wrestling bout**, the confrontation between Harry and Hotspur from Henry IV done in ritualistic fighting mode, and Marc Antony's speech from Julius Caesar as a press conference.*<br><br>Featuring John Marshall as Petruchio"
+    excerpt: "**Vines High School**: Apr. 13-14, 2018<br><br>*The most famous Shakespearean scenes and monologues presentedin a contemporary style. We see the balcony scene from Romeo and Juliet as a late-night phone call, the witches from Macbeth as bag ladies, the **wooing scene from The Taming of the Shrew as a wrestling bout**, and Marc Antony's speech from Julius Caesar as a press conference.*<br><br>Featuring John Marshall as Petruchio"
 feature_row13:
   - image_path: /assets/images/On-Having-Good-Fortune-and-Other-Worthwile-Things.jpg
     alt: "On Having Good Fortune and Other Worthwhile Things"
-    excerpt: "**Vines High School**: Feb. 17, 2018 <br><br>*Fake Fortune tellers Edgar and Ethel work at a circus swindling people locals. Everything is going swell until a mysterious woman comes into their tent claiming to be a real fortune teller. She tells them of 3 events that will come to pass: one of them shall find love and be loved in return while the other shall love in vain, one shall betray their father,and one shall die. Each tries to sabotage the other to be the one who lives.*<br><br>**John Marshall** and **Adam Koch** Co-Direct this student led production"
+    excerpt: "**Vines High School**: Feb. 17, 2018 <br><br>*Fake Fortune tellers Edgar and Ethel work at a circus swindling locals. Everything is going swell until a mysterious woman comes into their tent claiming to be a real fortune teller. She tells them of 3 events that will come to pass: one of them shall find love and be loved in return while the other shall love in vain, one shall betray their father,and one shall die. Each tries to sabotage the other to be the one who lives.*<br><br>**John Marshall** and **Adam Koch** Co-Direct this student led production"
 feature_row14:
   - image_path: /assets/images/Winter-Coffee-House.png
     alt: "The Little Mermaid"
