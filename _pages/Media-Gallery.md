@@ -151,7 +151,7 @@ feature_row8:
 feature_row9:
   - image_path: /assets/images/Almost-Maine-PSHS.jpg
     alt: "Almost, Maine"
-    excerpt: "**Plano Senior High School**: Oct 18-20, 2019<br><br>*Welcome to Almost, Maine, a town that’s so far north, it’s almost not in the United States-it’s almost in Canada. And it almost doesn’t exist. Because its residents never got around to getting organized. So it’s just…Almost..*<br><br>**ALMOST, MAINE**: It’s love. But not quite.<br><br>Featuring John Marshall as **East**"
+    excerpt: "**Plano Senior High School**: Oct 18-20, 2018<br><br>*Welcome to Almost, Maine, a town that’s so far north, it’s almost not in the United States-it’s almost in Canada. And it almost doesn’t exist. Because its residents never got around to getting organized. So it’s just…Almost..*<br><br>**ALMOST, MAINE**: It’s love. But not quite.<br><br>Featuring John Marshall as **East**"
 feature_row11:
   - image_path: /assets/images/May-Coffee-House.png
     alt: "Vines Spring Coffee House - Frozen"
@@ -163,7 +163,7 @@ feature_row12:
 feature_row13:
   - image_path: /assets/images/On-Having-Good-Fortune-and-Other-Worthwile-Things.jpg
     alt: "On Having Good Fortune and Other Worthwhile Things"
-    excerpt: "**Vines High School**: Apr. 13-14, 2018 <br><br>*Fake Fortune tellers Edgar and Ethel work at a circus swindling people locals. Everything is going swell until a mysterious woman comes into their tent claiming to be a real fortune teller. She tells them of 3 events that will come to pass: one of them shall find love and be loved in return while the other shall love in vain, one shall betray their father,and one shall die. Each tries to sabotage the other to be the one who lives.*<br><br>**John Marshall** and **Adam Koch** Co-Direct this student led production"
+    excerpt: "**Vines High School**: Feb. 17, 2018 <br><br>*Fake Fortune tellers Edgar and Ethel work at a circus swindling people locals. Everything is going swell until a mysterious woman comes into their tent claiming to be a real fortune teller. She tells them of 3 events that will come to pass: one of them shall find love and be loved in return while the other shall love in vain, one shall betray their father,and one shall die. Each tries to sabotage the other to be the one who lives.*<br><br>**John Marshall** and **Adam Koch** Co-Direct this student led production"
 feature_row14:
   - image_path: /assets/images/Winter-Coffee-House.png
     alt: "The Little Mermaid"
@@ -244,7 +244,7 @@ John Marshall returns to the role of Eurydice's Father, having previously been a
 {% include video id="295641795" provider="vimeo" %}
 
 ## The Diviners
-**PISD CenterStage**: June 2017<br><br>*A luminous story of religion and magic, faith and doubt, love and grief. The story of a disturbed young man and his friendship with a disenchanted preacher in southern Indiana in the early 1930s.*<br><br> Featuring John Marshall as Farmer/Doctor Basil Bennett.
+**PISD CenterStage**: June 2018<br><br>*A luminous story of religion and magic, faith and doubt, love and grief. The story of a disturbed young man and his friendship with a disenchanted preacher in southern Indiana in the early 1930s.*<br><br> Featuring John Marshall as Farmer/Doctor Basil Bennett.
 
 ## Coffee House - Frozen
 {% include feature_row id="feature_row11" type="left" %}
