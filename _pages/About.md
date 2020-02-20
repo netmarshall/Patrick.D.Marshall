@@ -9,7 +9,7 @@ header:
     - label: "Downloads"
       url: "https://netmarshall.github.io/John.H.Marshall/downloads/"
     
-excerpt: "Actor. Student. All around decent Human."
+excerpt: "Actor. Student.<br>All around<br>decent Human."
 
 ---
 {% include toc title="On this Page" %}
