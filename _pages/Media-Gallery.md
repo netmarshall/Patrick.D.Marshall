@@ -123,11 +123,11 @@ feature_row:
 feature_row2:
   - image_path: /assets/images/Macabaret-PSHS.jpg
     alt: "Macabaret Night"
-    excerpt: "**Plano Senior High School**: Oct. 25-26, 2019 <br><br>*A night of song, dance, and terror!*  <br><br>Featuring John Marshall as Gomez Addams (leading his family in When Your'e an Addams), prologue Announcer and Ensemble singer/dancer in Little Shop of Horrors, learning how to Build a Man in just 7 days the Rocky Horror way, and Doing the Time Warp Thriller style!"
+    excerpt: "**Plano Senior High School**: Oct. 25-26, 2019<br><br>*A night of song, dance, and terror!* <br><br>Featuring John Marshall as Gomez Addams (leading his family in When Your'e an Addams), prologue Announcer and Ensemble singer/dancer in Little Shop of Horrors, learning how to Build a Man in just 7 days the Rocky Horror way, and Doing the Time Warp Thriller style!"
 feature_row3:
   - image_path: /assets/images/Wendy-and-Peter-Pan-PSHS.jpg
     alt: "Wendy and Peter Pan"
-    excerpt: "**Plano Senior High School**: Oct. 25-26, 2019 <br><br>*Wendy Darling and her brothers sleep peacefully in their bedroom as their parents bicker downstairs. In a sudden flurry of snow their window blows open and mischievous boy called Peter (and a fairy named Tink) stumble into their lives!*  <br><br>Featuring John Marshall as George Darling."
+    excerpt: "**Plano Senior High School**: Oct. 25-26, 2019<br><br>*Wendy Darling and her brothers sleep peacefully in their bedroom as their parents bicker downstairs. In a sudden flurry of snow their window blows open and mischievous boy called Peter (and a fairy named Tink) stumble into their lives!*<br><br>Featuring John Marshall as George Darling."
 feature_row4:
   - image_path: /assets/images/Violet-Sharp-banner.png
     alt: "Violet Sharp"
@@ -135,19 +135,19 @@ feature_row4:
 feature_row5:
   - image_path: /assets/images/Bright-Ideas-VHS.jpg
     alt: "Bright Ideas"
-    excerpt: "**Plano Senior High School**: April 18, 2019<br><br>*How far would you go for your child? For Genevra and Joshua Bradley, the question is no longer hypothetical. Josh and Gen have had to scramble all their lives to get this far…and now they are one fatal dinner party away from the ultimate success as parents: The Right Pre-School.* <br><br>Featuring John Marshall as Joshua Bradley."   
+    excerpt: "**Plano Senior High School**: April 18, 2019<br><br>*How far would you go for your child? For Genevra and Joshua Bradley, the question is no longer hypothetical. Josh and Gen have had to scramble all their lives to get this far…and now they are one fatal dinner party away from the ultimate success as parents: The Right Pre-School.*<br><br>Featuring John Marshall as Joshua Bradley."   
 feature_row6:
   - image_path: /assets/images/These Shining Lives.jpg
     alt: "These Shining Lives"
-    excerpt: "**Plano Senior High School**: April 18, 2019<br><br>*Based on the true account of four women who worked for the Radium Dial Company watch factory in the late 20’s and early 30’s, the play chronicles the danger women faced in the American workforce, and the lack of concern by companies for protecting the health of its employees.*   <br><br>John Marshall recoginzed as the **2019 UIL District Level Best Actor** for his his portrayal of Tom Donohue."      
+    excerpt: "**Plano Senior High School**: April 18, 2019<br><br>*Based on the true account of four women who worked for the Radium Dial Company watch factory in the late 20’s and early 30’s, the play chronicles the danger women faced in the American workforce, and the lack of concern by companies for protecting the health of its employees.*<br><br>John Marshall recoginzed as the **2019 UIL District Level Best Actor** for his his portrayal of Tom Donohue."      
 feature_row7:
   - image_path: /assets/images/Mamma-Mia-PSHS.jpg
     alt: "Mamma Mia"
-    excerpt: "**Plano Senior High School**: Jan. 24-27, 2019 <br><br>*ABBA's greatest hits are woven into a sunny tale set on a Greek island. On the eve of her wedding, a bride's quest to discover her father's identity brings three men from her mother's past back to the place they last visited 20 years ago.*   <br><br>John Marshall - Ensemble"
+    excerpt: "**Plano Senior High School**: Jan. 24-27, 2019<br><br>*ABBA's greatest hits are woven into a sunny tale set on a Greek island. On the eve of her wedding, a bride's quest to discover her father's identity brings three men from her mother's past back to the place they last visited 20 years ago.* <br><br>John Marshall - Ensemble"
 feature_row8:
   - image_path: /assets/images/Cabaret-Night-PSHS.jpg
     alt: "Cabaret-Night"
-    excerpt: "**Plano Senior High School**: Nov. 1-2, 2018 <br><br>*Show summary coming soon!*  <br><br>John Marshall - Evan Hansen/Ensemble"      
+    excerpt: "**Plano Senior High School**: Nov. 1-2, 2018<br><br>*Show summary coming soon!*<br><br>John Marshall - Evan Hansen/Ensemble"      
 feature_row9:
   - image_path: /assets/images/Almost-Maine-PSHS.jpg
     alt: "Almost, Maine"
@@ -155,11 +155,11 @@ feature_row9:
 feature_row11:
   - image_path: /assets/images/May-Coffee-House.png
     alt: "Vines Spring Coffee House - Frozen"
-    excerpt: "**Vines High School**: May, 4 2018 <br><br>*In the (somewhat) epic finale of their three year trilogy, John Marshall, Fletcher Cummings, and non-identical twins Sam and Adam Koch, give the Disney classic Frozen their patented 5 minute- plus or minus - parody treatment (and yes, Elsa, finally learns to let things go)!*  <br><br>Featuring John Marshall as Kristoff/Hans"
+    excerpt: "**Vines High School**: May, 4 2018<br><br>*In the (somewhat) epic finale of their three year trilogy, John Marshall, Fletcher Cummings, and non-identical twins Sam and Adam Koch, give the Disney classic Frozen their patented 5 minute - plus or minus - parody treatment (and yes, Elsa, finally learns to let things go)!* <br><br>Featuring John Marshall as Kristoff/Hans"
 feature_row12:
   - image_path: /assets/images/The-Shakespeare-Project-VHS.jpg
     alt: "The-Shakespeare-Project"
-    excerpt: "**Vines High School**: Apr. 13-14, 2018 <br><br>*Show summary coming soon!*  <br><br>John Marshall - Petruchio"
+    excerpt: "**Vines High School**: Apr. 13-14, 2018 <br><br>*Show summary coming soon!*<br><br>John Marshall - Petruchio"
 feature_row13:
   - image_path: /assets/images/On-Having-Good-Fortune-and-Other-Worthwile-Things.jpg
     alt: "On Having Good Fortune and Other Worthwhile Things"
@@ -175,7 +175,7 @@ feature_row15:
 feature_row16:
   - image_path: /assets/images/Too-Much-Light-Makes-the-Baby-Go-Blind-VHS.jpg
     alt: "Too Much Light Makes the Baby Go Blind"
-    excerpt: "**Vines High School**: Sept. 28-30, 2017 <br><br>*Show summary coming soon!*  <br><br>John Marshall - Himslef"
+    excerpt: "**Vines High School**: Sept. 28-30, 2017<br><br>*Show summary coming soon!*<br><br>John Marshall - Himslef"
 feature_row17:
   - image_path: /assets/images/Humanity.png
     alt: "Oh, the Humanity""
