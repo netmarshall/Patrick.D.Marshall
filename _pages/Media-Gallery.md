@@ -123,7 +123,7 @@ feature_row:
 feature_row2:
   - image_path: /assets/images/Macabaret-PSHS.jpg
     alt: "Macabaret Night"
-    excerpt: "**Plano Senior High School**: Oct. 25-26, 2019 <br><br>*A night of song, dance, and terror!*  <br><br>Featuring John Marshall as Gomez Addams (leading his family in When Your'e an Addams), Prologue Announcer and Ensemble singer/dancer in Little Shop of Horrors, learning how to Build a Man in just 7 days the Rocky Horror way, and Doing the Time Warp Thriller style!"
+    excerpt: "**Plano Senior High School**: Oct. 25-26, 2019 <br><br>*A night of song, dance, and terror!*  <br><br>Featuring John Marshall as Gomez Addams (leading his family in When Your'e an Addams), prologue Announcer and Ensemble singer/dancer in Little Shop of Horrors, learning how to Build a Man in just 7 days the Rocky Horror way, and Doing the Time Warp Thriller style!"
 feature_row3:
   - image_path: /assets/images/Wendy-and-Peter-Pan-PSHS.jpg
     alt: "Wendy and Peter Pan"
@@ -131,15 +131,15 @@ feature_row3:
 feature_row4:
   - image_path: /assets/images/Violet-Sharp-banner.png
     alt: "Violet Sharp"
-    excerpt: "**PISD CenterStage**: July, 2019 <br><br>*Based on the true story of the 1932 Lindbergh Kidnapping, Violet Sharp is a young British maid working at the home of Anne Lindbergh’s mother. In the wake of the historic kidnapping, Violet raises suspicion with contradictory testimony about her whereabouts to police investigator Officer Walsh. Under pressure from her own personal demons as well as the police, Violet’s efforts to clear her name can't overcome a growing reputation of guilt.*  <br><br>Featuring John Marshall as gritty police interrogator Harry Walsh."
+    excerpt: "**PISD CenterStage**: July, 2019 <br><br>*Based on the true story of the 1932 Lindbergh Kidnapping, Violet Sharp is a young British maid working at the home of Anne Lindbergh’s mother. In the wake of the historic kidnapping, Violet raises suspicion with contradictory testimony about her whereabouts to police investigator Officer Walsh. Under pressure from her own personal demons as well as the police, Violet’s efforts to clear her name can't overcome a growing reputation of guilt.*<br><br>Featuring John Marshall as gritty police interrogator Harry Walsh."
 feature_row5:
   - image_path: /assets/images/Bright-Ideas-VHS.jpg
     alt: "Bright Ideas"
-    excerpt: "**Plano Senior High School**: April 18, 2019 <br><br>*How far would you go for your child? For Genevra and Joshua Bradley, the question is no longer hypothetical. Josh and Gen have had to scramble all their lives to get this far…and now they are one fatal dinner party away from the ultimate success as parents: The Right Pre-School.*  <br><br>Featuring John Marshall as Joshua Bradley."   
+    excerpt: "**Plano Senior High School**: April 18, 2019<br><br>*How far would you go for your child? For Genevra and Joshua Bradley, the question is no longer hypothetical. Josh and Gen have had to scramble all their lives to get this far…and now they are one fatal dinner party away from the ultimate success as parents: The Right Pre-School.* <br><br>Featuring John Marshall as Joshua Bradley."   
 feature_row6:
   - image_path: /assets/images/These Shining Lives.jpg
     alt: "These Shining Lives"
-    excerpt: "**Plano Senior High School**: April 18, 2019 <br><br>*Based on the true account of four women who worked for the Radium Dial Company watch factory in the late 20’s and early 30’s, the play chronicles the danger women faced in the American workforce, and the lack of concern by companies for protecting the health of its employees.*   <br><br>John Marshall recoginzed as the **2019 UIL District Level Best Actor** for his his portrayal of Tom Donohue."      
+    excerpt: "**Plano Senior High School**: April 18, 2019<br><br>*Based on the true account of four women who worked for the Radium Dial Company watch factory in the late 20’s and early 30’s, the play chronicles the danger women faced in the American workforce, and the lack of concern by companies for protecting the health of its employees.*   <br><br>John Marshall recoginzed as the **2019 UIL District Level Best Actor** for his his portrayal of Tom Donohue."      
 feature_row7:
   - image_path: /assets/images/Mamma-Mia-PSHS.jpg
     alt: "Mamma Mia"
@@ -177,9 +177,9 @@ feature_row16:
     alt: "Too Much Light Makes the Baby Go Blind"
     excerpt: "**Vines High School**: Sept. 28-30, 2017 <br><br>*Show summary coming soon!*  <br><br>John Marshall - Himslef"
 feature_row17:
-  - image_path: /assets/images/Lend-Me-a-Tenor.jpg
-    alt: "Oh, the Humnaity""
-    excerpt: "**PISD CenterStage**: June 2017 <br><br>*Two people and their two chairs seek to find meaning and direction in life, seek to find just the tiniest shred of certainty, consistency. A stranger arrives -- though he doesn't do what strangers always do, when strangers arrive. If you were ever born, and expect to ever die, this might be a play for you.*  <br><br>Featuring John Marshall as Man" 
+  - image_path: /assets/images/Humanity.png
+    alt: "Oh, the Humanity""
+    excerpt: "**PISD CenterStage**: June 2017<br><br>*Two people and their two chairs seek to find meaning and direction in life, seek to find just the tiniest shred of certainty, consistency. A stranger arrives - though he doesn't do what strangers always do, when strangers arrive. If you were ever born, and expect to ever die, this might be a play for you.*<br><br>Featuring John Marshall as Man" 
 feature_row18:
   - image_path: /assets/images/Lend-Me-a-Tenor.jpg
     alt: "Lend Me a Tenor"
@@ -195,11 +195,11 @@ feature_row20:
 feature_row21:
   - image_path: /assets/images/Front-VHS.jpg
     alt: "Front"
-    excerpt: "**Vines High School**: Nov. 10/12, 2016 <br><br>*Set in England during the Blitz, a number of struggling individuals and families come to terms with war and the horrors and tragedies it provides. This includes Judith, a proud matriarch, who works in a factory that makes bomb detonators, her missing husband, Frank, and their two children, Angie and Tom who are forced to grow up much too quickly. A number of other war-torn individuals are also profiled, each butting heads with the raging war.*  <br><br>John Marshall - Tom" 
+    excerpt: "**Vines High School**: Nov. 10/12, 2016<br><br>*Set in England during the Blitz, a number of struggling individuals and families come to terms with war and the horrors and tragedies it provides. This includes Judith, a proud matriarch, who works in a factory that makes bomb detonators, her missing husband, Frank, and their two children, Angie and Tom who are forced to grow up much too quickly. A number of other war-torn individuals are also profiled, each butting heads with the raging war.*<br><br>John Marshall - Tom" 
 feature_row22:
   - image_path: /assets/images/SubText-VHS.jpg
     alt: "subText"
-    excerpt: "**Vines High School**: Sept. 23-24, 2016 <br><br>*Even though everybody on the planet is just a text away, getting your message across has never been more complicated. subText is a hilarious series of vignettes detailing the awkwardness of dating in the digital age, from capturing the perfect selfie to making a relationship Facebook official. At its heart, subText is a reminder that love is a lot of things, but it is rarely a thing of convenience."*  <br><br>John Marshall - Drew/Boy #2"  
+    excerpt: "**Vines High School**: Sept. 23-24, 2016<br><br>*Even though everybody on the planet is just a text away, getting your message across has never been more complicated. subText is a hilarious series of vignettes detailing the awkwardness of dating in the digital age, from capturing the perfect selfie to making a relationship Facebook official. At its heart, subText is a reminder that love is a lot of things, but it is rarely a thing of convenience."* <br><br>John Marshall - Drew/Boy #2"  
 ---
 # Media Gallery 
 Scroll through the Media Gallery for additional details on productions, cast and crew photos (click to expand images), and select videos.
@@ -262,7 +262,7 @@ Coming soon!
 {% include feature_row id="feature_row16" type="left" %}
 
 ## Oh, the Humanity
-Coming soon!
+{% include feature_row id="feature_row17" type="left" %}
 
 ## Lend Me a Tenor
 {% include feature_row id="feature_row18" type="left" %}
