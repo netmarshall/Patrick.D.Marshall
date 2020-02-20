@@ -7,7 +7,7 @@ header:
   overlay_image: /assets/images/Splash.png
   actions:
     - label: "Downloads"
-      url: "https://netmarshall.github.io/John.H.Marshall/download/"
+      url: "https://netmarshall.github.io/John.H.Marshall/downloads/"
 excerpt: "Lights, Camera, Action! Enjoy the show!"
 gallery:
   - url: /assets/images/Chicago1.jpg
