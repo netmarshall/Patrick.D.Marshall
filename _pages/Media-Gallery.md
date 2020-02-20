@@ -191,7 +191,7 @@ feature_row19:
 feature_row20:
   - image_path: /assets/images/Winter-Coffee-House-VHS.jpg
     alt: "Coffe House - Lion King"
-    excerpt: "**Vines High School**: Dec. 2016 <br><br>*Show summary coming soon!*  <br><br>John Marshall - Mustapha" 
+    excerpt: "**Vines High School**: Dec. 2016 <br><br>*It's open mic night at the coffee house, and John Marshall, Flethcher Cummings, and Adam and Sam Koch have rebrewed a Disney classic just for you: The Lion King! Since you are obviously a busy person, they have cut all the fluff, and boiled it down to 5 minutes of deep roasted comedy. Enjoy!*<br><br>John Marshall - Mustapha" 
 feature_row21:
   - image_path: /assets/images/Front-VHS.jpg
     alt: "Front"
