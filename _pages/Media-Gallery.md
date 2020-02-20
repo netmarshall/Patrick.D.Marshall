@@ -127,7 +127,7 @@ feature_row2:
 feature_row3:
   - image_path: /assets/images/Wendy-and-Peter-Pan-PSHS.jpg
     alt: "Wendy and Peter Pan"
-    excerpt: "**Plano Senior High School**: Oct. 25-26, 2019 <br><br>*Show summary coming soon!*  <br><br>Featuring John Marshall as George Darling."
+    excerpt: "**Plano Senior High School**: Oct. 25-26, 2019 <br><br>*Wendy Darling and her brothers sleep peacefully in their bedroom as their parents bicker downstairs. In a sudden flurry of snow their window blows open and mischievous boy callws Peter (and a fairy named Tink) stumble into thier lives!*  <br><br>Featuring John Marshall as George Darling."
 feature_row4:
   - image_path: /assets/images/Violet-Sharp-banner.png
     alt: "Violet Sharp"
