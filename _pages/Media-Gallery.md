@@ -215,7 +215,25 @@ gallery9:
   - url: /assets/images/Almost-Maine3.jpg
     image_path: /assets/images/Almost-Maine3.jpg
     alt: "Almost, Maine"  
-   
+gallery24:
+  - url: /assets/images/Shrek1.jpg
+    image_path: /assets/images/Shrek1.jpg
+    alt: "Shrek"  
+  - url: /assets/images/Shrek2.jpg
+    image_path: /assets/images/Shrek2.jpg
+    alt: "Shrek"  
+  - url: /assets/images/Shrek3.jpg
+    image_path: /assets/images/Shrek3.jpg
+    alt: "Shrek"  
+  - url: /assets/images/Shrek4.jpg
+    image_path: /assets/images/Shrek4.jpg
+    alt: "Shrek"  
+  - url: /assets/images/Shrek5.jpg
+    image_path: /assets/images/Shrek5.jpg
+    alt: "Shrek"  
+  - url: /assets/images/Shrek6.jpg
+    image_path: /assets/images/Shrek6.jpg
+    alt: "Shrek"  
 intro:   
  - excerpt: "# Media Gallery <br>Scroll through the Media Gallery for additional details on productions, cast and crew photos (click to expand images), and select videos."
 feature_row:
