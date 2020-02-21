@@ -100,10 +100,30 @@ gallery2:
     alt: "Addams Family"
   - url: /assets/images/Timewarp.jpg
     image_path: /assets/images/Timewarp.jpg
-    alt: "Timewarp"      
+    alt: "Timewarp"  
+gallery6:
+  - url: /assets/images/Shining-Lives1.jpg
+    image_path: /assets/images/Shining-Lives1.jpg
+    alt: "These Shining Lives"
+  - url: /assets/images/Shining-Lives2.jpg
+    image_path: /assets/images/Shining-Lives2.jpg
+    alt: "These Shining Lives"
+  - url: /assets/images/Shining-Lives3.jpg
+    image_path: /assets/images/Shining-Lives3.jpg
+    alt: "These Shining Lives"
+  - url: /assets/images/Shining-Lives4.jpg
+    image_path: /assets/images/Shining-Lives4.jpg
+    alt: "These Shining Lives" 
+  - url: /assets/images/Shining-Lives5.jpg
+    image_path: /assets/images/Shining-Lives5.jpg
+    alt: "These Shining Lives"    
+  - url: /assets/images/Shining-Lives6.jpg
+    image_path: /assets/images/Shining-Lives6.jpg
+    alt: "These Shining Lives"    
 gallery9:
   - url: /assets/images/Almost-Maine.png
     image_path: /assets/images/Almost-Maine.png
+    alt: "Almost, Maine"
   - url: /assets/images/Almost-Maine1.jpg
     image_path: /assets/images/Almost-Maine1.jpg
     alt: "Almost, Maine"
