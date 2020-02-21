@@ -4,7 +4,7 @@ title: "Downloads"
 header:
   overlay_color: "#000"
   overlay_filter: "0.4"
-  overlay_image: /assets/images/Splash.png
+  overlay_image: /assets/images/Downsplash.jpg
   
     
 excerpt: "Prefer things on paper? <br>Need a headshot? <br>I got you!"
