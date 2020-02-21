@@ -153,9 +153,6 @@ gallery5:
     alt: "Bright Ideas" 
   - url: /assets/images/Bright8.png
     image_path: /assets/images/Bright8.png
-    alt: "Bright Ideas"    
-  - url: /assets/images/Bright8.png
-    image_path: /assets/images/Bright8.png
   - url: /assets/images/Bright9.png
     image_path: /assets/images/Bright9.png
     alt: "Bright Ideas"  
