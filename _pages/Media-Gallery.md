@@ -129,6 +129,63 @@ gallery3:
   - url: /assets/images/Wendy9.png
     image_path: /assets/images/Wendy9.png
     alt: "Wendy and Peter Pan"
+gallery5:
+  - url: /assets/images/Bright1.png
+    image_path: /assets/images/Bright1.png
+    alt: "Bright Ideas"
+  - url: /assets/images/Bright2.png
+    image_path: /assets/images/Bright2.png
+    alt: "Bright Ideas"
+  - url: /assets/images/Bright3.png
+    image_path: /assets/images/Bright3.png
+    alt: "Bright Ideas"
+  - url: /assets/images/Bright4.png
+    image_path: /assets/images/Bright4.png
+    alt: "Bright Ideas" 
+  - url: /assets/images/Bright5.png
+    image_path: /assets/images/Bright5.png
+    alt: "Bright Ideas"    
+  - url: /assets/images/Bright6.png
+    image_path: /assets/images/Bright6.png
+    alt: "Bright Ideas"  
+  - url: /assets/images/Bright7.png
+    image_path: /assets/images/Bright7.png
+    alt: "Bright Ideas" 
+  - url: /assets/images/Bright8.png
+    image_path: /assets/images/Bright8.png
+    alt: "Bright Ideas"    
+  - url: /assets/images/Bright8.png
+    image_path: /assets/images/Bright8.png
+  - url: /assets/images/Bright9.png
+    image_path: /assets/images/Bright9.png
+    alt: "Bright Ideas"  
+  - url: /assets/images/Bright10.png
+    image_path: /assets/images/Bright10.png
+    alt: "Bright Ideas" 
+  - url: /assets/images/Bright11.png
+    image_path: /assets/images/Bright11.png
+    alt: "Bright Ideas"    
+  - url: /assets/images/Bright12.png
+    image_path: /assets/images/Bright12.png
+    alt: "Bright Ideas" 
+  - url: /assets/images/Bright13.png
+    image_path: /assets/images/Bright13.png
+    alt: "Bright Ideas" 
+  - url: /assets/images/Bright14.png
+    image_path: /assets/images/Bright14.png
+    alt: "Bright Ideas"    
+  - url: /assets/images/Bright15.png
+    image_path: /assets/images/Bright15.png
+    alt: "Bright Ideas" 
+  - url: /assets/images/Bright16.png
+    image_path: /assets/images/Bright16.png
+    alt: "Bright Ideas" 
+  - url: /assets/images/Bright17.png
+    image_path: /assets/images/Bright17.png
+    alt: "Bright Ideas"    
+  - url: /assets/images/Bright18.png
+    image_path: /assets/images/Bright18.png
+    alt: "Bright Ideas" 
 gallery6:
   - url: /assets/images/Shining-Lives1.jpg
     image_path: /assets/images/Shining-Lives1.jpg
@@ -277,7 +334,7 @@ John Marshall returns to the role of Eurydice's Father, having previously been a
 
 ## Bright Ideas
 {% include feature_row id="feature_row5" type="left" %}
-
+{% include gallery id="gallery5" %}
 ## These Shining Lives
 {% include feature_row id="feature_row6" type="left" %}
 {% include gallery id="gallery6" %}
