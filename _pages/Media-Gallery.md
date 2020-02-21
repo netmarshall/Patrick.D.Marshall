@@ -212,7 +212,7 @@ feature_row13:
 feature_row14:
   - image_path: /assets/images/Winter-Coffee-House.png
     alt: "The Little Mermaid"
-    excerpt: "**Vines High School**: Dec. 2017<br><br>*An almost, not quite, exact replica of the Little Mermaid in just 5 minutes.* <br><br>Written and performed by **John Marshall** (Ariel), **Fletcher Cummings** (Sebastian), and **Sam** (Ursula) and **Adam Koch** (King Triton/Prince Eric).<br><br>It sounds a litle fishy, but you only live once, so what the shell, give it watch!"      
+    excerpt: "**Vines High School**: Dec. 2017<br><br>*An almost, not quite, exact replica of the Little Mermaid in just 5 minutes.* <br><br>Written and performed by **John Marshall** (Ariel), **Fletcher Cummings** (Sebastian), **Sam Koch** (Ursula), and **Adam Koch** (King Triton/Prince Eric).<br><br>It sounds a litle fishy, but you only live once, so what the shell, give it watch!"      
 feature_row15:
   - image_path: /assets/images/The-Secret-Life-of-Madam-Dufarge-VHS.jpg
     alt: "The Secret Life of Madam Dufarge"
