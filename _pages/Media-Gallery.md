@@ -126,6 +126,9 @@ gallery3:
   - url: /assets/images/Wendy8.png
     image_path: /assets/images/Wendy8.png
     alt: "Wendy and Peter Pan"
+  - url: /assets/images/Wendy9.png
+    image_path: /assets/images/Wendy9.png
+    alt: "Wendy and Peter Pan"
 gallery6:
   - url: /assets/images/Shining-Lives1.jpg
     image_path: /assets/images/Shining-Lives1.jpg
