@@ -101,6 +101,31 @@ gallery2:
   - url: /assets/images/Timewarp.jpg
     image_path: /assets/images/Timewarp.jpg
     alt: "Timewarp"  
+ gallery3:
+  - url: /assets/images/Wendy1.jpg
+    image_path: /assets/images/Wendy1.jpg
+    alt: "Wendy and Peter Pan"
+  - url: /assets/images/Wendy2.jpg
+    image_path: /assets/images/Wendy2.jpg
+    alt: "Wendy and Peter Pan"
+  - url: /assets/images/Wendy3.jpg
+    image_path: /assets/images/Wendy3.jpg
+    alt: "Wendy and Peter Pan"
+  - url: /assets/images/Wendy4.jpg
+    image_path: /assets/images/Wendy4.jpg
+    alt: "Wendy and Peter Pan"
+  - url: /assets/images/Wendy5.jpg
+    image_path: /assets/images/Wendy5.jpg
+    alt: "Wendy and Peter Pan"
+  - url: /assets/images/Wendy6.png
+    image_path: /assets/images/Wendy6.png
+    alt: "Wendy and Peter Pan"
+  - url: /assets/images/Wendy7.png
+    image_path: /assets/images/Wendy7.png
+    alt: "Wendy and Peter Pan"
+  - url: /assets/images/Wendy8.png
+    image_path: /assets/images/Wendy8.png
+    alt: "Wendy and Peter Pan"
 gallery6:
   - url: /assets/images/Shining-Lives1.jpg
     image_path: /assets/images/Shining-Lives1.jpg
@@ -242,6 +267,7 @@ John Marshall returns to the role of Eurydice's Father, having previously been a
 
 ## Wendy and Peter Pan
 {% include feature_row id="feature_row3" type="left" %}
+{% include gallery id="gallery3" %}
 
 ## Violet Sharp
 {% include feature_row id="feature_row4" type="left" %}
