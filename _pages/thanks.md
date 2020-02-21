@@ -11,4 +11,4 @@ excerpt: "I get by with a LOT of help<br>from my friends, mentors, <br>and famil
 
 ---
 ## Special Thanks
-Coming soon!
+Coming  soon!
