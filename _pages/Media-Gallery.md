@@ -251,6 +251,7 @@ John Marshall returns to the role of Eurydice's Father, having previously been a
 
 ## These Shining Lives
 {% include feature_row id="feature_row6" type="left" %}
+{% include gallery id="gallery6" %}
 
 ## Mamma Mia
 {% include feature_row id="feature_row7" type="left" %}
