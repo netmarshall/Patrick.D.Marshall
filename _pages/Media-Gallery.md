@@ -101,7 +101,7 @@ gallery2:
   - url: /assets/images/Timewarp.jpg
     image_path: /assets/images/Timewarp.jpg
     alt: "Timewarp"  
- gallery3:
+gallery3:
   - url: /assets/images/Wendy1.jpg
     image_path: /assets/images/Wendy1.jpg
     alt: "Wendy and Peter Pan"
