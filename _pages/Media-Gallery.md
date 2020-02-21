@@ -159,7 +159,7 @@ feature_row11:
 feature_row12:
   - image_path: /assets/images/The-Shakespeare-Project-VHS.jpg
     alt: "The Shakespeare Project"
-    excerpt: "**Vines High School**: Apr. 13-14, 2018<br><br>*The most famous Shakespearean scenes and monologues presentedin a contemporary style. We see the balcony scene from Romeo and Juliet as a late-night phone call, the witches from Macbeth as bag ladies, the **wooing scene from The Taming of the Shrew as a wrestling bout**, and Marc Antony's speech from Julius Caesar as a press conference.*<br><br>Featuring John Marshall as Petruchio"
+    excerpt: "**Vines High School**: Apr. 13-14, 2018<br><br>*The most famous Shakespearean scenes and monologues presented in a contemporary style. We see the balcony scene from Romeo and Juliet as a late-night phone call, the witches from Macbeth as bag ladies, the **wooing scene from The Taming of the Shrew as a wrestling bout**, and Marc Antony's speech from Julius Caesar as a press conference.*<br><br>Featuring John Marshall as Petruchio"
 feature_row13:
   - image_path: /assets/images/On-Having-Good-Fortune-and-Other-Worthwile-Things.jpg
     alt: "On Having Good Fortune and Other Worthwhile Things"
