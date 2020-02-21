@@ -410,4 +410,4 @@ John Marshall returns to the role of Eurydice's Father, having previously been a
 
 ## Shrek the Musical Jr. 
 **Haggard Middle School**: Nov. 2015<br><br>*Everyone's favorite ogre is back in this hilarious stage spectacle, based on the Oscar-winning smash hit film and outrageous Broadway musical.*<br><br>John Marshall - Captain of the Gaurd
-
+{% include feature_row id="feature_row24" type="left" %}
