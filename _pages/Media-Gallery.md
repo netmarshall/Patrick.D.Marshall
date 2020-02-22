@@ -253,6 +253,42 @@ gallery5:
     image_path: /assets/images/Bright18.png
     alt: "Bright Ideas" 
 gallery6:
+ - url: /assets/images/Shining-Lives1.png
+    image_path: /assets/images/Shining-Lives1.png
+    alt: "These Shining Lives"
+  - url: /assets/images/Shining-Lives2.png
+    image_path: /assets/images/Shining-Lives2.png
+    alt: "These Shining Lives"
+  - url: /assets/images/Shining-Lives3.png
+    image_path: /assets/images/Shining-Lives3.png
+    alt: "These Shining Lives"
+  - url: /assets/images/Shining-Lives4.png
+    image_path: /assets/images/Shining-Lives4.png
+    alt: "These Shining Lives" 
+  - url: /assets/images/Shining-Lives5.png
+    image_path: /assets/images/Shining-Lives5.png
+    alt: "These Shining Lives"    
+  - url: /assets/images/Shining-Lives6.png
+    image_path: /assets/images/Shining-Lives6.png
+    alt: "These Shining Lives"    
+  - url: /assets/images/Shining-Lives7.png
+    image_path: /assets/images/Shining-Lives7.png
+    alt: "These Shining Lives"
+  - url: /assets/images/Shining-Lives8.png
+    image_path: /assets/images/Shining-Lives8.png
+    alt: "These Shining Lives"
+  - url: /assets/images/Shining-Lives9.png
+    image_path: /assets/images/Shining-Lives9.png
+    alt: "These Shining Lives"
+  - url: /assets/images/Shining-Lives10.png
+    image_path: /assets/images/Shining-Lives10.png
+    alt: "These Shining Lives" 
+  - url: /assets/images/Shining-Lives11.png
+    image_path: /assets/images/Shining-Lives11.png
+    alt: "These Shining Lives"    
+  - url: /assets/images/Shining-Lives12.png
+    image_path: /assets/images/Shining-Lives12.png
+    alt: "These Shining Lives"  
   - url: /assets/images/Shining-Lives1.jpg
     image_path: /assets/images/Shining-Lives1.jpg
     alt: "These Shining Lives"
