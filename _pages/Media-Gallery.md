@@ -95,6 +95,15 @@ gallery2:
   - url: /assets/images/Little-Shop3.jpg
     image_path: /assets/images/Little-Shop3.jpg
     alt: "Little Shop"
+  - url: /assets/images/Little-Shop4.png
+    image_path: /assets/images/Little-Shop4.png
+    alt: "Little Shop"
+  - url: /assets/images/Little-Shop5.png
+    image_path: /assets/images/Little-Shop5.png
+    alt: "Little Shop"
+  - url: /assets/images/Little-Shop6.png
+    image_path: /assets/images/Little-Shop6.png
+    alt: "Little Shop"
   - url: /assets/images/Addams1.png
     image_path: /assets/images/Addams1.png
     alt: "Addams Family"
@@ -301,7 +310,7 @@ feature_row:
 feature_row2:
   - image_path: /assets/images/Macabaret-PSHS.jpg
     alt: "Macabaret Night"
-    excerpt: "**Plano Senior High School**: Oct. 25-26, 2019<br><br>*A night of song, dance, and terror!* <br><br>Featuring John Marshall as Gomez Addams (leading his family in When Your'e an Addams), prologue Announcer and Ensemble singer/dancer in Little Shop of Horrors, learning how to Build a Man in just 7 days the Rocky Horror way, and Doing the Time Warp Thriller style!"
+    excerpt: "**Plano Senior High School**: Oct. 25-26, 2019<br><br>*A night of song, dance, and terror!* <br><br>Featuring John Marshall as prologue Announcer and Ensemble singer/dancer in Little Shop of Horrors, Gomez Addams (leading his family in When Your'e an Addams), learning how to Build a Man in just 7 days the Rocky Horror way, and Doing the Time Warp Thriller style!"
 feature_row3:
   - image_path: /assets/images/Wendy-and-Peter-Pan-PSHS.jpg
     alt: "Wendy and Peter Pan"
