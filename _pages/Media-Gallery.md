@@ -149,6 +149,24 @@ gallery2:
   - url: /assets/images/Addams15.png
     image_path: /assets/images/Addams15.png
     alt: "Addams Family"
+  - url: /assets/images/Rocky1.png
+    image_path: /assets/images/Rocky1.png
+    alt: "Timewarp"
+  - url: /assets/images/Rocky2.png
+    image_path: /assets/images/Rocky2.png
+    alt: "Timewarp"
+  - url: /assets/images/Rocky3.png
+    image_path: /assets/images/Rocky3.png
+    alt: "Timewarp"
+  - url: /assets/images/Rocky4.png
+    image_path: /assets/images/Rocky4.png
+    alt: "Timewarp"
+  - url: /assets/images/Rocky5.png
+    image_path: /assets/images/Rocky5.png
+    alt: "Timewarpy"
+  - url: /assets/images/Rocky6.png
+    image_path: /assets/images/Rocky6.png
+    alt: "Timewarp"
   - url: /assets/images/Timewarp.jpg
     image_path: /assets/images/Timewarp.jpg
     alt: "Timewarp" 
