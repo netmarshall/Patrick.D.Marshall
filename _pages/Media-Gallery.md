@@ -328,7 +328,8 @@ feature_row7:
 feature_row8:
   - image_path: /assets/images/Cabaret-Night-PSHS.jpg
     alt: "Cabaret-Night"
-    excerpt: "**Plano Senior High School**: Nov. 1-2, 2018<br><br>*Show summary coming soon!*<br><br>John Marshall - Evan Hansen/Ensemble"      
+    excerpt: "**Plano Senior High School**: Nov. 1-2, 2018<br><br>*What good is sitting alone in your room? Come hear the music play at PSHS' annual cabaret showcase! Featuring 20 performances from the hottest shows on and off  Broadway!
+Lyrics found <a href="https://www.elyrics.net/read/b/brenda-lee-lyrics/cabaret-lyrics.html">here</a>*<br><br>John Marshall - Evan Hansen/Ensemble"      
 feature_row9:
   - image_path: /assets/images/Almost-Maine-PSHS.jpg
     alt: "Almost, Maine"
@@ -388,7 +389,7 @@ Scroll through the Media Gallery for additional details on productions, cast and
 ## Eurydice
 **Plano Senior High School**: Coming March 2020!
 
-*In Eurydice, Sarah Ruhl reimagines the classic myth of Orpheus through the eyes of its heroine. Dying too young on her wedding day, Eurydice must journey to the underworld, where she reunites with her father and struggles to remember her lost love. With contemporary characters, ingenious plot twists, and breathtaking visual effects, the play is a fresh look at a timeless love story.* 
+*The classic myth of Orpheus through the eyes of its heroine. Dying too young on her wedding day, Eurydice must journey to the underworld, where she reunites with her father and struggles to remember her lost love. With contemporary characters, ingenious plot twists, and breathtaking visual effects, the play is a fresh look at a timeless love story.* 
 
 John Marshall returns to the role of Eurydice's Father, having previously been an understudy for the same role at Haggard Middle School - coincidently under the same Director, Racey Ballard, who is now Theatre Director at Plano Senior High School.<br><br>John is thrilled to be nearing the end of his Secondary School career working with the same Director that inspired him to pursue performing arts!
 
