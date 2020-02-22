@@ -215,7 +215,7 @@ gallery9:
   - url: /assets/images/Almost-Maine3.jpg
     image_path: /assets/images/Almost-Maine3.jpg
     alt: "Almost, Maine" 
-gallery9:
+gallery19:
   - url: /assets/images/Drowsy1.jpg
     image_path: /assets/images/Drowsy1.jpg
     alt: "Drowsy"
