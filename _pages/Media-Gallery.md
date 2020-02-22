@@ -325,8 +325,7 @@ feature_row7:
 feature_row8:
   - image_path: /assets/images/Cabaret-Night-PSHS.jpg
     alt: "Cabaret-Night"
-    excerpt: "**Plano Senior High School**: Nov. 1-2, 2018<br><br>*What good is sitting alone in your room? Come hear the music play at PSHS' annual cabaret showcase! Featuring 20 performances from the hottest shows on and off  Broadway!
-Lyrics found <a href="https://www.elyrics.net/read/b/brenda-lee-lyrics/cabaret-lyrics.html">here</a>*<br><br>John Marshall - Evan Hansen/Ensemble"      
+    excerpt: "**Plano Senior High School**: Nov. 1-2, 2018<br><br>*What good is sitting alone in your room? Come hear the music play at PSHS' annual cabaret showcase! Featuring 20 performances from the hottest shows on and off  Broadway!*<br><br>John Marshall - Evan Hansen/Ensemble"      
 feature_row9:
   - image_path: /assets/images/Almost-Maine-PSHS.jpg
     alt: "Almost, Maine"
