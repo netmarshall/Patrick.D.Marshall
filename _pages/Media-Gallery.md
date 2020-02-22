@@ -95,12 +95,57 @@ gallery2:
   - url: /assets/images/Little-Shop3.jpg
     image_path: /assets/images/Little-Shop3.jpg
     alt: "Little Shop"
-  - url: /assets/images/Addams.jpg
-    image_path: /assets/images/Addams.jpg
+  - url: /assets/images/Addams1.png
+    image_path: /assets/images/Addams1.png
+    alt: "Addams Family"
+  - url: /assets/images/Addams2.png
+    image_path: /assets/images/Addams2.png
+    alt: "Addams Family"
+  - url: /assets/images/Addams3.png
+    image_path: /assets/images/Addams3.png
+    alt: "Addams Family"
+  - url: /assets/images/Addams4.png
+    image_path: /assets/images/Addams4.png
+    alt: "Addams Family"
+  - url: /assets/images/Addams5.png
+    image_path: /assets/images/Addams5.png
+    alt: "Addams Family"
+  - url: /assets/images/Addams6.png
+    image_path: /assets/images/Addams6.png
+    alt: "Addams Family"
+  - url: /assets/images/Addams7.png
+    image_path: /assets/images/Addams7.png
+    alt: "Addams Family"
+  - url: /assets/images/Addams8.png
+    image_path: /assets/images/Addams8.png
+    alt: "Addams Family"
+  - url: /assets/images/Addams9.png
+    image_path: /assets/images/Addams9.png
+    alt: "Addams Family"
+  - url: /assets/images/Addams10.png
+    image_path: /assets/images/Addams10.png
+    alt: "Addams Family"
+  - url: /assets/images/Addams11.png
+    image_path: /assets/images/Addams11.png
+    alt: "Addams Family"
+  - url: /assets/images/Addams12.png
+    image_path: /assets/images/Addams12.png
+    alt: "Addams Family"
+  - url: /assets/images/Addams13.png
+    image_path: /assets/images/Addams13.png
+    alt: "Addams Family"
+  - url: /assets/images/Addams14.png
+    image_path: /assets/images/Addams14.png
+    alt: "Addams Family"
+  - url: /assets/images/Addams15.png
+    image_path: /assets/images/Addams15.png
     alt: "Addams Family"
   - url: /assets/images/Timewarp.jpg
     image_path: /assets/images/Timewarp.jpg
-    alt: "Timewarp"  
+    alt: "Timewarp" 
+  - url: /assets/images/Timewarp.jpg
+    image_path: /assets/images/Timewarp.jpg
+        alt: "Timewarp"  
 gallery3:
   - url: /assets/images/Wendy1.jpg
     image_path: /assets/images/Wendy1.jpg
