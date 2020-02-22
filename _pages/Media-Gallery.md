@@ -214,7 +214,23 @@ gallery9:
     alt: "Almost, Maine"
   - url: /assets/images/Almost-Maine3.jpg
     image_path: /assets/images/Almost-Maine3.jpg
-    alt: "Almost, Maine"  
+    alt: "Almost, Maine" 
+gallery9:
+  - url: /assets/images/Drowsy1.png
+    image_path: /assets/images/Drowsy1.png
+    alt: "Drowsy"
+  - url: /assets/images/Drowsy2.png
+    image_path: /assets/images/Drowsy2.png
+    alt: "Drowsy"
+  - url: /assets/images/Drowsy3.png
+    image_path: /assets/images/Drowsy3.png
+    alt: "Drowsy"
+  - url: /assets/images/Drowsy4.png
+    image_path: /assets/images/Drowsy4.png
+    alt: "Drowsy"
+  - url: /assets/images/Drowsy5.png
+    image_path: /assets/images/Drowsy5.png
+    alt: "Drowsy"
 gallery24:
   - url: /assets/images/Shrek1.jpg
     image_path: /assets/images/Shrek1.jpg
@@ -395,6 +411,7 @@ John Marshall returns to the role of Eurydice's Father, having previously been a
 
 ## The Drowsey Chaperone
 {% include feature_row id="feature_row19" type="left" %}
+{% include gallery id="gallery19" %}
 <style>video.labnol, img.labnol {max-width:100%; width: 100% !important; height: auto !important;}</style> <video class='labnol' width='750' height='750' controls poster='https://scontent-bos3-1.cdninstagram.com/v/t51.2885-15/e15/17596624_197018177464686_5086404806579322880_n.jpg?_nc_ht=scontent-bos3-1.cdninstagram.com&_nc_cat=106&_nc_ohc=FKuMwCGc8O8AX99xDMI&oh=ded23f2b5c55e9e855204f32c5e39a33&oe=5E5308BD'><source src='https://scontent-bos3-1.cdninstagram.com/v/t50.2886-16/17551279_398676410502852_3236243791518105600_n.mp4?_nc_ht=scontent-bos3-1.cdninstagram.com&_nc_cat=100&_nc_ohc=X4YMbsXFYkIAX_q-ITV&oe=5E52D929&oh=69327ce1088e09f68a3462232d191b26' type='video/mp4'></video>Credit: @<a href='https://instagram.com/vinestheatre'>Vines Theatre</a>
 
 ## Coffee House - Lion King
