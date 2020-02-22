@@ -216,20 +216,20 @@ gallery9:
     image_path: /assets/images/Almost-Maine3.jpg
     alt: "Almost, Maine" 
 gallery9:
-  - url: /assets/images/Drowsy1.png
-    image_path: /assets/images/Drowsy1.png
+  - url: /assets/images/Drowsy1.jpg
+    image_path: /assets/images/Drowsy1.jpg
     alt: "Drowsy"
-  - url: /assets/images/Drowsy2.png
-    image_path: /assets/images/Drowsy2.png
+  - url: /assets/images/Drowsy2.jpg
+    image_path: /assets/images/Drowsy2.jpg
     alt: "Drowsy"
-  - url: /assets/images/Drowsy3.png
-    image_path: /assets/images/Drowsy3.png
+  - url: /assets/images/Drowsy3.jpg
+    image_path: /assets/images/Drowsy3.jpg
     alt: "Drowsy"
-  - url: /assets/images/Drowsy4.png
-    image_path: /assets/images/Drowsy4.png
+  - url: /assets/images/Drowsy4.jpg
+    image_path: /assets/images/Drowsy4.jpg
     alt: "Drowsy"
-  - url: /assets/images/Drowsy5.png
-    image_path: /assets/images/Drowsy5.png
+  - url: /assets/images/Drowsy5.jpg
+    image_path: /assets/images/Drowsy5.jpg
     alt: "Drowsy"
 gallery24:
   - url: /assets/images/Shrek1.jpg
