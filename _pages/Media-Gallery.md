@@ -288,7 +288,25 @@ gallery6:
     alt: "These Shining Lives"    
   - url: /assets/images/Lives12.png
     image_path: /assets/images/Lives12.png
-    alt: "These Shining Lives"  
+    alt: "These Shining Lives"
+  - url: /assets/images/Lives13.png
+    image_path: /assets/images/Lives13.png
+    alt: "These Shining Lives"    
+  - url: /assets/images/Lives14.png
+    image_path: /assets/images/Lives14.png
+    alt: "These Shining Lives"
+  - url: /assets/images/Lives15.png
+    image_path: /assets/images/Lives15.png
+    alt: "These Shining Lives"
+  - url: /assets/images/Lives16.png
+    image_path: /assets/images/Lives16.png
+    alt: "These Shining Lives"
+  - url: /assets/images/Lives17.png
+    image_path: /assets/images/Lives17.png
+    alt: "These Shining Lives" 
+  - url: /assets/images/Lives18.png
+    image_path: /assets/images/Lives18.png
+    alt: "These Shining Lives"    
   - url: /assets/images/Shining-Lives1.jpg
     image_path: /assets/images/Shining-Lives1.jpg
     alt: "These Shining Lives"
