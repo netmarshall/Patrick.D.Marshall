@@ -739,7 +739,7 @@ Featuring John Marshall as Father
 
 ## On Having Good Fortune and Other Worthwhile Things
 {% include feature_row id="feature_row13" type="left" %}
-{% include gallery id="gallery12" %}
+{% include gallery id="gallery13" %}
 
 ## Coffee House - Little Mermaid
 {% include feature_row id="feature_row14" type="left" %}
