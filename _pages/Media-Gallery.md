@@ -324,7 +324,74 @@ gallery6:
     alt: "These Shining Lives"    
   - url: /assets/images/Shining-Lives6.jpg
     image_path: /assets/images/Shining-Lives6.jpg
-    alt: "These Shining Lives"    
+    alt: "These Shining Lives" 
+gallery7:
+  - url: /assets/images/Mamma-Mia1.jpg
+    image_path: /assets/images/Mamma-Mia1.jpg
+    alt: "Mamma Mia"
+  - url: /assets/images/Mamma-Mia2.jpg
+    image_path: /assets/images/Mamma-Mia2.jpg
+    alt: "Mamma Mia"
+  - url: /assets/images/Mamma-Mia3.jpg
+    image_path: /assets/images/Mamma-Mia3.jpg
+    alt: "Mamma Mia"
+  - url: /assets/images/Mamma-Mia4.jpg
+    image_path: /assets/images/Mamma-Mia4.jpg
+    alt: "Mamma Mia"
+  - url: /assets/images/Mamma-Mia5.jpg
+    image_path: /assets/images/Mamma-Mia5.jpg
+    alt: "Mamma Mia"
+  - url: /assets/images/Mamma-Mia6.jpg
+    image_path: /assets/images/Mamma-Mia6.jpg
+    alt: "Mamma Mia"
+  - url: /assets/images/Mamma-Mia7.jpg  
+    image_path: /assets/images/Mamma-Mia7.jpg 
+    alt: "Mamma Mia"
+  - url: /assets/images/Mamma-Mia8.jpg 
+    image_path: /assets/images/Mamma-Mia8.jpg 
+    alt: "Mamma Mia"
+  - url: /assets/images/Mamma-Mia9.jpg 
+    image_path: /assets/images/Mamma-Mia9.jpg 
+    alt: "Mamma Mia"
+  - url: /assets/images/Mamma-Mia10.jpg 
+    image_path: /assets/images/Mamma-Mia10.jpg
+    alt: "Mamma Mia"
+  - url: /assets/images/Mamma-Mia11.jpg
+    image_path: /assets/images/Mamma-Mia11.jpg
+    alt: "Mamma Mia"
+  - url: /assets/images/Mamma-Mia12.jpg
+    image_path: /assets/images/Mamma-Mia12.jpg
+    alt: "Mamma Mia"
+  - url: /assets/images/Mamma-Mia13.jpg
+    image_path: /assets/images/Mamma-Mia13.jpg
+    alt: "Mamma Mia
+  - url: /assets/images/Mamma-Mia14.jpg
+    image_path: /assets/images/Mamma-Mia14.jpg
+    alt: "Mamma Mia"
+  - url: /assets/images/Mamma-Mia15.jpg
+    image_path: /assets/images/Mamma-Mia15.jpg
+    alt: "Mamma Mia"
+  - url: /assets/images/Mamma-Mia16.jpg
+    image_path: /assets/images/Mamma-Mia16.jpg
+    alt: "Mamma Mia
+  - url: /assets/images/Mamma-Mia17.jpg
+    image_path: /assets/images/Mamma-Mia17.jpg
+    alt: "Mamma Mia"
+  - url: /assets/images/Mamma-Mia18.jpg
+    image_path: /assets/images/Mamma-Mia18.jpg
+    alt: "Mamma Mia"
+  - url: /assets/images/Mamma-Mia19.jpg
+    image_path: /assets/images/Mamma-Mia19.jpg
+    alt: "Mamma Mia"
+  - url: /assets/images/Mamma-Mia20.jpg
+    image_path: /assets/images/Mamma-Mia20.jpg
+    alt: "Chicago"
+  - url: /assets/images/Mamma-Mia21.jpg
+    image_path: /assets/images/Mamma-Mia21.jpg
+    alt: "Mamma Mia"
+  - url: /assets/images/Mamma-Mia22.jpg
+    image_path: /assets/images/Mamma-Mia22.jpg
+    alt: "Mamma Mia"  
 gallery9:
   - url: /assets/images/Almost-Maine.png
     image_path: /assets/images/Almost-Maine.png
@@ -495,7 +562,7 @@ John Marshall returns to the role of Eurydice's Father, having previously been a
 
 ## Mamma Mia
 {% include feature_row id="feature_row7" type="left" %}
-
+{% include gallery id="gallery7" %}
 ## Cabaret Night 
 {% include feature_row id="feature_row8" type="left" %}
 
