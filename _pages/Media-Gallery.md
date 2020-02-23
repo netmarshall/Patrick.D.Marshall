@@ -724,6 +724,7 @@ Featuring John Marshall as Father
 
 ## Too Much Light Makes the Baby Go Blind
 {% include feature_row id="feature_row16" type="left" %}
+{% include gallery id="gallery16" %}
 
 ## Oh, the Humanity
 {% include feature_row id="feature_row17" type="left" %}
