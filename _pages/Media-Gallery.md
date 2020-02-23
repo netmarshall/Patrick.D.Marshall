@@ -543,11 +543,8 @@ gallery21:
     image_path: /assets/images/Front7.jpg
     alt: "Front"   
   - url: /assets/images/Front8.jpg
-    image_path: /assets/images/Front5.jpg
-    alt: "Front"   
-  - url: /assets/images/Front8.jpg
     image_path: /assets/images/Front8.jpg
-    alt: "Front"
+    alt: "Front"   
   - url: /assets/images/Front9.jpg
     image_path: /assets/images/Front9.jpg
     alt: "Front"
