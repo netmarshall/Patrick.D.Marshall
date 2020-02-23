@@ -416,7 +416,7 @@ gallery12:
     image_path: /assets/images/Shakespeare3.jpg
     alt: "Shakespeare"  
   - url: /assets/images/Shakespeare4.jpg
-    image_path: /assets/images/Shakespeare5.jpg4.jpg
+    image_path: /assets/images/Shakespeare4.jpg
     alt: "Shakespeare"  
   - url: /assets/images/Shakespeare5.jpg
     image_path: /assets/images/Shakespeare5.jpg
