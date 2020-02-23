@@ -377,9 +377,6 @@ gallery7:
   - url: /assets/images/Mamma-Mia17.jpg
     image_path: /assets/images/Mamma-Mia17.jpg
     alt: "Mamma Mia"
-  - url: /assets/images/Mamma-Mia18.jpg
-    image_path: /assets/images/Mamma-Mia18.jpg
-    alt: "Mamma Mia"
   - url: /assets/images/Mamma-Mia19.jpg
     image_path: /assets/images/Mamma-Mia19.jpg
     alt: "Mamma Mia"
