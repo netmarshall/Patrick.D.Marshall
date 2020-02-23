@@ -560,6 +560,7 @@ John Marshall returns to the role of Eurydice's Father, having previously been a
 ## Mamma Mia
 {% include feature_row id="feature_row7" type="left" %}
 {% include gallery id="gallery7" %}
+<iframe width="640" height="360" style="border-width:1px; border-style:solid; border-color:#e6e6e6;" src="https://media.wfaa.com/embeds/video/287-76faa6cf-c1c4-46fe-9e00-2c786471ea4a/iframe" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 ## Cabaret Night 
 {% include feature_row id="feature_row8" type="left" %}
 
