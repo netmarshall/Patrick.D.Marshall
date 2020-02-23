@@ -424,6 +424,52 @@ gallery12:
   - url: /assets/images/Shakespeare6.jpg
     image_path: /assets/images/Shakespeare6.jpg
     alt: "Shakespeare" 
+gallery16:
+  - url: /assets/images/Blind1.jpg
+    image_path: /assets/images/Blind1.jpg
+    alt: "TMLMTBGB"
+  - url: /assets/images/Blind2.jpg
+    image_path: /assets/images/Blind2.jpg
+    alt: "TMLMTBGB"
+  - url: /assets/images/Blind3.jpg 
+    image_path: /assets/images/Blind3.jpg
+    alt: "TMLMTBGB"
+  - url: /assets/images/Blind4.jpg 
+    image_path: /assets/images/Blind4.jpg
+    alt: "TMLMTBGB"
+  - url: /assets/images/Blind5.jpg   
+    image_path: /assets/images/Blind5.jpg
+    alt: "TMLMTBGB"
+  - url: /assets/images/Blind6.jpg 
+    image_path: /assets/images/Blind6.jpg
+    alt: "TMLMTBGB"
+  - url: /assets/images/Blind7.jpg 
+    image_path: /assets/images/Blind7.jpg
+    alt: "TMLMTBGB"
+  - url: /assets/images/Blind8.jpg 
+    image_path: /assets/images/Blind8.jpg
+    alt: "TMLMTBGB"
+  - url: /assets/images/Blind9.jpg 
+    image_path: /assets/images/Blind9.jpg
+    alt: "TMLMTBGB"
+  - url: /assets/images/Blind10.jpg 
+    image_path: /assets/images/Blind10.jpg
+    alt: "TMLMTBGB"
+  - url: /assets/images/Blind11.jpg 
+    image_path: /assets/images/Blind11.jpg
+    alt: "TMLMTBGB"
+  - url: /assets/images/Blind12.jpg 
+    image_path: /assets/images/Blind12.jpg
+    alt: "TMLMTBGB"
+  - url: /assets/images/Blind13.jpg 
+    image_path: /assets/images/Blind13.jpg
+    alt: "TMLMTBGB"
+  - url: /assets/images/Blind14.jpg 
+    image_path: /assets/images/Blind14.jpg
+    alt: "TMLMTBGB"
+  - url: /assets/images/Blind15.jpg 
+    image_path: /assets/images/Blind15.jpg
+    alt: "TMLMTBGB"
 gallery18:
   - url: /assets/images/Tenor1.png
     image_path: /assets/images/Tenor1.png
