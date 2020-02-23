@@ -423,7 +423,35 @@ gallery12:
     alt: "Shakespeare"  
   - url: /assets/images/Shakespeare6.jpg
     image_path: /assets/images/Shakespeare6.jpg
-    alt: "Shakespeare" 
+    alt: "Shakespeare"
+gallery13:
+  - url: /assets/images/Fortune1.jpg
+    image_path: /assets/images/Fortune1.jpg
+    alt: "Fortune"
+  - url: /assets/images/Fortune-2.jpg
+    image_path: /assets/images/Fortune-2.jpg
+    alt: "Fortune"
+  - url: /assets/images/Fortune3.jpg
+    image_path: /assets/images/Fortune3.jpg
+    alt: "Fortune"
+  - url: /assets/images/Fortune4.jpg
+    image_path: /assets/images/Fortune4.jpg
+    alt: "Fortune"
+  - url: /assets/images/Fortune-5.jpg
+    image_path: /assets/images/Fortune-5.jpg
+    alt: "Fortune"
+  - url: /assets/images/Fortune-6.jpg
+    image_path: /assets/images/Fortune-6.jpg
+    alt: "Fortune"
+  - url: /assets/images/Fortune7.jpg  
+    image_path: /assets/images/Fortune7.jpg 
+    alt: "Fortune"
+  - url: /assets/images/Fortune8.jpg 
+    image_path: /assets/images/Fortune8.jpg 
+    alt: "Fortune"
+  - url: /assets/images/Fortune9.jpg 
+    image_path: /assets/images/Fortune9.jpg 
+    alt: "Fortune"
 gallery16:
   - url: /assets/images/Blind1.jpg
     image_path: /assets/images/Blind1.jpg
@@ -711,6 +739,7 @@ Featuring John Marshall as Father
 
 ## On Having Good Fortune and Other Worthwhile Things
 {% include feature_row id="feature_row13" type="left" %}
+{% include gallery id="gallery12" %}
 
 ## Coffee House - Little Mermaid
 {% include feature_row id="feature_row14" type="left" %}
