@@ -76,6 +76,9 @@ gallery:
   - url: /assets/images/Chicago18-1.jpg 
     image_path: /assets/images/Chicago18-1.jpg
     alt: "Chicago"
+  - url: /assets/images/Chicago18-2.jpg 
+    image_path: /assets/images/Chicago18-1.jpg
+    alt: "Chicago"
   - url: /assets/images/Chicago19.jpg 
     image_path: /assets/images/Chicago19.jpg
     alt: "Chicago"
@@ -517,15 +520,15 @@ feature_row12:
 feature_row13:
   - image_path: /assets/images/On-Having-Good-Fortune-and-Other-Worthwile-Things.jpg
     alt: "On Having Good Fortune and Other Worthwhile Things"
-    excerpt: "**Vines High School**: Feb. 17, 2018 <br><br>*Fake Fortune tellers Edgar and Ethel work at a circus swindling locals. Everything is going swell until a mysterious woman comes into their tent claiming to be a real fortune teller. She tells them of 3 events that will come to pass: one of them shall find love and be loved in return while the other shall love in vain, one shall betray their father,and one shall die. Each tries to sabotage the other to be the one who lives.*<br><br>**John Marshall** and **Adam Koch** Co-Direct this student led production"
+    excerpt: "**Vines High School**: Feb. 17, 2018 <br><br>*Fake Fortune tellers Edgar and Ethel work at a circus swindling locals until a mysterious woman comes into their tent claiming to be a real fortune teller. She tells them of 3 events that will come to pass: one of them shall find love and be loved in return while the other shall love in vain, one shall betray their father,and one shall die. Each tries to sabotage the other to be the one who lives.*<br><br>**John Marshall** and **Adam Koch** Co-Direct this student led production"
 feature_row14:
   - image_path: /assets/images/Winter-Coffee-House.png
     alt: "The Little Mermaid"
-    excerpt: "**Vines High School**: Dec. 2017<br><br>*An almost, not quite, exact replica of the Little Mermaid in just 5 minutes.* <br><br>Written and performed by **John Marshall** (Ariel), **Fletcher Cummings** (Sebastian), **Sam Koch** (Ursula), and **Adam Koch** (King Triton/Prince Eric).<br><br>It sounds a litle fishy, but you only live once, so what the shell, give it watch!"      
+    excerpt: "**Vines High School**: Dec. 2017<br><br>*An almost, not quite, exact replica of the Little Mermaid in just 5 minutes. It sounds a litle fishy, but you only live once, so what the shell, give it watch!*<br><br>Written and performed by **John Marshall** (Ariel), **Fletcher Cummings** (Sebastian), **Sam Koch** (Ursula), and **Adam Koch** (King Triton/Prince Eric)."  
 feature_row15:
   - image_path: /assets/images/The-Secret-Life-of-Madam-Dufarge-VHS.jpg
     alt: "The Secret Life of Madam Dufarge"
-    excerpt: "**Vines High School**: Nov. 2/8/11, 2017<br><br>*Madame Defarge is one of Dickens' supreme villainesses. Her secret drives her to seek a revenge so strong that it ties her to the French revolution. In this short play, the main story of Charles Dickens' A Tale of Two Cities becomes the peripheral story to that of Madame Defarge and her single-minded revenge.*<br><br>Featruing John Marshall as Ernest Defarge"
+    excerpt: "**Vines High School**: Nov. 2/8/11, 2017<br><br>*Madame Defarge is one of Dickens' supreme villainesses. Her secret drives her to seek a revenge so strong that it ties her to the French revolution. In this short play, the main story of Charles Dickens' A Tale of Two Cities becomes the peripheral story to that of Madame Defarge and her single-minded revenge.*<br><br>Featuring John Marshall as Ernest Defarge"
 feature_row16:
   - image_path: /assets/images/Too-Much-Light-Makes-the-Baby-Go-Blind-VHS.jpg
     alt: "Too Much Light Makes the Baby Go Blind"
@@ -563,7 +566,7 @@ Scroll through the Media Gallery for additional details on productions, cast and
 
 *The classic myth of Orpheus through the eyes of its heroine. Dying too young on her wedding day, Eurydice must journey to the underworld, where she reunites with her father and struggles to remember her lost love. With contemporary characters, ingenious plot twists, and breathtaking visual effects, the play is a fresh look at a timeless love story.* 
 
-John Marshall returns to the role of Eurydice's Father, having previously been an understudy for the same role at Haggard Middle School - coincidently under the same Director, Racey Ballard, who is now Theatre Director at Plano Senior High School.<br><br>John is thrilled to be nearing the end of his Secondary School career working with the same Director that inspired him to pursue performing arts!
+Featuring John Marshall as Father
 
 ## Chicago
 {% include feature_row type="left" %}
@@ -601,7 +604,7 @@ John Marshall returns to the role of Eurydice's Father, having previously been a
 {% include video id="295641795" provider="vimeo" %}
 
 ## The Diviners
-**PISD CenterStage**: June 2018<br><br>*A luminous story of religion and magic, faith and doubt, love and grief. The story of a disturbed young man and his friendship with a disenchanted preacher in southern Indiana in the early 1930s.*<br><br> Featuring John Marshall as Farmer/Doctor Basil Bennett.
+**PISD CenterStage**: June 2018<br><br>*A luminous story of religion and magic, faith and doubt, love and grief. The story of a disturbed young man and his friendship with a disenchanted preacher in southern Indiana in the early 1930s.*<br><br> Featuring John Marshall as Basil Bennett.
 
 ## Coffee House - Frozen
 {% include feature_row id="feature_row11" type="left" %}
