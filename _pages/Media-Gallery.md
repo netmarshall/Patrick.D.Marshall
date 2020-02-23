@@ -428,8 +428,8 @@ gallery13:
   - url: /assets/images/Fortune1.jpg
     image_path: /assets/images/Fortune1.jpg
     alt: "Fortune"
-  - url: /assets/images/Fortune-2.jpg
-    image_path: /assets/images/Fortune-2.jpg
+  - url: /assets/images/Fortune2.jpg
+    image_path: /assets/images/Fortune2.jpg
     alt: "Fortune"
   - url: /assets/images/Fortune3.jpg
     image_path: /assets/images/Fortune3.jpg
@@ -437,11 +437,11 @@ gallery13:
   - url: /assets/images/Fortune4.jpg
     image_path: /assets/images/Fortune4.jpg
     alt: "Fortune"
-  - url: /assets/images/Fortune-5.jpg
-    image_path: /assets/images/Fortune-5.jpg
+  - url: /assets/images/Fortune5.jpg
+    image_path: /assets/images/Fortune5.jpg
     alt: "Fortune"
-  - url: /assets/images/Fortune-6.jpg
-    image_path: /assets/images/Fortune-6.jpg
+  - url: /assets/images/Fortune6.jpg
+    image_path: /assets/images/Fortune6.jpg
     alt: "Fortune"
   - url: /assets/images/Fortune7.jpg  
     image_path: /assets/images/Fortune7.jpg 
