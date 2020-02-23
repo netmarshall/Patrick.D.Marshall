@@ -615,7 +615,7 @@ feature_row11:
 feature_row12:
   - image_path: /assets/images/The-Shakespeare-Project-VHS.jpg
     alt: "The Shakespeare Project"
-    excerpt: "**Vines High School**: Apr. 13-14, 2018<br><br>*The most famous Shakespearean scenes and monologues presented in a contemporary style. We see the balcony scene from Romeo and Juliet as a late-night phone call, the witches from Macbeth as bag ladies, the **wooing scene from The Taming of the Shrew as a wrestling bout**, and Marc Antony's speech from Julius Caesar as a press conference.*<br><br>Featuring John Marshall as Petruchio"
+    excerpt: "**Vines High School**: Apr. 13-14, 2018<br><br>*The most famous Shakespearean scenes and monologues presented in a contemporary style, with balcony scene from Romeo and Juliet as a late-night phone call, the witches from Macbeth as bag ladies, and the **wooing scene from The Taming of the Shrew as a wrestling bout**.*<br><br>Featuring John Marshall as Petruchio"
 feature_row13:
   - image_path: /assets/images/On-Having-Good-Fortune-and-Other-Worthwile-Things.jpg
     alt: "On Having Good Fortune and Other Worthwhile Things"
@@ -635,7 +635,7 @@ feature_row16:
 feature_row17:
   - image_path: /assets/images/Humanity.png
     alt: "Oh the Humanity"
-    excerpt: "**PISD CenterStage**: June 2017<br><br>*Two people and their two chairs seek to find meaning and direction in life, seek to find just the tiniest shred of certainty, consistency. A stranger arrives - though he doesn't do what strangers always do, when strangers arrive. If you were ever born, and expect to ever die, this might be a play for you.*<br><br>Featuring John Marshall as Man"  
+    excerpt: "**PISD CenterStage**: June 2017<br><br>*Two people seek to find meaning and direction in life, with just the tiniest shred of certainty and consistency. A stranger arrives - though he doesn't do what strangers always do when strangers arrive. If you were ever born, and expect to ever die, this might be the play for you.*<br><br>Featuring John Marshall as Man"  
 feature_row18:
   - image_path: /assets/images/Lend-Me-a-Tenor.jpg
     alt: "Lend Me a Tenor"
@@ -643,7 +643,7 @@ feature_row18:
 feature_row19:
   - image_path: /assets/images/The-Drowsey-Chaperone-VHS.jpg
     alt: "The Drowsey Chaperone"
-    excerpt: "**Vines High School**: Feb. 23-25, 2017<br><br>*A man in a chair appears on stage and puts on his favorite record: the cast recording of a fictitious 1928 musical. The recording comes to life and The Drowsy Chaperone begins as the man in the chair looks on. Mix in two lovers on the eve of their wedding, a bumbling best man, a desperate theatre producer, a not-so-bright hostess, two gangsters posing as pastry chefs, a misguided Don Juan and an intoxicated chaperone, and you have the ingredients for an evening of madcap delight.*<br><br>John Marshall - Ensemble" 
+    excerpt: "**Vines High School**: Feb. 23-25, 2017<br><br>*A man in a chair puts on his favorite record: the cast recording of a fictitious 1928 musical. The recording comes to life and The Drowsy Chaperone begins as the man looks on. Mix in two lovers on the eve of their wedding, a bumbling best man, a desperate theatre producer, a not-so-bright hostess, two gangsters posing as pastry chefs, a misguided Don Juan and an intoxicated chaperone, and you have the ingredients for an evening of madcap delight.*<br><br>John Marshall - Ensemble" 
 feature_row20:
   - image_path: /assets/images/Winter-Coffee-House-VHS.jpg
     alt: "Coffe House - Lion King"
