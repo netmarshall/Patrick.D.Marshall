@@ -329,8 +329,8 @@ gallery7:
   - url: /assets/images/Mamma-Mia1.jpg
     image_path: /assets/images/Mamma-Mia1.jpg
     alt: "Mamma Mia"
-  - url: /assets/images/Mamma-Mia2.jpg
-    image_path: /assets/images/Mamma-Mia2.jpg
+  - url: /assets/images/Mamma-Mia-2.jpg
+    image_path: /assets/images/Mamma-Mia-2.jpg
     alt: "Mamma Mia"
   - url: /assets/images/Mamma-Mia3.jpg
     image_path: /assets/images/Mamma-Mia3.jpg
@@ -338,11 +338,11 @@ gallery7:
   - url: /assets/images/Mamma-Mia4.jpg
     image_path: /assets/images/Mamma-Mia4.jpg
     alt: "Mamma Mia"
-  - url: /assets/images/Mamma-Mia5.jpg
-    image_path: /assets/images/Mamma-Mia5.jpg
+  - url: /assets/images/Mamma-Mia-5.jpg
+    image_path: /assets/images/Mamma-Mia-5.jpg
     alt: "Mamma Mia"
-  - url: /assets/images/Mamma-Mia6.jpg
-    image_path: /assets/images/Mamma-Mia6.jpg
+  - url: /assets/images/Mamma-Mia-6.jpg
+    image_path: /assets/images/Mamma-Mia-6.jpg
     alt: "Mamma Mia"
   - url: /assets/images/Mamma-Mia7.jpg  
     image_path: /assets/images/Mamma-Mia7.jpg 
@@ -371,8 +371,8 @@ gallery7:
   - url: /assets/images/Mamma-Mia15.jpg
     image_path: /assets/images/Mamma-Mia15.jpg
     alt: "Mamma Mia"
-  - url: /assets/images/Mamma-Mia16.jpg
-    image_path: /assets/images/Mamma-Mia16.jpg
+  - url: /assets/images/Mamma-Mia-16.jpg
+    image_path: /assets/images/Mamma-Mia-16.jpg
     alt: "Mamma Mia"
   - url: /assets/images/Mamma-Mia17.jpg
     image_path: /assets/images/Mamma-Mia17.jpg
