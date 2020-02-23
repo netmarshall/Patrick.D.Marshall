@@ -545,9 +545,6 @@ gallery19:
   - url: /assets/images/Drowsy4.jpg
     image_path: /assets/images/Drowsy4.jpg
     alt: "Drowsy"
-  - url: /assets/images/Drowsy5.jpg
-    image_path: /assets/images/Drowsy5.jpg
-    alt: "Drowsy"
 gallery21:
   - url: /assets/images/Front1.jpg
     image_path: /assets/images/Front1.jpg
