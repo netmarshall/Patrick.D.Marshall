@@ -364,7 +364,7 @@ gallery7:
     alt: "Mamma Mia"
   - url: /assets/images/Mamma-Mia13.jpg
     image_path: /assets/images/Mamma-Mia13.jpg
-    alt: "Mamma Mia
+    alt: "Mamma Mia"
   - url: /assets/images/Mamma-Mia14.jpg
     image_path: /assets/images/Mamma-Mia14.jpg
     alt: "Mamma Mia"
@@ -385,7 +385,7 @@ gallery7:
     alt: "Mamma Mia"
   - url: /assets/images/Mamma-Mia20.jpg
     image_path: /assets/images/Mamma-Mia20.jpg
-    alt: "Chicago"
+    alt: "Mamma Mia"
   - url: /assets/images/Mamma-Mia21.jpg
     image_path: /assets/images/Mamma-Mia21.jpg
     alt: "Mamma Mia"
