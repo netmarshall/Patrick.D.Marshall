@@ -424,6 +424,40 @@ gallery12:
   - url: /assets/images/Shakespeare6.jpg
     image_path: /assets/images/Shakespeare6.jpg
     alt: "Shakespeare" 
+gallery18:
+  - url: /assets/images/Tenor1.png
+    image_path: /assets/images/Tenor1.png
+    alt: "Tenor"
+  - url: /assets/images/Tenor2.png
+    image_path: /assets/images/Tenor2.png
+    alt: "Tenor"
+  - url: /assets/images/Tenor3.png
+    image_path: /assets/images/Tenor3.png
+    alt: "Tenor"
+  - url: /assets/images/Tenor4.png
+    image_path: /assets/images/Tenor4.png
+    alt: "Tenor"
+  - url: /assets/images/Tenor5.png
+    image_path: /assets/images/Tenor5.png
+    alt: "Tenor"
+  - url: /assets/images/Tenor6.png
+    image_path: /assets/images/Tenor6.png
+    alt: "Tenor"
+  - url: /assets/images/Tenor7.png
+    image_path: /assets/images/Tenor7.png
+    alt: "Tenor"
+  - url: /assets/images/Tenor8.png
+    image_path: /assets/images/Tenor8.png
+    alt: "Tenor"
+  - url: /assets/images/Tenor9.png
+    image_path: /assets/images/Tenor9.png
+    alt: "Tenor"
+  - url: /assets/images/Tenor10.png
+    image_path: /assets/images/Tenor10.png
+    alt: "Tenor"
+  - url: /assets/images/Tenor11.png
+    image_path: /assets/images/Tenor11.png
+    alt: "Tenor"
 gallery19:
   - url: /assets/images/Drowsy1.jpg
     image_path: /assets/images/Drowsy1.jpg
@@ -650,6 +684,7 @@ Featuring John Marshall as Father
 
 ## Lend Me a Tenor
 {% include feature_row id="feature_row18" type="left" %}
+{% include gallery id="gallery18" %}
 
 ## The Drowsey Chaperone
 {% include feature_row id="feature_row19" type="left" %}
