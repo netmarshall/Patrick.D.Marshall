@@ -418,6 +418,37 @@ gallery19:
   - url: /assets/images/Drowsy5.jpg
     image_path: /assets/images/Drowsy5.jpg
     alt: "Drowsy"
+gallery21:
+  - url: /assets/images/Front1.jpg
+    image_path: /assets/images/Front1.jpg
+    alt: "Front"  
+  - url: /assets/images/Front2.jpg
+    image_path: /assets/images/Front2.jpg
+    alt: "Front"  
+  - url: /assets/images/Front3.jpg
+    image_path: /assets/images/Front3.jpg
+    alt: "Front"  
+  - url: /assets/images/Front4.jpg
+    image_path: /assets/images/Front4.jpg
+    alt: "Front"   
+  - url: /assets/images/Front5.jpg
+    image_path: /assets/images/Front5.jpg
+    alt: "Front"   
+  - url: /assets/images/Front6.jpg
+    image_path: /assets/images/Front6.jpg
+    alt: "Front"
+  - url: /assets/images/Front7.jpg
+    image_path: /assets/images/Front7.jpg
+    alt: "Front"   
+  - url: /assets/images/Front8.jpg
+    image_path: /assets/images/Front5.jpg
+    alt: "Front"   
+  - url: /assets/images/Front8.jpg
+    image_path: /assets/images/Front8.jpg
+    alt: "Front"
+  - url: /assets/images/Front9.jpg
+    image_path: /assets/images/Front9.jpg
+    alt: "Front"
 gallery24:
   - url: /assets/images/Shrek1.jpg
     image_path: /assets/images/Shrek1.jpg
@@ -607,6 +638,7 @@ John Marshall returns to the role of Eurydice's Father, having previously been a
 
 ## Front
 {% include feature_row id="feature_row21" type="left" %}
+{% include gallery id="gallery21" %}
 
 ## subText
 {% include feature_row id="feature_row22" type="left" %}
