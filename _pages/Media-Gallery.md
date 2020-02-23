@@ -404,7 +404,26 @@ gallery9:
     alt: "Almost, Maine"
   - url: /assets/images/Almost-Maine3.jpg
     image_path: /assets/images/Almost-Maine3.jpg
-    alt: "Almost, Maine" 
+    alt: "Almost, Maine"
+gallery12:
+  - url: /assets/images/Shakespeare1.jpg
+    image_path: /assets/images/Shakespeare1.jpg
+    alt: "Shakespeare"  
+  - url: /assets/images/Shakespeare2.jpg
+    image_path: /assets/images/Shakespeare2.jpg
+    alt: "Shakespeare"  
+  - url: /assets/images/Shakespeare3.jpg
+    image_path: /assets/images/Shakespeare3.jpg
+    alt: "Shakespeare"  
+  - url: /assets/images/Shakespeare4.jpg
+    image_path: /assets/images/Shakespeare5.jpg4.jpg
+    alt: "Shakespeare"  
+  - url: /assets/images/Shakespeare5.jpg
+    image_path: /assets/images/Shakespeare5.jpg
+    alt: "Shakespeare"  
+  - url: /assets/images/Shakespeare6.jpg
+    image_path: /assets/images/Shakespeare6.jpg
+    alt: "Shakespeare" 
 gallery19:
   - url: /assets/images/Drowsy1.jpg
     image_path: /assets/images/Drowsy1.jpg
@@ -466,10 +485,10 @@ gallery24:
     image_path: /assets/images/Shrek4.jpg
     alt: "Shrek"  
   - url: /assets/images/Shrek5.jpg
-    image_path: /assets/images/Shrek6.jpg
+    image_path: /assets/images/Shrek5.jpg
     alt: "Shrek"  
   - url: /assets/images/Shrek6.jpg
-    image_path: /assets/images/Shrek5.jpg
+    image_path: /assets/images/Shrek6.jpg
     alt: "Shrek"  
 intro:   
  - excerpt: "# Media Gallery <br>Scroll through the Media Gallery for additional details on productions, cast and crew photos (click to expand images), and select videos."
@@ -611,6 +630,7 @@ Featuring John Marshall as Father
 
 ## The Shakespeare Project
 {% include feature_row id="feature_row12" type="left" %}
+{% include gallery id="gallery12" %}
 
 ## On Having Good Fortune and Other Worthwhile Things
 {% include feature_row id="feature_row13" type="left" %}
