@@ -405,6 +405,12 @@ gallery9:
   - url: /assets/images/Almost-Maine3.jpg
     image_path: /assets/images/Almost-Maine3.jpg
     alt: "Almost, Maine"
+  - url: /assets/images/Almost1.jpg
+    image_path: /assets/images/Almost1.jpg
+    alt: "Almost, Maine"
+  - url: /assets/images/Almost2.jpg
+    image_path: /assets/images/Almost2.jpg
+    alt: "Almost, Maine"
 gallery12:
   - url: /assets/images/Shakespeare1.jpg
     image_path: /assets/images/Shakespeare1.jpg
