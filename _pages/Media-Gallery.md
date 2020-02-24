@@ -447,8 +447,8 @@ gallery8:
   - url: /assets/images/Cabaret1.png
     image_path: /assets/images/Cabaret1.png
     alt: "Cabaret"
-  - url: /assets/images/Cabaret-2.png
-    image_path: /assets/images/Cabaret-2.png
+  - url: /assets/images/Cabaret2.png
+    image_path: /assets/images/Cabaret2.png
     alt: "Cabaret"
   - url: /assets/images/Cabaret3.png
     image_path: /assets/images/Cabaret3.png
