@@ -557,16 +557,7 @@ gallery13:
     alt: "Fortune"
   - url: /assets/images/Fortune6.jpg
     image_path: /assets/images/Fortune6.jpg
-    alt: "Fortune"
-  - url: /assets/images/Fortune7.jpg  
-    image_path: /assets/images/Fortune7.jpg 
-    alt: "Fortune"
-  - url: /assets/images/Fortune8.jpg 
-    image_path: /assets/images/Fortune8.jpg 
-    alt: "Fortune"
-  - url: /assets/images/Fortune9.jpg 
-    image_path: /assets/images/Fortune9.jpg 
-    alt: "Fortune"
+    alt: "Fortune"  
 gallery15:
   - url: /assets/images/Defarge1.jpg
     image_path: /assets/images/Defarge1.jpg
