@@ -173,13 +173,7 @@ gallery2:
   - url: /assets/images/Timewarp.jpg
     image_path: /assets/images/Timewarp.jpg
     alt: "Timewarp" 
-gallery3:
-  - url: /assets/images/Wendy1.jpg
-    image_path: /assets/images/Wendy1.jpg
-    alt: "Wendy and Peter Pan"
-  - url: /assets/images/Wendy2.jpg
-    image_path: /assets/images/Wendy2.jpg
-    alt: "Wendy and Peter Pan"
+gallery3: 
   - url: /assets/images/Wendy3.jpg
     image_path: /assets/images/Wendy3.jpg
     alt: "Wendy and Peter Pan"
@@ -192,8 +186,17 @@ gallery3:
   - url: /assets/images/Wendy6.jpg
     image_path: /assets/images/Wendy6.jpg
     alt: "Wendy and Peter Pan" 
+  - url: /assets/images/Wendy6-1.jpg
+    image_path: /assets/images/Wendy6-1.jpg
+    alt: "Wendy and Peter Pan"
+  - url: /assets/images/Wendy7.jpg
+    image_path: /assets/images/Wendy7.jpg
+    alt: "Wendy and Peter Pan"
   - url: /assets/images/Wendy8.jpg
     image_path: /assets/images/Wendy8.jpg
+    alt: "Wendy and Peter Pan"
+  - url: /assets/images/Wendy1.jpg
+    image_path: /assets/images/Wendy1.jpg
     alt: "Wendy and Peter Pan"
   - url: /assets/images/Wendy9.jpg
     image_path: /assets/images/Wendy9.jpg
