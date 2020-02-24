@@ -80,6 +80,9 @@ author:
     - label: "Twitter"
       icon: "fab fa-twitter"
       url: "https://twitter.com/John_HMarshall"
+    - label: "Instagram"
+      icon: "fab fa-instagram"
+      url: "https://twitter.com/John_HMarshall"
    
 
 footer:
@@ -92,7 +95,7 @@ footer:
       url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/johnhmarshall/"
 
 defaults:
    # _pages
