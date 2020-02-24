@@ -77,7 +77,7 @@ gallery:
     image_path: /assets/images/Chicago18-1.jpg
     alt: "Chicago"
   - url: /assets/images/Chicago18-2.jpg 
-    image_path: /assets/images/Chicago18-1.jpg
+    image_path: /assets/images/Chicago18-2.jpg
     alt: "Chicago"
   - url: /assets/images/Chicago19.jpg 
     image_path: /assets/images/Chicago19.jpg
