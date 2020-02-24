@@ -70,6 +70,9 @@ gallery:
   - url: /assets/images/Chicago17.jpg 
     image_path: /assets/images/Chicago17.jpg
     alt: "Chicago"
+  - url: /assets/images/Roxie.jpg 
+    image_path: /assets/images/Roxie.jpg
+    alt: "Chicago"
   - url: /assets/images/Chicago18.jpg 
     image_path: /assets/images/Chicago18.jpg
     alt: "Chicago"
