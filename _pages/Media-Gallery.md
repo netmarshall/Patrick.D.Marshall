@@ -191,10 +191,7 @@ gallery3:
     alt: "Wendy and Peter Pan"
   - url: /assets/images/Wendy6.jpg
     image_path: /assets/images/Wendy6.jpg
-    alt: "Wendy and Peter Pan"
-  - url: /assets/images/Wendy7.jpg
-    image_path: /assets/images/Wendy7.jpg
-    alt: "Wendy and Peter Pan"
+    alt: "Wendy and Peter Pan" 
   - url: /assets/images/Wendy8.jpg
     image_path: /assets/images/Wendy8.jpg
     alt: "Wendy and Peter Pan"
