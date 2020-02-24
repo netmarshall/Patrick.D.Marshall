@@ -189,17 +189,65 @@ gallery3:
   - url: /assets/images/Wendy5.jpg
     image_path: /assets/images/Wendy5.jpg
     alt: "Wendy and Peter Pan"
-  - url: /assets/images/Wendy6.png
-    image_path: /assets/images/Wendy6.png
+  - url: /assets/images/Wendy6.jpg
+    image_path: /assets/images/Wendy6.jpg
     alt: "Wendy and Peter Pan"
-  - url: /assets/images/Wendy7.png
-    image_path: /assets/images/Wendy7.png
+  - url: /assets/images/Wendy7.jpg
+    image_path: /assets/images/Wendy7.jpg
     alt: "Wendy and Peter Pan"
-  - url: /assets/images/Wendy8.png
-    image_path: /assets/images/Wendy8.png
+  - url: /assets/images/Wendy8.jpg
+    image_path: /assets/images/Wendy8.jpg
     alt: "Wendy and Peter Pan"
-  - url: /assets/images/Wendy9.png
-    image_path: /assets/images/Wendy9.png
+  - url: /assets/images/Wendy9.jpg
+    image_path: /assets/images/Wendy9.jpg
+    alt: "Wendy and Peter Pan"
+  - url: /assets/images/Wendy10.jpg
+    image_path: /assets/images/Wendy10.jpg
+    alt: "Wendy and Peter Pan"
+  - url: /assets/images/Wendy11.jpg
+    image_path: /assets/images/Wendy11.jpg
+    alt: "Wendy and Peter Pan"
+  - url: /assets/images/Wendy12.jpg
+    image_path: /assets/images/Wendy12.jpg
+    alt: "Wendy and Peter Pan"
+  - url: /assets/images/Wendy13.jpg
+    image_path: /assets/images/Wendy13.jpg
+    alt: "Wendy and Peter Pan"
+  - url: /assets/images/Wendy14.jpg
+    image_path: /assets/images/Wendy14.jpg
+    alt: "Wendy and Peter Pan"
+  - url: /assets/images/Wendy15.jpg
+    image_path: /assets/images/Wendy15.jpg
+    alt: "Wendy and Peter Pan"
+  - url: /assets/images/Wendy16.jpg
+    image_path: /assets/images/Wendy16.jpg
+    alt: "Wendy and Peter Pan"
+  - url: /assets/images/Wendy17.jpg
+    image_path: /assets/images/Wendy17.jpg
+    alt: "Wendy and Peter Pan"
+  - url: /assets/images/Wendy18.jpg
+    image_path: /assets/images/Wendy18.jpg
+    alt: "Wendy and Peter Pan"
+  - url: /assets/images/Wendy19.jpg
+    image_path: /assets/images/Wendy19.jpg
+    alt: "Wendy and Peter Pan"
+  - url: /assets/images/Wendy20.jpg
+    image_path: /assets/images/Wendy20.jpg
+    alt: "Wendy and Peter Pan"
+  - url: /assets/images/Wendy21.jpg
+    image_path: /assets/images/Wendy21.jpg
+    alt: "Wendy and Peter Pan"
+  - url: /assets/images/Wendy22.jpg
+    image_path: /assets/images/Wendy22.jpg
+    alt: "Wendy and Peter Pan"
+  - url: /assets/images/Wendy23.jpg
+    image_path: /assets/images/Wendy23.jpg
+    alt: "Wendy and Peter Pan"
+  - url: /assets/images/Wendy24.jpg
+    image_path: /assets/images/Wendy24.jpg
+    alt: "Wendy and Peter Pan"
+  - url: /assets/images/Wendy25.jpg
+    image_path: /assets/images/Wendy25.jpg
     alt: "Wendy and Peter Pan"
 gallery5:
   - url: /assets/images/Bright1.png
