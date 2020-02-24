@@ -458,6 +458,31 @@ gallery13:
   - url: /assets/images/Fortune9.jpg 
     image_path: /assets/images/Fortune9.jpg 
     alt: "Fortune"
+gallery15:
+  - url: /assets/images/Defarge1.jpg
+    image_path: /assets/images/Defarge1.jpg
+    alt: "Defarge"  
+  - url: /assets/images/Defarge2.jpg
+    image_path: /assets/images/Defarge2.jpg
+    alt: "Defarge"  
+  - url: /assets/images/Defarge3.jpg
+    image_path: /assets/images/Defarge3.jpg
+    alt: "Defarge"  
+  - url: /assets/images/Defarge4.jpg
+    image_path: /assets/images/Defarge4.jpg
+    alt: "Defarge"  
+  - url: /assets/images/Defarge5.jpg
+    image_path: /assets/images/Defarge5.jpg
+    alt: "Defarge"  
+  - url: /assets/images/Defarge6.jpg
+    image_path: /assets/images/Defarge6.jpg
+    alt: "Defarge"
+  - url: /assets/images/Defarge7.jpg
+    image_path: /assets/images/Defarge7.jpg
+    alt: "Defarge"  
+  - url: /assets/images/Defarge8.jpg
+    image_path: /assets/images/Defarge8.jpg
+    alt: "Defarge"  
 gallery16:
   - url: /assets/images/Blind1.jpg
     image_path: /assets/images/Blind1.jpg
@@ -750,6 +775,7 @@ Featuring John Marshall as Father
 
 ## The Secret Life of Maddame Defarge
 {% include feature_row id="feature_row15" type="left" %}
+{% include gallery id="gallery15" %}
 
 ## Too Much Light Makes the Baby Go Blind
 {% include feature_row id="feature_row16" type="left" %}
