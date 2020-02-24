@@ -13,7 +13,7 @@ excerpt: "Actor. Student.<br>All around<br>decent Human."
 
 ---
 {% include toc title="On this Page" %}
-Accomplished student, actor, and leader. Effective organizer who works comfortably under pressure and readily assumes additional responsibilities. Recipe for success: Support your team mates, and do the homework. 
+Accomplished student, actor, and leader. Effective organizer who works comfortably under pressure and readily assumes additional responsibilities. Recipe for success: support your team mates, and do the homework. 
 
 ## Performances
 
