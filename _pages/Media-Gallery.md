@@ -489,8 +489,8 @@ gallery8:
   - url: /assets/images/Cabaret15.png
     image_path: /assets/images/Cabaret15.png
     alt: "Cabaret"
-  - url: /assets/images/Cabaret16.png
-    image_path: /assets/images/Cabaret16.png
+  - url: /assets/images/Cabaret16.jpg
+    image_path: /assets/images/Cabaret16.jpg
     alt: "Cabaret" 
 gallery9:
   - url: /assets/images/Almost-Maine.png
