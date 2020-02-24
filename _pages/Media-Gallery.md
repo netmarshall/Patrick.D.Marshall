@@ -819,7 +819,7 @@ feature_row25:
 Scroll through the Media Gallery for additional details on productions, cast and crew photos (click to expand images), and select videos.
 
 ## Eurydice
-{% include gallery id="gallery24" %}
+{% include feature_row id="feature_row25" type="left" %}
 
 ## Chicago
 {% include feature_row type="left" %}
