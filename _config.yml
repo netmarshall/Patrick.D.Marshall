@@ -114,6 +114,11 @@ defaults:
       share: true
       related: true
  
+  # Collections
+collections:
+   pages:
+    output: true
+    permalink: /:collection/:path/
 
 category_archive:
   type: liquid
