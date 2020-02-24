@@ -859,5 +859,5 @@ Featuring John Marshall as Father
 **Haggard Middle School**: Feb. 2016<br><br>*The classic myth of Orpheus reimagined through the eyes of its heroine. Dying too young on her wedding day, Eurydice must journey to the underworld, where she reunites with her father and struggles to remember her lost love.*<br><br>John Marshall - Father (Understudy)
 
 ## Shrek the Musical Jr. 
-**Haggard Middle School**: Nov. 2015<br><br>*Everyone's favorite ogre is back in this hilarious stage spectacle, based on the Oscar-winning smash hit film and outrageous Broadway musical.*<br><br>John Marshall - Captain of the Gaurd
+**Haggard Middle School**: Nov. 2015<br><br>*Everyone's favorite ogre is back in this hilarious stage spectacle, based on the Oscar-winning smash hit film and outrageous Broadway musical.*<br><br>John Marshall - Captain of the Guard
 {% include gallery id="gallery24" %}
