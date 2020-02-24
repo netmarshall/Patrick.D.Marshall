@@ -8,22 +8,8 @@ tags:
   
 ---
 
-"Hello World" may be a cliche, but with the finish line for high school in sight, and college on the near horizan, it seems pretty on point. This blog is still on training wheels, so I will leave the template content below...I'm still learning GitHub and how to use this awesome Minimal Mistakes theme, so I may actually need it!
+"Hello World" may be a cliche, but with the finish line for high school in sight, and college just over the horizan, it seems pretty on point. So, to sum up, this is just the start with a lot more to come! 
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+In the mean time if you like the site shoot me an email, or follow me on Twitter or Instagram. 
 
-Jekyll also offers powerful support for code snippets:
-
-```ruby
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-```
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+I am still learing about GithUb, but if you are curious about this site, it is hosted for free (really, 100% free), and is built using the [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) theme (also 100% free). 
