@@ -810,7 +810,7 @@ feature_row22:
     alt: "subText"
     excerpt: "**Vines High School**: Sept. 23-24, 2016<br><br>*Even though everybody on the planet is just a text away, getting your message across has never been more complicated. subText is a hilarious series of vignettes detailing the awkwardness of dating in the digital age, from capturing the perfect selfie to making a relationship Facebook official. At its heart, subText is a reminder that love is a lot of things, but it is rarely a thing of convenience.*<br><br>John Marshall - Drew/Boy #2"
 feature_row25:
-  - image_path: /assets/images/PSHS_Eurydice.jpg
+  - image_path: /assets/images/PSHS_Eurydice.JPG
     alt: "Eurydice"
     excerpt: "**Plano Senior High School**: Coming March 2020!<br><br>*The classic myth of Orpheus through the eyes of its heroine. Dying too young on her wedding day, Eurydice must journey to the underworld, where she reunites with her father and struggles to remember her lost love. With contemporary characters, ingenious plot twists, and breathtaking visual effects, the play is a fresh look at a timeless love story.*<br><br>Featuring John Marshall as Father"  
     
