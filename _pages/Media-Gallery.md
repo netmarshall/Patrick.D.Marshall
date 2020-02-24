@@ -442,7 +442,56 @@ gallery7:
     alt: "Mamma Mia"
   - url: /assets/images/Mamma-Mia22.jpg
     image_path: /assets/images/Mamma-Mia22.jpg
-    alt: "Mamma Mia"  
+    alt: "Mamma Mia"
+gallery8:
+  - url: /assets/images/Cabaret1.png
+    image_path: /assets/images/Cabaret1.png
+    alt: "Cabaret"
+  - url: /assets/images/Cabaret-2.png
+    image_path: /assets/images/Cabaret-2.png
+    alt: "Cabaret"
+  - url: /assets/images/Cabaret3.png
+    image_path: /assets/images/Cabaret3.png
+    alt: "Cabaret"
+  - url: /assets/images/Cabaret4.png
+    image_path: /assets/images/Cabaret4.png
+    alt: "Cabaret"
+  - url: /assets/images/Cabaret5.png
+    image_path: /assets/images/Cabaret5.png
+    alt: "Cabaret"
+  - url: /assets/images/Cabaret6.png
+    image_path: /assets/images/Cabaret6.png
+    alt: "Cabaret"
+  - url: /assets/images/Cabaret7.png  
+    image_path: /assets/images/Cabaret7.png 
+    alt: "Cabaret"
+  - url: /assets/images/Cabaret8.png 
+    image_path: /assets/images/Cabaret8.png 
+    alt: "Cabaret"
+  - url: /assets/images/Cabaret9.png 
+    image_path: /assets/images/Cabaret9.png 
+    alt: "Cabaret"
+  - url: /assets/images/Cabaret10.png 
+    image_path: /assets/images/Cabaret10.png
+    alt: "Cabaret"
+  - url: /assets/images/Cabaret11.png
+    image_path: /assets/images/Cabaret11.png
+    alt: "Cabaret"
+  - url: /assets/images/Cabaret12.png
+    image_path: /assets/images/Cabaret12.png
+    alt: "Cabaret"
+  - url: /assets/images/Cabaret13.png
+    image_path: /assets/images/Cabaret13.png
+    alt: "Cabaret"
+  - url: /assets/images/Cabaret14.png
+    image_path: /assets/images/Cabaret14.png
+    alt: "Cabaret"
+  - url: /assets/images/Cabaret15.png
+    image_path: /assets/images/Cabaret15.png
+    alt: "Cabaret"
+  - url: /assets/images/Cabaret16.png
+    image_path: /assets/images/Cabaret16.png
+    alt: "Cabaret" 
 gallery9:
   - url: /assets/images/Almost-Maine.png
     image_path: /assets/images/Almost-Maine.png
@@ -798,10 +847,12 @@ Featuring John Marshall as Father
 {% include feature_row id="feature_row7" type="left" %}
 {% include gallery id="gallery7" %}
 <iframe width="640" height="360" style="border-width:1px; border-style:solid; border-color:#e6e6e6;" src="https://media.wfaa.com/embeds/video/287-76faa6cf-c1c4-46fe-9e00-2c786471ea4a/iframe" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+
 ## Cabaret Night 
 {% include feature_row id="feature_row8" type="left" %}
+{% include gallery id="gallery8" %}
 
-## Almost, Main
+## Almost, Maine
 {% include feature_row id="feature_row9" type="left" %}
 {% include gallery id="gallery9" %}
 {% include video id="295641795" provider="vimeo" %}
