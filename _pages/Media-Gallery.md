@@ -73,8 +73,11 @@ gallery:
   - url: /assets/images/Roxie.jpg 
     image_path: /assets/images/Roxie.jpg
     alt: "Chicago"
-  - url: /assets/images/Chicago18.jpg 
-    image_path: /assets/images/Chicago18.jpg
+  - url: /assets/images/Jury2.jpg 
+    image_path: /assets/images/Jury2.jpg 
+    alt: "Chicago"
+  - url: /assets/images/Jury3.jpg 
+    image_path: /assets/images/Jury3.jpg 
     alt: "Chicago"
   - url: /assets/images/Chicago18-1.jpg 
     image_path: /assets/images/Chicago18-1.jpg
@@ -85,9 +88,12 @@ gallery:
   - url: /assets/images/Chicago19.jpg 
     image_path: /assets/images/Chicago19.jpg
     alt: "Chicago"
+  - url: /assets/images/Chicago18.jpg 
+    image_path: /assets/images/Chicago18.jpg
+    alt: "Chicago"
   - url: /assets/images/Chicago20.jpg 
     image_path: /assets/images/Chicago20.jpg
-    alt: "Chicago"
+    alt: "Chicago" 
   - url: /assets/images/Chicago21.jpg 
     image_path: /assets/images/Chicago21.jpg
     alt: "Chicago"
