@@ -3,7 +3,7 @@ main:
     url: /
   - title: "Media"
     url: /gallery/
-  - title: "Downloads"
+  - title: "Download"
     url: /downloads/
   - title: "Credits"
     url: /thanks/
