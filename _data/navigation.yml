@@ -5,7 +5,7 @@ main:
     url: /gallery/
   - title: "Downloads"
     url: /downloads/
-  - title: "Credits!"
+  - title: "Credits"
     url: /thanks/
   - title: "Blog"
     url: /blog/
