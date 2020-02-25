@@ -44,9 +44,9 @@ Just testing this out to see how it works:
   <object data="https://lh3.googleusercontent.com/BSZodOivFpcQVpH07Y7bQWidpOWbBwjUJwKG48pHWIp0v16pQW2E4ks1XzAk8q0_F3hhHyT8G2LL_AXWc9m0mi0wNimFCNDi_o7ZNRh1mJNwRmbNKHnYlyqkvyt56NCJ02M-MRdWbss=w1920-h1080"></object>
 </div>
 
-Carousel only:
+Shiny!
 
-<script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
+<<script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
 <div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;"
   data-link="https://photos.app.goo.gl/TusQ66BBDtdUQyoS6"
   data-title="These Shining Lives"
