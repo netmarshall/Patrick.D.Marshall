@@ -73,7 +73,7 @@ author:
       url: "tel:+12148867791"
     - label: "Send a text"  
       icon: "fas fa-comment-alt"
-      url: "sms:+12146419872"
+      url: "sms:+12148867791"
     - label: "Plano, TX"
       icon: "fas fa-map-marker-alt"
       url: "https://www.google.com/maps/search/?api=1&query=Plano%2C+Plano%2C+TX%2C+us&query_place_id=ChIJE5XFE9ohTIYRK2DNiWQDqmI"
