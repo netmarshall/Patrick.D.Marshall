@@ -1,14 +1,13 @@
 ---
 title: "Hello World!"
 date: 2020-02-18T15:34:30-04:00
-header:
-  image: /assets/images/graduation.jpg
 categories:
   - blog
 tags:
   - first
   
 ---
+{% include figure image_path="/assets/images/graduation.jpg" alt="moving forward" %}
 
 "Hello World" may be a cliche, but with the finish line for high school in sight, and college just over the horizan, it seems pretty on point. So, to sum up, this is just the start with a lot more to come! 
 
