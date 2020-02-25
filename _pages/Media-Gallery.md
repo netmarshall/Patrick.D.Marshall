@@ -88,6 +88,12 @@ gallery:
   - url: /assets/images/Chicago19.jpg 
     image_path: /assets/images/Chicago19.jpg
     alt: "Chicago"
+  - url: /assets/images/Jury5.jpg 
+    image_path: /assets/images/Jury5.jpg 
+    alt: "Chicago"
+  - url: /assets/images/Jury4.jpg 
+    image_path: /assets/images/Jury4.jpg 
+    alt: "Chicago"
   - url: /assets/images/Chicago18.jpg 
     image_path: /assets/images/Chicago18.jpg
     alt: "Chicago"
