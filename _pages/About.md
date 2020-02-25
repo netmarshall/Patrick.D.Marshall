@@ -76,7 +76,7 @@ Accomplished student, actor, and leader. Effective organizer who works comfortab
 
 ## Awards & Honors
 * Accepted to the University of Texas Arlington (UTA) Honors College to pursue a Bachelor of Fine Arts (BFA)
-* Awarded UTA Four year Presidential Honors Scholarship
+* Awarded four year UTA year Presidential Honors Scholarship
 * UIL Disctrict Level Best Actor (2019 - These Shining Lives)
 
 
