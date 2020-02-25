@@ -18,5 +18,8 @@ gallery:
 ## Resume
 Coming soon!
 
+## References
+Coming soon!
+
 ## Headshot
 {% include gallery caption="John Marshall - Headshot - Click to expand, then right click and Save As!" %}
