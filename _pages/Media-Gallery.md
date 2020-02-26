@@ -1208,11 +1208,50 @@ Scroll through the Media Gallery for additional details on productions, cast and
 
 ## The Shakespeare Project
 {% include feature_row id="feature_row12" type="left" %}
-{% include gallery id="gallery12" %}
+<script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
+<div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;"
+  data-link="https://photos.app.goo.gl/i7wYH9naxxKrgD2R7"
+  data-title="The Shakespeare Project"
+  data-description="10 new photos added to shared album"
+  data-delay="3">
+  <object data="https://lh3.googleusercontent.com/gTTEbPNLGi1kqVQxkUA_V5rR0OoGTdpzCu5v2-F82n-DAumJOQAA9ujGICBZaY_cUTfSv_zzAmGV13Mv2ZUtXtUnV9i04jGssQ8lWrAV2y8azPekYBwsA7i0WPTvOyLAD2xCvO3y0fw=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/e4UOktK6uUfEXHJdCMVNomFpumbiXbNb8tNTIzPOqkQi5VI5Kq3A-Vft4sL3Y8guwdlCWVM6k63kmQ72qz5mCZ7-11vkTeXpKDutQjm3kmAi6REECv1PFfHFSKbGhicPYXDT6pRPDFY=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/IiNlNqMb1kwb8AcPkdbuFePKDOtzHJVOtwHT_iYjeZn6B9M_rMfiFcRIsGy8I_KtJsXfLQTOgsBJklhwXl6w-SAnw12tVLolsH6bzDgoUes_4_fbEi7usF9D6LazITfKsb9V5fCQEGM=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pABFmPwlBgvZh5erOpWFEpvVQl5O5Qa6HcKDEDDRaa2IySKnuZyLkDmBoWTAsyM96j7ooptqB_E24JhJnNJ5qCD_RlCqnkFqZPbRbf47SMgEvUDIIhEQxJrjH6DZ47erzfr3Fx0oFng=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/-JjwO_SUy5hgWxJV9ue5dO_Wtihg-2cMLPXtGzJ9skfqCBlRRTWTPpntUifGQwe8GxXc8VKnMNHVPahCwKJ0IEoK1uB_ay6hZnRNsPnE8-ZzlEZigjwV71PuHb_R-B_70evy4zGO8j4=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/2aWB-4eeFKW79MYnS_yrMPB78dcLIcUkO4k0G_7ZNOsb31ABZRXiu3YrJgO7AWSR1Sw3KGAak5lgOafcHT5xYgWKoH10pK18FIScOhdV4-8IDe-Y897fTqW-RLuqo7ewA9GaijCG92Q=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/lRU_p2efdfDFNN5AFQcLNbBQGNVxlxw54g23VgyecXE-Ds63iJEjUEajLhELjvUczpLkHRkqbUn3l6IqqsxG0qNXPZOXKpSt_htivp2kHUg4c5Y3zywoY1r7A1uV6aZNTKOjJseMMWw=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/qbTqcRd99RC6qSuZwE5bHnW4yGx1TOSMGkJu_VMratoLpk52Uu0GOy4sN4xHXD6tuEPq7JxmMaDXiNMi-b1WInslC02Ibww7eW8ztn33D_1MxI1EIh0bBlXOvMoHi5M8hdKSoexHQ8M=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/YhvQmBJ6QLyq6_LX9hmYBwIyz78EeqEZKs-pvKRYSOsAjzFCnelc8xCOHl4F19ODpl_ft_jAyyz-KzO2VEK9BhyToQoZrmEc2mLl2rXPFGr0CaIGMWpHGckOdjZvY6EnPfCMq_agMfI=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/r1X0VthU06w1ztMYsiUtjSKfc-cEnpbQsnghLeGswrXJ7pmcCtcs4Edm4mvJfz23HhMZw75MVO63YvPosAglIvAVo1Rtc_3ZETSx0htsls753_c698FqGKUJFbYFScEjlp3l1p11_UU=w1920-h1080"></object>
+</div>
 
 ## On Having Good Fortune and Other Worthwhile Things
 {% include feature_row id="feature_row13" type="left" %}
-{% include gallery id="gallery13" %}
+<script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
+<div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;"
+  data-link="https://photos.app.goo.gl/pvN1yXHxjbYEwqtV8"
+  data-title="On Having Good Fortune and Other Worthwhile Things"
+  data-description="17 new photos added to shared album"
+  data-delay="3">
+  <object data="https://lh3.googleusercontent.com/qLrrjxiGd6CXROONr_A9kCKcPOBx1E0CZabBLv3vZFSaraP1r5QcptvSYDr20JsPWXMLhxbb9mFPjvXXq1Hb7tFd_u1lvXbI5fOCvBAZxeQCHYByuQnc0u4_ITfiKMePveYst10Ufbw=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/ZGn5UlV3SQSCqXkpm_vfTFwrjmULm7Ti1MZttr9CotvCjs7ujGH4fw2e7JIW03gOxYGBQJisps7_29L5XfcMjdohqcsh2DHZBR4AAby3YRyzgne708edVMu6ssfXf3mEEtuV1cQWojY=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/a1qClSsngJd9QNmiDL9cQxyTfDMrTtWvR_eGP_0fyNHjSorNOsQAXmTFc4f-IzehCv6Uzk6LYZGekMqH_rWZzuaQES2i1oT-aZUvkB8DlwV4TQTDXWZiB1CncfLSsGSEZxzYQz-CLFY=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/t-LCrjyfsDgv8w7WuQU6IYroRb1Etie7sQh3_4vCnFTZ07ux2TV7Vdn2vTZEjEE6aaOcQQCItPB2QSZi7jyM83OyaI0sw1iM7iL31IbIsar5zy6oh_s0KkkbI2d4BsrJjsr074J7-Xw=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/h6qDDylMonPhpi14CcT_6TMC1I2AG_FarvSdbzXyekeLoctDvxTY2sw72DwI5X3Y2P4-c0a9DYG3tcExp0zEELv3FecN9NLt7aKvu5g7oylNcjliWHf8t6kMMU7A5lBFsheyJjTZ3Hw=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/2sSBoriMuT5bg7Ct5rpLPzGRisLeQuKmKbD96MYBaHt-Ap_p0g3U3tyFd8ERZ5ZQw-HKZ6qv-4s4bICLvkPpMkre73u_x6RtioeC-f4lGRRejaDZOlrnjEOceBPueJgKYHdxlwOYqow=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/KgdjfRlRXORQb6sIb_5RtkpBrd0dglIENKy3lPeF_vuwoUuUrDGf8NyXBKPB51VmCHlNhckUXNDkCzlZcj5Nv9u831HWGuLzlk5ZNIEccDR9UjF8NE-d-miuV-vgcZL_S097wLb0N48=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/AuPEGytvXVOyLwbf80DtcLBxx1-Eag8ippUayuZjo5tTUWcITa0e7ol1YZ5zOtXQCm4xOOt44UXZZSZxeptW3JkhAgIa1cKAP26biVF2ToQJ7_CHyYBbEHtzqXrl4zLeFK2eIHekSog=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/U8QB0Q59-f0vqZkCqLyRb1VULgv1r2xBP_FYQirOS6_yYbndd8VWQnl3WLyOK90YfunhEopA_yrbegDGgZPw08tctnaXBisl-LWn6MBuyWb1TXWzlAzU-JAe3T8m6RxC1ABt0l8iDf8=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/0ho2g4chK1L7w7l5XLEIwCIMfDDdaaD7KyjTQhi0mxftlpXq7RYE6fn_E4LHrBuoUlYviHB5RvJ1NayHidhS2BLEjFbl6gwCIVwVgLD5bEnUc9c9HJj-sZs8Dupn7HmY_d_pI54RiGs=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/o3gvBb5_4Em-lGsF9eItDlm9mZ683xJhVfbrhdHYTeIMPZtIrrvfE2UWVUzxILne4CWFuLx7yavdKC2A-eaiaGyiqV-pw_Nu3kM4ClDb283wz6OkRT5X1MJVGlhr0I0Ts9xd0q2d_sg=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/e2QWhBouWhLEb0zOFQyLQEvy8j-9SN7RzE556jQAn1q-alp6RIsNHy3SDgksrS9SzBncykF_HnhKYhfkBmX6030NBwoonlAGhK_hg4P98dOfp_7VYfmjVqd4Vm2S3cNJN-I_Jc_X1RE=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/UXqaQWKSHFEyDF0ChuCZoR_0aemYgY5U2558GZV3EIW9gEJenQylmJYSvrT05_Va81O-eetHiCOxXYLxGG0MVOWvUBdT3-wpwSGQGhdmtZnFBawRrSXFZ0yshnTYH28CANhLi5QE1HU=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/CoowLoo8MbB-3Q33F7xMLJkTl0Pi1n1RFBGL4vjM0msDjROiYUB3cGfL47VnvashkIBxXum62QGaNgeuAgu9JkifgZqOc51_twOq3tdhC-j9ZAhNgyvGlDGEbzPLigdit-u7OFg90MI=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/EMF3loyR6iNuChOjXgVHzPdVQeik6mRPq6iuzM_W30nFFuiGTlxH5EkfqeRko7OWHBsa2CaHnPhAQ-kfwhnDAOTmq-Gb02G8eXBBd1EVgyvCnPsjrZ-TOciwd2Aqp4JsaasPpIVDH8A=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/8_tcC2EEKVqtX4Ag8htpH6lvnqkpRKBqePrVfcaHwva6cVr2q-lRxqA80CS0iVBVC3R7uH-i1EeF2WLKgCbYJ7DoZaUErtTUAS_CeU2-COoqpLFqIw2SliaIMqQTVRLudQzzUsbz48Q=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/C0e6z1Lr_y6CCTII3Ed-gSm6FxB3yqUPHbZLfqQKOVjQLmiiv3QOg8iqHUsNyXNJ6ZTQ8xsPIIFSI9N6Q36foNDDTF9jtOWq-38xMI0X2KmEUIFI4eNCCu-TB7XcQ-oiduBtUEGqcqA=m37" type="video/mp4"></object>
+</div>
 
 ## Coffee House - Little Mermaid
 {% include feature_row id="feature_row14" type="left" %}
