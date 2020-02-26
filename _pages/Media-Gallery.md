@@ -826,7 +826,6 @@ Scroll through the Media Gallery for additional details on productions, cast and
 
 ## Eurydice
 {% include feature_row id="feature_row25" type="left" %}
-
 ## Chicago
 {% include feature_row type="left" %}
 <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
