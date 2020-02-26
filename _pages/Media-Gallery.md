@@ -1259,22 +1259,123 @@ Scroll through the Media Gallery for additional details on productions, cast and
 
 ## The Secret Life of Maddame Defarge
 {% include feature_row id="feature_row15" type="left" %}
-{% include gallery id="gallery15" %}
+<script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
+<div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;"
+  data-link="https://photos.app.goo.gl/oQJ1JSyRxFkHWnqK9"
+  data-title="The Secret Life of Madame Defarge"
+  data-description="24 new photos added to shared album"
+  data-delay="3">
+  <object data="https://lh3.googleusercontent.com/5L6obxC1ajwp5CIaRhUPhPkqZObkE-7WHzO-J6q9bNR1lr2x-9ItoBvzufILXHqaZXYoSkMTHk86fPAYKtbsb59eiB-CwUOpBbaCSfmbHl1RaGz-4IlAKMRf8xT4su7M9gto3OK9bKY=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/5_ATzG5g6CPrTrnNJL_7sDGYeQW5OurL87fmKXw11x3Ety174XKTwVUWh8k4q_SsCyRt_BxAFlAdTfGiGWNcwbbQASM_6hpTHOAhLOUDmUM9_KZYNaGufY9h9DxlD0TUQ2WfVKe4Pvg=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/n_xecEdcHhz8eK06YkpSJt-gwfV6FyWuO4WddLQsLnds-zxTtoB3so-7ge_e2FOPQIlRD6W2b5Z4UguJX31cLcAhHONhhB1l_5gQnnIxkZnpHxr0K_GSLHQLatgjwkOC_7mjGtiEMGc=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/1kyhzV_iB3OsDG5EsbgiGYSfnLGq1geSdG6_dS-HEB6IhNcFxjPbVGb9bSim4RIAkHVCUQ7rOU85VQA46UNfgb8-V528dZAYemdu_iHcmn6CAURm0mvlcgYMPsqb8QlNO01G7P4I1HY=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/GOxLLWnUvMGC_hjzwythG_1yaJe0EtLAUp-vScYPIOFnIT1WGRfWH559FHl2NsZ0hPJdiaLGu5bz_RZER0v0nCtL94na_4wjwZGBCdRk6BzXML61kQvZ8qHeoCUOaNwQyt791TAbvZw=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/JsC7RlV4IknooeJbjJCKD4PClq_cjQtyfjAr-6MsQqybMbbDI4eVDkVzCYKpBxdd6lyrd6NRJlEMiyQ8Eebur0gkNgV_MItCOpoROOhWZnOXipu6ZjSk8zpuHUa0pwNkGTCLFYM5Its=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/iqWkeiW1d44JKDbR0ZTRS2ylqZXX7ntuLBnoy8Ht5Dh_EojU-CeT2tWDhPscS4XzyIi3FBIsf3O3m--IWxSj8OT69U-PvbX446mlFLeejqNih7v9_emdfN0OAgeImtYYem659rA-_Cg=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/ptFfHavblqAPHC8oOJAw_fjevToBOeponDbjUrYLY0bXlDFdm5hayVHu0tIxfGc5YKcjGGeZ8_aooIPNPCc88mbBxLZoDynIakgh7YMJo55UiKweNrSTr7duZxfEQzfeEXNg9ltMvLg=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/0-329THksNTP4H2-essyL8oSVQ7jfM0w0UsraaQ1nbdF39Ommj3UA4vI8DM87mItH_k3KJM16IywOL8EKLhl_5qn9SMjzEPTKdqrHKW7s1lQUp6OxTgOVLsahxcKgl5MnIHDIU-8KR8=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/xLtQCSkZlYYKjeoDxJkPXs2et7vc-q8lvM63gMg3xlOQCpwrwWLSg7JtkoU6t-b5bxrvqAoiga_bI752z7h6Nj61IVlkiDCBR4G_92z0dXGHlG-00p2ViWst8GaioiLCKEk0EDf9coE=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/TDkT7zgqz7XOyPTWOwACrU1wSrUw3kPhvEQPjYApB0Q26EdvhIDFkU0_w581yndQOOQjNiU_9t8YqHkL6UWFJ1-JWqs-sgwonWCjfjyR2XdJ7u57VMa3g8Td57wEHsQ5JTcsAmP6TfY=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/1xnifztVlJon9ZEC6eAoLtfj0IHAjwHBnnBcR1hU-RKIxjy3QrdBx4zOnOi5m6IVqeiuo-pwjOV_Q7kvhoudis31S7nPBD4xyACjLw-wH_4SheMDLBbGGT9Hztos_Gh_H5bOmgVDWfw=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/8Wwgvo5P_MjaVQvrMN795gUlu5h6iJbMti8mYeblIee1SeTZcMdfwlcmHESII0OkPGU0ngU8JR1DxPAVnpsExBEYdeggx7p-K-dpLlkDQooSArMUFOet1cH5XGWjq_6rFZRBHruV5Qc=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/km4xPO60tbdjPlbS1muX_wSQSDzYC7vqj68_p_88VJcBBQ3DXjZoIwFiEiFSx-YBokjItnZcVjxjzmo_khXC5roDQytOKDAxtS0XuBGUPUzz6-gw1rJ6lyKqBc6WG6yH59zWYx2q-Ww=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/Pk0YQ1oYjxbJiL-xKQeUKxiQrIQtTQHoaXBf6CvgDnsvvBq3zOfPCvDWu9N11Y1bcNR-FZ4INRw7ybPx7NDLSSjg6PeWuff7EGFmxF7M8mI0OEUxdscRiNbIusWaiZ2czmL7S_zmNuY=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/9Jq7qSVVdE9-9JcvJzmml40YCOfUK_CoUqbBvWExbq9To17rLQND1w8Ztkz_O6f5eJx7X3UX5OH71TJRRFtDMx-NKosas_wz8x9W2tZQLXipvpGtHKgwhuekh8Y74nIBOAJL4b-UqTc=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/GipA84PPaWHMjKv_GVzWlIjULST0a4J56ZJXcuCsNcfdh4gPLPYzmFn9SZCVSkVzyrzZrvRBztNP53w4KYL0SE1WQxTGMv1CoxCucbE4SktCzQlQ7KHR1szT_HPckpHVk519L_zpoYE=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/VP9jIGi4LL6glLzVZWeZz5yqv9nGG9DHBY1BKyJcV0I2mQg7pwipPvd_WWePpJ2cpMHXmosjtyLCm9X04rY7wAdEn5nfg6zWSmoHtTUmGaIQiylg6SW9GDCa_ntG15Kbfoc56gKiLzM=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/Ieb7JBK7HgEd9iW35n1OObQ_sghvYO7OdkFY2f3J60cWSCOadBuTKNMSYfLF_B-jjz8JkoXEVObK1217penY14HLkkMG1RYjY8pfnywV4ROy16-O5f4BaQSuS04fU4LMGUE2paQnqJY=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/WjQc6xKJr5mFno7qGDO0IWPc9Lvs0crpv7IndBsI_uO7p2ARoc2uGBIFmmZfVmSVba6m-aBZdyohypC3tg--bHp1zdzZYPX4FErvRo5QDR9OcqfE_Z471JJQOTo9cAen4FgKIOw3jkQ=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/vrkQzcCP8dDmd9t_0S34ZySA_pS3ZrE7bt9Pbra1EwyzmhkdiD0JsJbbSuSeitNdW_EP1RGqqR_fCjK5IJzKYdEMTp1I-dkonsiO6Hz8PZx1Shmi-b-Tp_gyMmNUJJYx9TKQCJttv0c=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/une5yeOXvOkKcBjq1fThSQgkq3DOQ8nOMlkGG_iQkRdFFXkqx7d9J5Kv5pCm8CzOawwx72xISxJisnFHrhLXOwmHneY_njBYKaj1ROPHAoVUs-FvotTXu2ojwoqHBSLiitNJhQtM7q4=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/tPK-r3zWVdRM3RD9DanIH5wwDV8LQaqbLQLYEfUkwnkIErVeOJHeJL8ux6l-dM6TF1U55ypU7dyVse0B3Hjq28WVYCMu60E57Og5gyOK-nEgCHLWdvb3w0Q4iIBMiGR2P8IhXyDd5Ag=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/lmq7gHmUDBXiRZO1-7Xf71xSd9AE3hlWEz5ZceTYDLrDOstMkwqfSVpxfBUqTVvR0pRnFSiFU1NSas1UAtog_zuoUp_Fi1GgUaPRtis0p8ZGtnLFliYedgdmxbQRtawfYs9tKEO-hv4=w1920-h1080"></object>
+</div>
 
 ## Too Much Light Makes the Baby Go Blind
 {% include feature_row id="feature_row16" type="left" %}
-{% include gallery id="gallery16" %}
+<script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
+<div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;"
+  data-link="https://photos.app.goo.gl/wBELqAm4PZQhwMda8"
+  data-title="Too Much Light Makes The Baby Go Blind"
+  data-description="22 new photos added to shared album"
+  data-delay="3">
+  <object data="https://lh3.googleusercontent.com/E9-0jjSBM6RmHslefaRyGlBBY8w_WbuZoM0jJvZmGxoduTxLGuYYoUmHnN977me8R5HJieQ-mwuruJn5Z1rrQwi93H1wKGeXr9DMgt-JFFiX86yk84ivV3Ls9xuxUf7J6Ot6EsE54Vw=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/rpOdPuGnl6eCbuZZjJuGzHc-ev_finwKplOPJfsdvJ7k97xY_y0RajFumVJ6WWKzR0Po0XMQdpmcgXB46XsbniLksdFZVE5AHHGO9JgmY9kpMeEZi6PtsMAxJg0w0o1_VhB5jiDInWM=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/83Kl_69y04v_8j2Av-9xo7sIW4MTE9Q9Fejiqc3K3Uexs2FiNBZg5W5Z37_316eQnuSmmTN8qgnMYAr4r3jTQ95yE-jNvNCESUE44TOTntYQ03mUinbLX4HMLKmWm9EiItEwQbhAAc0=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/BSZodOivFpcQVpH07Y7bQWidpOWbBwjUJwKG48pHWIp0v16pQW2E4ks1XzAk8q0_F3hhHyT8G2LL_AXWc9m0mi0wNimFCNDi_o7ZNRh1mJNwRmbNKHnYlyqkvyt56NCJ02M-MRdWbss=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/74NW_Dr-Q779rIQmi4yZyav_VLIXLD9uQ0HJYRpVZdRyLwufS9Sp9qu6-W4n3XQTdpHZ9S4jwZVYwkP-mD4doZJHZmnLAsqUQVpjICSpYeETKNt7ODXLYJjM_NNjbgI_pSIwCnKI8dI=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/hq6ckP5d95oCcdI_ql-Hjw0dru_6nZ-QpyqLGuSI3ERQYy45c2bby4O-QckDE4M3Q1V19xIT5u66pDr0e3CmwJG3OUb5oSXXS2nASbb2_1zfV-haMb9VCcaJnxdE0pnXo4iJ1mg2y_g=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/Kuu0vlM8kqTZS3u77lAHYZ_uMg69Mr1bGUe8p5NXiaTMWx28qS7_UkZRe_IwjO28WMgVACCGYTC5bNQfUYvfNpMXD10DXq_5rmmPVwVQw1kKOSEDBSyW7sZiUJYQYkScwjWMHq_Bp7w=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/w0IdP6lh5GnA2Mh54PMiD93Shn85mwUUI0-PaZAI73a-QvQmVBRIQc6-EY0vqjYccibLNYFcqmp5n_YFfziNcxItHsUnNrxbc4AwtmEDlKz1gS702B5yMM97QZGjCZlDunxB9zFZ8A0=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/3d2MOFIkc_CGTQC2PbDL9XKTWDq7pSCCM6qAzLsBks6VghCGT7GUvAeuDf0mfZ0UvwTpEFOHU-XLIlaF8Lvt69rQpxNMSY977EpIo9JdnKZ0Ml-7JxixxXcNC7KQTVryRJoPNhoC07U=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/dWXsQ59vWmtiMwlivMgu5qxOHZqZ-vbCiGafJE6V4dXPLk9nFx417F1EaScWW4ihOJcvy9H79D8SRmDntBSsSrJUhA8vG-TGcKWHJ8mUcUzLyw5EppH4Xxcj6vC82eWlZdrcy1CdI8s=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/w_vKa3piZFWlBOb9Uu255tAfw6YAZ6fPQu1UW4eTr7GJSJeE8pIUTrIz2nUC0-uVHO1HVwpgoYARbcSWuhKxOKhguCqvUWYCaOla-VbQTf3zsMBVMaRYHmjSFfRuh_LQMh20d-nb29k=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/4gLSmUVDb3BcTX0mRn3vllqyXGWEkMbom3lHvQIyKzUrBi3H3--JYUCyMm41ztwlJOV8NKjvjerdmAMsDHDsGYUU_jPhp-J0svctMM1z6xTpa0zqU_cD43OFQBIJ5_b-Lw2ckPsxUV8=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/D4CSAeCqNt3L2dHrNStxPr4TA_vDoRRRYjmSIVO6kHuMc4ox-3pwHrYg6pu3i7MJr1irpQ-lLPyU9T3BhQZcJmgk7KZilSnpAO_jnEeKwfnga4_aNQTSs_y7rjPichMIzGgtnGi9Pxw=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/Dxl9wDGlTRjBlVghBI3y3Se-iUNHvxR9Tx5tWr289sUeJcKUTIU5H12vy7woJhNqfbsLW-COfQeWd8WbG3vXq9wvMEBR7XEB3AmJDfNy37R-YYavupmJX6aU2W5rfQWbHdaO3olZ1OQ=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/hPFjTiCL9U9T-B4tQ-cf0aBk0DNghw-K5kkL56LYE1dlPX8d9p4yAxhF555ti6ND3rX8OJliP8EmvLUWZRGkX8l9bTf75XYq-nrZ0qyCdZgdwpel6KKAHl3yqjMKtNJXGyK7_yoPsck=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/zJA47hiQPhiYHmLZUj7DoOpM5G8XpKT-NO2uq8ZwWuINWkyxEVxNCnWmQlPEs3SHbHj7LIRcNhiMtZ4a9aagJJWB-hEtO2XNrqmSsy2L0CS32GfGkCdqv01Hz_V3uIRtZlKxy-t2ncM=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/DMDKdJ_viyAoWkxMnV29JxXjQ4B3o4vBqlR8cX8IGYYu0NPFVr_h5V8fOojHDIMHFJEFOznRuaN00AJJ-eMfotuavQewSnr0WEy5Mjae2RuE0dATM0aby8qFBO3MOTyZW7NwSnMS058=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/MiK-QjuJI0MdJMHzjvgjf1qUXwvX-SD4wsSBFrUr3avS_wBFXR7purSAW3RaORDAI70oKF_tdG2CoGni-Oqu9MkXBnCzcNXWKRVDxp_mLdUo0k5jVc65kDk0uo3WTzK7_2KXm6h-6uQ=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/gnvdCBS53Q_UFESkHm1f6vxX8W1ocDMS-Kg44uAoTLyJM5fNx6q01oCNz6AXjUxmCKj-YyMLa6GUSKtTxNSNDmPelMuJCY6mDZUtQgaavCQDVc1C7qmQ8Zo28160nhCzFliXCSFld4E=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/VeFV1kK82sla2lR8pJb0-R9fEpJmNRD7jzkN-fG8-s_fP7-PYWqeiwFD6FpipI_A-ZSF74mycC8gUXKdhYl_RonEavxRWUDkmpJ6KnK-eGjo9X9IEwdKQXoihOXxXzazovuRfbxf0G8=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/Ou7zi8WVqOZ-LY7CfrAy3u-ttcNAS6CDQ7FXNg5v55cn5OVqNn-DrSS-7N3MT0bsru1xkDOzoFym2xNoycaw6RsMxDcd7Fiy2oIdAl7Xq4HzEYFXVx_L_ujGeoq1qTnqAJk8_EMpY6U=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/tJsutuKNdLbEaGDVwE06SeIkHjV-tYgA-CvmFtSO4r_pvNZThzGVpqtATAihfMgEyQaBE9hZxVSlT1bOcdi0Uo_I3OglelQE_iwt75emh4XUh2BPlnvjlrva7lAn3uzt3wfvqS8v6tc=w1920-h1080"></object>
+</div>
 
 ## Oh, the Humanity
 {% include feature_row id="feature_row17" type="left" %}
 
 ## Lend Me a Tenor
 {% include feature_row id="feature_row18" type="left" %}
-{% include gallery id="gallery18" %}
+<script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
+<div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;"
+  data-link="https://photos.app.goo.gl/zNnZkWsBSDPbDS9f8"
+  data-title="Lend Me a Tenor"
+  data-description="20 new photos added to shared album"
+  data-delay="3">
+  <object data="https://lh3.googleusercontent.com/PJKh68F_9ejqZBxoRW8bfEhcbSwnhcMXlsp2lyAc_1Zbw_JXX_gOTsEUf6TCDLOksPcp2NseEgsXTkJ8mnFczDR79qLk0gnFzm-trunz4nnifJdrqEf_IdimyzRhV7DeiKmT9Hl0S88=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/M8beoCC1KYUiMwc-nK_RiEgETdatqyAFTdd_8iNYO8ojFC-5NejrfRyg4XDRbQ5gNCsr4uXmg-Q7gGEgm4fTSLNd9XG_gz5CYcSPLZKiIqStyIqwbvO--JTpktM_-o04UXozjDifBOs=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/kbeyJvN0SzcxHQ8Ki-4XNjfGb2zULdSwrHO6HlNH-5OmMzP46Yneuv3f_Ty3qWawEv-R4tbrYdgza6f5CVCGAk6C0zkHbqsDQD8hYAbnm5zF1II5j4IUOXABf6qDC8Xk9fwC_VpjmOo=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/S9eoFmqD5YHvq0frmKVb_wQhlGo7nyR4lL-QOvqahohSInzdCjWRvi0xtnAsMgc8lq5NHIDbe7eOeA0viwMIJwWyB7fAM-4CTJ6JgZi4fgnmiJAm35qpqL-XogdYVQ-7uO_1CdJGbvs=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/dAbaP1eFkiZ9vw66blwK4Wb7AByvD-V0jEDysYywKdUSOiWS1TzDGzXWPKAGSMNW2bnvebMv0QQyVD8rYY54mt_7JzsI-RTW594qGNbJx0K4KQkX_AHoq6EO-M63OlefQabNEdqDkx8=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/7xIid5uQkERdAy4lsPx8z4I2so-lCanGnDjr5Io_QTPce60D09aRWTw8oEZ4OvqczfPacsVYmxLJOHUUyHrgeDuqej7YGDfMq1kcyH20a0gLyoPRFElxWkOD14xIm6kGnxez_xjtRCA=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/MeBBwkmMnUUeROZWDn99Q-f_mhi0C96-Vzfomcv1YvqJD_tzVcKIPFd0PwYTi_XKgzesewtw04LJbwUARX0d9p9vtjt4kiqP2elEr-CVsgn934H3Y9uohUdI3NJpBckoGO7JeWjEPo4=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/Je9MfLdOLsyNC7EhW1GI-uHSyqeHkBP3sOm88mBE_HYZOjVO6yDCWhLIIsBZl8GTTN7u3YRhNKUUV5p0Y-newxWF8zqvtRkiNFqqNrXFBVK0y7BWM0YwdmoMxv3ut3KWQnePThTTwME=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/UIM_9-WcZGMRNywsuRSRrdgyyk2lDWTFj2myqVREjQjg9MRWx6gsUUilLfTYSm9CV4bKJ609mAphVST4NFe74ITZK3TVydkrojELch-j-IJJzhWiuG8X8dmEyPC2WJGXwKCsUTt1nNk=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/Qc5tqDphFb6eJaxlM_RCroqr0vgviaQGDouFv0RvvVUbli9zjwPS397Z3bDXjT_MGicOzzcsjc-SIVi0JrIbg_jiofZGgj3muV5p3wPrXUCVkAGgBZ4LGgZ7FI5Df0Gu6LPAMdWPQOQ=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/brA3KZj5z5vNNEI_MsM1W4GApt29dQdcw4y5ANM6b1LcnoYgYLwy5iZA7w6-eR1B6513vvPpQjdn-5PPFWnwNFEBE55FiU6vN55ZLE8x7RtNx4u6gMxKACttlBkbjonyscBriIaECoQ=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/fGyasd9jKIZ--2WxASV2xaWnB1Kpi2Io9-q6zwMdSHDikoZbbNth9xLgoUwy9sxIxoS4xLawzdY-SkXZ7Z9Vch7YioY61fRelKUnYNxzqS0kfuzvDc2DoKRn4Lz_fQAFVH690AY-ZC0=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/ds6xwcDOERtkwqwPIPRfPaJpL2lfoRVi50hJSIdXguBShoKs6ZBOCpMkw0MUJRCpEFwezjCINIqd86Njkct7ZMElloT1g7VFisPG3yp-QjoGeFXQ-nnenqc_VCZztfCjEeyr62ulljk=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/HRo8xs0Ucbck8TJdS69dniPsP-RE94Tq_MkFKXtrD_KKoMF6xl9Pg26SNSA5ste_KqC5H4PaMzorSpaziRTzSKkCEL0Dtan6U1d0Pe1X4EdicIOzvsMmXEAyFKO0nf797tBT8ZCefEs=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/lQLGs9cC9QuT7265fqErkALjfEz5_As7XIhqPUKJSRdEf6rybQipFgD-atFO8YwdiawbeqRqN4Qxp5uhjH-jXtj48cOE1_kO6b5VV7e8hFrn51q0I1OTtGFYxGPTQYWJrkUfSm3LW4Y=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/CAfi3_fjapV3Ls-AbdhuEtA-rkhqohV0-CUZXloCuHGeX03NkDeaYkSPZm1zpCPV36HW_32zDSU9i0W_XBXDvjB7FH4B0Jiv1v0HtEhCbZDBlO1fj2lFOCO-W1QvjV6iYnQ8VYnqdKw=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/r7xnNrYnW4qsToodP-HSrxRxfnYTDKokKhl1c2_NSybvV74cHZCg7MNThO3mKkKNna2gXFgwliPA2QbAf2esuIFXNHTGNK4UNixEKxF9iRM8PjJFhrAJ5A7ot8GiUY2jFORxXboNyD0=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/1H2fA1_VGILCKAD_65br0VYlo2M0zguRrMg1wa4mBbu4gIF7PGj0DqesD72VW3tQNYz38cmbESgp2foFfJGXvKbnLhzCjXjIQGs0qNbqslbjivblIcaI1mYdjg1r4xPawM0m1woVSVo=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/u_HVnBOeQ1r30iJHEc0AJ_xpT9WeS5i4KR7N07JxRTf0e6B-Iq7FjyXCCVIJZTUciivOTGOPro2k3tKafokVSOWO-r0hgeJLPPb15W57sh9smJsK-X7ZAglQOjYlzfNhfIgI6MCZsJc=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/mbDgLaH56SrrcOVd9vdeDslitcI3r3DmTFo7Nll8QZALyvvodQd0-J8J2jXhvwTMwr1cjz5GXXCK9EupFDxNJYvuOvSWrf6G2qtFkeoGe6Dxw9Nb9gb123F7h7VDNofj8vLZz3MusSM=w1920-h1080"></object>
+</div>
 
 ## The Drowsey Chaperone
 {% include feature_row id="feature_row19" type="left" %}
-{% include gallery id="gallery19" %}
+<script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
+<div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;"
+  data-link="https://photos.app.goo.gl/w8fHgfoJjyDvTqJRA"
+  data-title="The Drowsy Chaperone"
+  data-description="9 new photos added to shared album"
+  data-delay="3">
+  <object data="https://lh3.googleusercontent.com/TTW71yoaTxo2pWOqvZ1zJvrPT-8-21IlxYbAD_LrpsUCpMPKTZh_FSnAKB4QDmFbQTYC9md686DP04r9uyu7eQdW8TiEYpGl9tzRYq_MTQhFqAuzQA5oSZft_NJb_kxR0rNd6x1ueh0=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/iiRBqBLRCD1F-m79pZZdustw6exrsLbUmCDnvZ93MJefX9WdfMbmGdhClEAzafhSPf5UpFGOG27359lUjnXic7L0u1oY9Hg6YdkXGwVUwxbg3cLyUcPENtbCYqtkRxGBc74vTc2iO6c=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/T6UhKvBQl3rHPoTUI1rMo7T_xNblD03V657TDGfUZQOwf4W_N6QzEBy7XSv1j-L8eiwPGSGB18rO0e--Yettt_IvmebcKqxjd0AEp5a2PGtK3pvKtNlDmQy3UcB1_Lk-MiDdEpaJRZg=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/MIc18biHXB9MCHW_O7eJB6KKEfI4a3H5UQoM5VCxL_xamXroEbq08uQEIHAxPg8E15yUYCb7tJWRFKbiWl65D8KK3HtpCue9BqR-m2t7oafJ8aMuEfF8ZBPrODD8jTDyry6YIpfvVJI=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/7BsbOZMYRs4gcW4UN7O8n7jHww-sO5D3ZBh8-xDZUStWsD-9FjFGEA5YxeVnAm9t9Jl1KyKciLtfwVcs1-ngMZyiFxxziPKg1V-FHsp17rgua8NuaiqpxmkNNltIdxzKa8gb1YsH5Gk=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/1uhNuN96xm3h_g1sVcUSDo8b_jSMGlmxljnvihJ_H9tJI8x0hhF_FwM4QkJgXDpN1eH4BtaPP_8Cuph5hd4jvBCRN69WyenwU_KKmlRh3P1QUjYeZamTfEuGpj1uls_8V1izQ3immk8=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/Lzz0FMWfu1NijhYNv6x_d2pRtm0iNyCRJ01DI9P_Isvc7By_BA0p-6VHA2sxV9_WsKrJkLctMv9vjyWPSE-pqxoNd0Hplmb_gtyD5VnIAaUq1Y5tIInP3BJ39Xy3PzIhWy8DeexOwWA=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/RC0VGr42Hhtb03ZAIBYeOQ78FCHc1nne2r-3QjYLG4JahpCKJpm8JvidRLtR3sQVdDlxL3yhQwHcf0s4VunhpEtUzQCAwPdADCs5tg1iHeMUlxny0KM2pUKY3cjFfxo53FYU0s3ylag=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/5GP6DV1caAu2Ql7cayaflPLcsuGiTrLbi6RvrFZ7qiuP28W5QMeVUvbDicl_wKgBVfcRrxIKCXnGrQa8mWnTcNIF4i45e02qnOdEwHBqllw_STsyzhKrjcLtuKMcRHDpnNbsApwszz0=w1920-h1080"></object>
+</div>
+
+<br><br>
 <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/BSKlAb_AnCQ/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="12" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:16px;"> <a href="https://www.instagram.com/p/BSKlAb_AnCQ/?utm_source=ig_embed&amp;utm_campaign=loading" style=" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" target="_blank"> <div style=" display: flex; flex-direction: row; align-items: center;"> <div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;"></div> <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;"> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;"></div> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;"></div></div></div><div style="padding: 19% 0;"></div> <div style="display:block; height:50px; margin:0 auto 12px; width:50px;"><svg width="50px" height="50px" viewBox="0 0 60 60" version="1.1" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink"><g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g transform="translate(-511.000000, -20.000000)" fill="#000000"><g><path d="M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631"></path></g></g></g></svg></div><div style="padding-top: 8px;"> <div style=" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;"> View this post on Instagram</div></div><div style="padding: 12.5% 0;"></div> <div style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;"><div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);"></div> <div style="background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;"></div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);"></div></div><div style="margin-left: 8px;"> <div style=" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;"></div> <div style=" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)"></div></div><div style="margin-left: auto;"> <div style=" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);"></div> <div style=" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);"></div> <div style=" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);"></div></div></div></a> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://www.instagram.com/p/BSKlAb_AnCQ/?utm_source=ig_embed&amp;utm_campaign=loading" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">Happy #worldtheatreday ! So blessed to teach such amazing students!#TxTheatreEd #vinestheatre</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A post shared by <a href="https://www.instagram.com/vinestheatre/?utm_source=ig_embed&amp;utm_campaign=loading" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px;" target="_blank"> Vines Theatre</a> (@vinestheatre) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2017-03-28T02:37:07+00:00">Mar 27, 2017 at 7:37pm PDT</time></p></div></blockquote> <script async src="//www.instagram.com/embed.js"></script>
 
 
@@ -1293,4 +1394,28 @@ Scroll through the Media Gallery for additional details on productions, cast and
 
 ## Shrek the Musical Jr. 
 **Haggard Middle School**: Nov. 2015<br><br>*Everyone's favorite ogre is back in this hilarious stage spectacle, based on the Oscar-winning smash hit film and outrageous Broadway musical.*<br><br>John Marshall - Captain of the Guard
-{% include gallery id="gallery24" %}
+<script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
+<div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;"
+  data-link="https://photos.app.goo.gl/fs5zFN6UnSn4UyCL8"
+  data-title="Shrek The Musical Jr."
+  data-description="17 new photos added to shared album"
+  data-delay="3">
+  <object data="https://lh3.googleusercontent.com/W2KsR54_j0n1M2ciEfu96CsjJefBf3oq1y8UcBBkSnsneinqhrp512hmR8hl4Iyln3xQcAUvhOFRwdkUCP3Iz7WU5KKfE3krH0DC89WM1_E0nxio4hD63V8Fx9vm_0eRIUueJeE8t-I=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/aaTAfdl1BidC9c-cKxtuSLt_NL_ogI8KiDXZKqkvQYXRbBZ2d160Q2nNQQQHcSVcGIo1nchmMJHFXAkpDCI9t0H5qGIQSw_HAx_toHs7gMfyUzTL0BiNvv4wwnoq-CkrIepphIdfVS0=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/49cBA-jGrd6o4iCHkcwdS9YuPp8Lk3kILlhGXe2BgYrq4tZP2MCd1UrU_s6-027NESl3LNk7Bw7xASaqJ7qq8SwN4LVeixQlM-awyXouMvAGdw6OOYjTke1kmQglWk2a1IWTifByC8M=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/7TctePSTkDaoXdhQRZkSc-AkA_mPHEtWkkxykJPkXI3oSKIPV3Yp-IJjLMp5APLeykLBwd6DRou_luTW4uiELFsa7eGGwERFZBkzI81BGrIqwqiZeyFWtMhDhdpzBG2E0hIRlyRLmAg=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/ExXRwy_sVr1-GgazNM04uQMzsppTcp1RtEAAzkcg8qtwHINiYxJ4Ly1F9RL_mJvvVCo-opU0OfeJBAIvPl5MAxWWEXzHz6MGDzWpmUqTILk2WWni4l-xYmhtYLEKbRNckcTTwYYMLOY=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/OKnFfKj1xP3EZxYqPOQNyRzySEaOh4KMdXhrDdT16nyfaONqzyhsPyQDO5LWI1KqPaSOBPND_Qtufp32MQ3ap0JA2N497OD0DyDN6RbWsmbUWCp4MddCMy3H7iOuIuPyyoDHKupjXe0=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/W_vYMXgWl_8XeG1hnbND2Ej5e2-EjfwAqxmHUaH3x91bH5vxq1-WPUQzkH_tf3A1poo8qSkO_HjoYgSUkYtG4g9Rqa_iEuvIfhBhh1wHVpMZLdfI5gSPBmDAqVck8uSODqhSegp1yd4=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/MFaH1jOtqMRHAvU0EY8VK-Z5fLjEGwEC4D8LNR3ryeY_w0-LJB2T9Q3OKbFONQIsi9dgnDGZRcL4n71-V99NT9PbiAkp76jjnMKqWJLQ5VpKZr7p_jf9EDB_keQRdbfzI2if5tKo2Hc=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/vstKZCYujTsoXNIuWxCoO8vMQbI8ajVtnJW3SiuSiXN2OohnDRBAR5WOE8ChwwwaMy1kdjMNFxdKAxaRYNTljM7o_qvTjGZSkXJ4_F-1TXvCXFujQ1Ix5Ep_8sgu85vVS6Gd3ZfD1e8=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/rFjByELaVAKN4Kf9nUVgaZ4-AIpL6rDHuAXqEcV6Dms4J1bMhyhpgLvgCm6juLbpL3W1lmp1rZyRpg_yQb-g4bdWGwoZuR5YqzznzIK5_pLBnXf-oDAQOYUnIkzhmmOS0e5JCS5CaHo=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/V6n4SdVRCbfgXVPIyEp4G5YFnDv3hmkYzpkzq39BdlNkOeXc7hWH6VEYdekjCC9GlS3z51eQLY5hVPBOHZfDg37YFiooXqSLdB_Xx9zb0pc8QLJQxZg3nAWXzvx6auf-TnH33YiME90=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/PuXnoB3JKKS2ULXgg-gg-52E22vw3OS6CNfRd0Z-yxfum03hG1KqQUYbJgvZx6d5Ec-4KM7LMjcow7aiaMJtOlQfZR890ngJcVbYg0RVNJ-TrXyTi1z8T0bEsybqNw2-wHkhtBPoHL8=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/ztF5niCAmsNkNxVA0K0dkJgcGqkRnxGJNuqPwO77PS6n5qVbT-RfHynBAnI26IyV43Os4eq0IyjHb16fUwMZ2mSDo8t_rdgDfwCvtFEmkfRkd3ao_685nGfQlXzWmRTPJEnMQ2REki8=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/yR5gwQLvhcwC2zWNhx92GiTVNE36QLHtacnZVmXtV1mccFMqy5YKxfmBm8I28VxH_DNFHJOodkiDDC-f23IvoBeeHHBSeVEjSPYaB_qJdKZ-B-DhdGxMAvdCKLetsYvhfGFh2SvOvbg=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/_b8EK041NaFa1okbfXzCUpp5_zvZn4BMT-jmVobxwJK7DJrUz9uhzIL4xhrfmaajfWnayXFSo5J-cZcoH0PXSjUVcNWXwpwmLPlLxPzFRDLXx5J-7H_chACXstoEbMnx6Hl2r6UFfmU=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/JdIXSktlHRr-B2wywZfJQN6Y8TSQriEEVJDT-Felc_52pivnUiDYqeTOpk4Tizq-V2-zaw0xw85gZywGHuco027D2-s1x2ADQo0alSD8g_DePdODuJAQLYjfAKUQEO-ZJaxmQRZwqew=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/Cj10ocV_O3qGt7OkC2G_QWfBivjTnPhNNMlsqvl38h473I4mByptyg3CsZ-e0NE0UXtn6M6HD1ZsSrfp2Sa8XVtmISF4UJ0Ti1HOH19uF8asGDZ79yquvJClW7o97gmwFK8G5XmwOKc=w1920-h1080"></object>
+</div>
+
