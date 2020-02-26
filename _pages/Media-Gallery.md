@@ -904,12 +904,65 @@ Scroll through the Media Gallery for additional details on productions, cast and
   <object data="https://lh3.googleusercontent.com/kdu3ccPbcXCiBzP5zoBQBui8Eqv8qNF_EZy45_8wkU6kmfhqL743mLU--o4WXFhlD2ad53aVcq6pKhR8WIpI37xUfmja0e57yInR8vzdaTsu-OIb1vGclB-abES_lq2X9Ud4C7oYaBU=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/LbcuCyuvJ3l5dnSG_EPPN7iQ5VeNQuR-gBTX-6PBv3MIbhnLw_28bQ31EHHXM3APEBdiCP2S3Reo_80FS-j35l0ostu9LXv5zKUr3EzdPAZe_-5_5iJDQATnzzfDgryKTYpfZtKMuI8=w1920-h1080"></object>
 </div>
-
+<br><br>
 {% include video id="VSZk2NPFaG8" provider="youtube" %}
 
 ## Macabaret Night
 {% include feature_row id="feature_row2" type="left" %}
-{% include gallery id="gallery2" %}
+<script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
+<div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;"
+  data-link="https://photos.app.goo.gl/bqo1x3g7oA8E1Fwj6"
+  data-title="Macabaret"
+  data-description="46 new photos added to shared album"
+  data-delay="3">
+  <object data="https://lh3.googleusercontent.com/L8Yn6VNAfOFSUsXXSi90LINllM27UBUWtoziugN1sl_Id6dWA4UF9Hx9d_vf8bR7Wr2rl6Ebc7XnrsuhgJGlN4E_UU9hEa8r3For3ZGVhwurhpd4b4NCXIVu_D_Q_dD8PNnQ27xASOY=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/r8_HayhSKnH3GdIabIFHUx2y-pew8eV7L2MgsLzE0Yi4P3HOdIgZU69jAB4WtGiOaf3Cd4JDrE_mn4SnTQEbs3qdZlIG2RmU6q7pwNJDEaS5aU_cpN3Le1ZnDz9CL0CT40TrTsig98A=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/TghBMafFUiShXqVHcIfzpG45lgpakFl6JcdBGhQ0rwCfSJzZ-rccxa748BJ5OcVxD2M0VeCICmUEVMh8Oo745JBGIuM7wC_TKPt68GgiEtbjxrJUtGTsqmTwXwWb8qk6mNh8C59VIRE=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/Xjsgg9S6z6AFzyU-lg-uJpMdKhpPK5ACxMSzXrYfi4SqEz4YrbPIdeGHvQ9jry7iDqAF8FE-T0pOHinJZduueQKTlmVRj0El1BqtIraHS_g_Rnbz6Viat6shIymTivzm7JMIjIijVL8=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/dsHisVMMoW7A_EA8GjfOnRkqy1pQIKnrHOcoJYbG5859C3ge_AtmBzfhEibUSG1G9EG_uYUowsTZxpoF_KKxUW5jdPuD7UAbULtpDpyIgJgvQOMHXVa6c_NwJIMhQM-UyEbF6wdsVMM=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/u5En84YiDGhDXd8BtnGmfptsrqMypmvZUwDjRZw5RQ0-Rsmz7Rk4tmkbQuAEDbRIKfiW490esXwjMQq3qAhG-CEz_kwllkNo3Ga0vfnZKr_Lpn17NGGoYjMfd-iq9J2OWGstMW6PJgI=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/8GQI4yU5FZa4ZqciiHm3y540NJvrB9ByUQvHpQ_jomIhQhx2J61CNmtxyiaymbmM5m7BBFQSeRquOEglZT_v8jnEo4LllZh2EAB5sTg3EReBqu0t6ogqn0uvb37rfYfrt_WXCNAV7Bc=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/N-yr_xjYyxPk3QmcxE6nyz_tdNmVkDGls4d_LQRFDSf9SsahJ3s9SOGsUWSMlqKg1Emz3nWw2hd7JOJINkf2Tz2N53kwaCgl3EAMwYv7kBCNqGbhy-NJfyjrMcm6EKBnahs_SpzG3hQ=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/QyAWmv42tYUTvwKSiiBJ0cYaPdaX_oVkXDB7Z5rrjLrBsSOaaOZ-sCPmC3e9T2SP23U4RgQimkaJbvpOygAS6XTLwx6pF42vSN27JSp8R1H8dMqGVPPeqrMp2o4nAWhBW3ZzxG7kCjk=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/ylKuCcIwUqHOARkp17-vvug0tBl-nMb30q1GMP4VOJTWTlhEz7ZKWwFOfc_ezOO43RnvqGMsfn2VWkwvucqLU8PDi898s2s7Gu3WP9l_pM8TMGpNJoGbW0zUnSivYQ4A-vgAlGXbClU=m37" type="video/mp4"></object>
+  <object data="https://lh3.googleusercontent.com/Leqp6NDuZmAE1az1DFIhsbKoTEx711Y_Qf1Omrogv_T6TZkdvKM4v7huebXGOvtjYjScOi5ICEtiQz3Egt5ig83qOOGa_D1L6ZsvgicWaaWi6lF-eHd6DdD09HzkEfQTOBdrZ02tgdI=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/MCWa3OPUSAb-3Oaox-1OGQVdvvQ2FECX2ATO4UsVIW3JbHy8S0O_lTBqoUbMUrExlPpMBbFV16qjqR-JnCkyrTY8q4askIMhjM-IWe-eEEbQAY4AlpHzmFVBMOvuGkU6WcKm8eHWGtQ=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/C1X03HxVPyeh3kAQs3nNlXPyDP1Yn7Y9Ftu0W2pZ5Sn1TFfg5EC7LcpQx0UhWe2f_NDS7Gm9pVSideo4BFm7IPdI9baU5c1XHIETduuyqM8zaWA2OZC-jQNzx3V2Wf-E2wmTuIDoIYw=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/sFuvFoPv5ZMsOj3XSh6pv11DZiX_XN0BnH14D6x5p59-CCGUo0ioCPiDUQbPxzAF9lb7w87DyblxYCc10GueIzP2ShSl2aklieKofQUev9jmkltQffNB4Edfsc6YHM16hId-mRj-bLA=m37" type="video/mp4"></object>
+  <object data="https://lh3.googleusercontent.com/p3d9l6UDzsF8SAdZMHdUZbrVETh7PqziJypA9jnJyX3S2g4Hn5ZTZcyvJ9vsEG4iLl6oELQz2iHTam1I06zF_YhlTBZR7YzDep9It-FkwZgqyxApgNqWZ4bupZbHZ9mXPcRxPbRpaj0=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/RYvd90J1_F0ykkz09uIyC1It2_AT_m2HBrQMk5LZrwBL42l84nRPiVBeV9RlWk_4X37r1TwvkhEcZWm-nBrjuIXTbv_DVX_qDcwXUeIIQSqsF_Xu0gW1B1ryTSEM-ZoiSlxeXD6kmF4=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/OsVta6jVQiQ-iF9uPqrbPM90vI3arVLGMoTqux4GMvxLtclOOVoVRjWiWf07zfHofxfAp9k27_DP_amiERA6WllF_6U2jqTeFEuIXPiMvpGKLXFOo293T8UL7yBxky-dck4_1RkcFa0=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/DEXjEiiDbp5nWIL5VoeqH_N-XW4NNeuvsSWJAe9uMiDSQZubflcf6I9PPWiLJKKtdRxokXiJOh7a5i6SJNEgih5xtJHy1r7ldyjQ0Gg5afrJi_gWakMUO5Aynw_BjXfWfEhQkzi_t1Q=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/5zMZ2jdSK7pI1KnN9VnmTO0zed3I5H9EJgVUk_CIv0uXA_39LSk8Ms2A4c5BPFVfuEH0epi9mBKfom43E6Z6e7ZEWTub0-xRSwEeAAN3hlmJ026Nz4aKm3Szh-IEzKOsrlyyBikMC0g=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/gcaf3NLr1nvc51VcSiU18Qea50FeDaU2IyaMd9CsUNm21PxYxssieGvsZXqkE2MSNyusy8PI0w7sol5n6k_9dCYGd7KGSj3t64I0uoT_or0npVludMlAzHZFulHb3iq7DDtv0xCIhCw=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/5FrVenNLnEuJTdEd9133JQBRlfub2w-RxhoZCiGL3T-6mZXdVXS7c3gLujLchbwWWPBJmPNY10nSxlA13dLQ93wuQofgZMjG2kkOvwXngzWdtJuGp1S3HTSbHuk92zkmJWhiKfTKqP4=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/JETipXRVpkn-7p6ecXShP7M4FyJlTqefNgV3mYpDcDYhP0lmNAOMT3EBOZW7yj09mUAfKB90y7Se12mN85i6v7wm49C0l1pNU5J4eI1DdJH7VtU8Y9Wzn9A4QMTbpDLtS6RvE_1sG8w=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/PjpD1ezJe_F9X7CcKnCodz2fZIyEwhp3ostbGwlhH8PD2zJFETw_fwkXhXG2epz4Zlf5UQCgQamr0jrYLJiz2kicuzipOiQUrZzvHUtO6DL5BWS1frXX02_DNyxLerlCGH-U-aZrmhc=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/mO8gwfxnuUJ5RAVg9xGkeEjuMauot6E_RnLWLKVZv8iP7Z6rkRoErwyv47sL9fQQDUVa-R6VXpRvxkaaMqbVzuhpU4BE_SQCufQSpEmYzgAMhCDTbibIc87rhqu3cQa7kziU103xVl4=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/Au4dDWslCe6rqrW9mmI8J4jYGOigNdAG27EnZQxlFmHKiwk07aLX9T2ZvUUu4ZkIdpm8LNRNoZbB8u0zdI0Jowf0ETzw7MZaShds2ryJ7e7pcSwe1L5ka8Jj_vSpeUqTjtVAiDGBxGY=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/RBH-rBOZfvIAlTmfvImJIuD-nVD_e5-gfryVnfYKVkG2jPq_0pXP57MO4vZ7VVZnc0sdWtg_k21X9yJtjYzMJ9W9KlSz3D-5yf9ulsiy9NgRGon5hKlpMndlw1bzPTSv9hyrAhoAx0w=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/wYQSTEAM9XllWXqHrgwOfnKRpdtt5aZjf-TJY2OvaaqNcXzp8KrPmaUahEKzWZFAM8xBRD4FlKb_cjupLB0oPuu4DHmWWNbB8uvIfRQseao7kwvxUHtN8z6pdgy2x_wdELAuD_YPulk=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/87vq-JGAg0LQkn3AWAwwVT4pL-qNM3rizGbZhyxr-niB3E8eSMXdd74IGCFGuOba8W0EVM9ryq02DDzu0jFWdLATtgXtqec5H9p-XIBQxRedOZjXxJXhIS_DYla5M2LK_97FA1M8xGc=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/wgCppdj_h-dEhbuxWc3NiK8TDVf8GzZzBDkICIdwSbeNKqOu-nooDdhGuNVQbozsBOfZ6BqbZCsagQ5Yoqz0DbkbWsFf1yli96pO3tfc_k7iC0BUziZ5qfiavR-1MD1_S_Htf4yHmoI=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/ibBYkPRrKNYQ9Y0wOBGnGysQo_-SgzoltaUhdaog-qfcHJzXkZ3SqisM5OZe5X8KAVpRH9WPm7jrZ9cQxhqzdLZd8LB8PRY54Ht7sqcFi6uRCyIauBlN9OpAVNvoA1WK0GT4hjs0CqU=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/xD59jccvTznxbIGKi4Entpow3gMs7jOJEhqYMaN77-Bapslj7v62oENB51zQhBPkoDHLvVHHRvYsXJKXUHglWPUHVniiXFgYNXyvopQ_tR6X0pMkD2RzTLjB14Dr4ejNpsVrW-9NjT8=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/dNCXAyGn5N4YJMVHQxObMV6hxqnsc2XoHmLdIRt9NtH56ilXejiwKRIAhbqQri_FCtrBry2dbVWK3PwNDR7flFn2pGYEzT_mVXXZCv7GYeuW-2JzKLVV5vkSTtp0chWusThv2nufdVo=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/AOOjFloYoySwMDJ-0z55CLRYqDqH_VOYBi31BXnzvUiwIcQFohwPHdHfqclL7AJwoTtlPCl0x4O_MXQY2AxErto6hEQHhNRzyj8RHDOB9uSUuMoBWbZLPZMOK7AT3EFcoErMGI36m_M=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/fJmK7jdvsxD1f80XUAtuUJgB3OpRIOgZ5A6_meLLRHJka0BSUvYnY03rIL3ZKpiDT_kn8c-B3uH4nSFIBYb1cvQqOHyIOo9LhFhFA9dkPyIEidJkGMex8o9e2ETzYrKt0rEuTQf9adU=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/50YVtvANgySNSeIuGIY3nf8_MOKBzW1F1oNJUNIM4KKfBF2h6iA3rfvuQ7JRD3736I7FxJfzl5VzdB1PJT7AWlLzsInKuOt9NUnRPO5f-to_YecrhJyeRWW1EUKmg6VzmK9ESknUfpQ=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/MpneRlwVPW3000ctIWW8BZQh5AS9FApACohzTzIbhj7RCBQxXxtnDdC38IBLzur81iTC7hN3UZrXK-yIOTDQwBpBC940YAQcNddK0aFXS2zfEXga1WFcKyKUr1ololUP2CjHSvuNh9s=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/-V7UXdAVeyrG5IxR-RQbiqUfFCK3C5ZDrse1_XfAq0MKQeOkEe77ArZj-5sRLI9fz7fkqbm6Rf1Hvd3UjPol3lJYLiT3iQMzj3gJrpepqos7ceXgEUc7g8eF2dXxKa3aDEYoYhGLXSc=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/isIAfL7uqdYDYlduYl9Y2D3417SB4_GSOdH5cFKbSFOTQwX5FA9CcW4wjjEcDs19Nj4kd6Rx0qDVeNV6l-BM7nD8I_4UKQUhBWhInL8n2-CPSjpIV8GT0TriTyLjHg_lDrptnMAOyWs=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/suB-0QwCwvYeGeDofD49NGDWe2uLYK-12eVuPRRZAkU7T8-aniNmdY-AoTEwScl9cfVOJJj-EtSqXdL_qh12J_CXVfdGwWt77AEkipbwautD5QBmZ9p7BSTXscHzYYsxdcM2SK_zQMo=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/-awml-vRHo51GsGPW8aP5BI4ju5MA8B13Q_0k2LqZK6UnJsuQrLH38JFbP2qjjaXoWFE5h9lPxCllyYhkSLPbs_K8HwWDoMmd4K8iYRUklB0oLSBULX0MQWUjcgrjHB24sC0pI0p8_I=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/MWE4SfyB5kqHRjmHStwEwYP9NKnuili_HxCp5_v9Z-CY9MoLGj-IU-xRa9b84tegu8qYDYi6WTbCpve9QxW_OwpLhOTiR32G66nuL25kHz7zeUX-z7XBDcXYxWOjD5VAfkGXe5g-gYs=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/kzIqAOnyhAXEAAHgx2TdViB99lh7sTgZhhxc8L70qd4ht7544dUlVm02kV6Dcjqt_Izu7zjV932NWbQrgpwBwG0jhqSgqLl4PiOHp2vS4URTjxVmhP4dbNH2sbniCaPETAEzjI9yVQk=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/ze3KMdLuvS6Oy3LWROlhwfx6fVM-7E6tLEO9jvJ5mdBciil5uCFtPM-5suf_7Ou-BFGv3BgBv4PNzSmuWFNwkcOk1_zI5dWAAwu47As4KONr0xU5vbXZ_jxyiGysUAli-5x0zAXg1r8=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/RNSYyZdFQVDbvNd-NjJWBdxYs1e4aYoAPFTUMnfTJ3DIwC4oZ7yuNUx2wtvKLVUEUGDyN875frRxK_j3KmzmRNkqroUTDZgDS4VEwavEp5BR-VkpqY7wHl-x5hOr2Qa8qIrArBtNvNw=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/LvgmPTo7scWicEpmnj3uwHjubz84GrPUlWSzfCZIkn2aRoR01IS4TwxmAuAEgFPFglsGcZjazg3KWl2xZtQmenEmV6BOBhVJFl2gc-0tUFrL0KcpWrDtg--qFn2iFlqAtCdJ-LGK2WA=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/uW3IBjeoXHeCP5OfyD4emYupTyxuGg5TAWEg45YIM1N98MMVRB5lrtfF9y5JYCqsK0Bmu8HfjRwo2IcLD-CLIv5zQINpWjuWjkiOHbsQwEt0TKXu72DpKd3bjQ0FkR1kTc6fcHeUeY8=w1920-h1080"></object>
+</div>
+
 
 ## Wendy and Peter Pan
 {% include feature_row id="feature_row3" type="left" %}
