@@ -1384,7 +1384,23 @@ Scroll through the Media Gallery for additional details on productions, cast and
 
 ## Front
 {% include feature_row id="feature_row21" type="left" %}
-{% include gallery id="gallery21" %}
+<script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
+<div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;"
+  data-link="https://photos.app.goo.gl/rJKQvvjXi58d7nwC7"
+  data-title="Front"
+  data-description="10 new photos added to shared album"
+  data-delay="3">
+  <object data="https://lh3.googleusercontent.com/Q1NvSj6u_EefMQ1RA9ahb-Aii3F7hh4HJL7ECprms9sdSTkPSnRQQFFzWc-k9epE9P3DMIvaeMu-MeLKKE5grOX5qyfhC4VnqNJORqG48ExwpCPUkkRqsvMU4Ztj-4oxHWtUzF8R5XQ=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/BAfFdGj4C0eK4bXpRrjJncsfbXQ5HoZQE5ukuenx8XoU-xeuD2P_FyT3Hhg0RpsmTVkCvPljFJKgRHl-nFMtVmojGlomnrvk1GrtElIEYSMuwO8hJ2JS1Tz7dV6yfyReN9JSfTL8-v4=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/YRHg5_i_ulqJNKYpaKlVFw5ZX1BS-yqOxv1Tc_r0-aao7CiNu9CD1dmhxwWtseWBMif4HtaNX7ISyCXvDlqgtKqno-wJUO7QhrP2S-yVZw83BAQPOj9BKZnIYqGzzCi6NayRfZQgG9o=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/22CRdMKaq3Fu2x_02juB0N-Xu6mnTUezRtgjqqxPJsriPEV4NsSbWP5r7UKIwZPy2bPn_lD0TY4T0UCSbLDEDubhJXdqnHBOGpLQI4wHKGm81ID2E1i5ndg3ZsljwJLqqN45A-A1r6I=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/xvvRxbzUp7_ZQzi5b184gjvUXZ14llvUXL109vwW3f0-tya3ekxyO2fss2l9PC8D9j3auSc8afVMHZjE3C0ZI1VxfEWejTAjVWU0rcYmLpCK641yeXzMnnQ-h2whUR7RymEn8y4nFg8=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/XmJHNLRIubytv7RcCTa61ES1gI4hGx4bPcXbzwMluvqpg3iD-0nKlWw8qoH7_FZHcire8PI7wAL8V15mBMRvcZ7yDhf7qz4ER-lWYPMdQQPToPPvN8SwvvUVTCNq-1bVJ4h18fsiKz8=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/t0nhfRfAeCdylIfao-IpKfEKqR9eS73Cw74M08YZ7dSL1IFUl17eXlbBK-Fq_75ArOO9kEkh0ySp27VFtaRDL6pWXupB-nd8BfOJdFGGI9L8vPYrEeDwGHB0wV5Ot_CmMoU9u2RypPM=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/G3Sffctvy0mcaKwwOob2NpHSL3pl0YqAJyZ6BZDpKTosloyU7yIGnDPnxYi6tH0gF7MtCEFafCAWHrWqx5ZGzel78gUl-QcHdV_Cu500_igSHuSxTw9gA_AW_F7zsovNdLN8xTzdVy8=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/qmpDeu5lLUVSUlPr-EkpyKhs0fVeWP1P-yaeFOVEx6agPjlL5GRNp8hFBNyhNLA2KHTPRWaUudMI3nkMfZfWExXAiwtfPuzJVY8zQzu6s2pmAVnlrh3kqKfrd8b0xHqbezKGOSNCFRw=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/O9CxYP2M9irN4UkadWpSkMyQUYP-hhbbRZ3_jnUxY3teEpzLLyy2lLd1HwqcSgsoQS9GCDDrySrB9X_GEEjTk-nzhb2z38h8BL4M-A-o4rZ3mf_ExcOvNZuFC0AgJCtUMJXXUStUTxo=w1920-h1080"></object>
+</div>
 
 ## subText
 {% include feature_row id="feature_row22" type="left" %}
