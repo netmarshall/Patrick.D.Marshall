@@ -64,11 +64,11 @@ Accomplished student, actor, and leader. Effective organizer who works comfortab
 
 **Theatrical Training**:
 
-| Acting | PSHS Theatre Production  III & IV (Ballard) 2018-2020 |
+| Acting | [PSHS Theatre Production III & IV](https://www.pisd.edu/Page/1161) (Ballard) 2018-2020 |
 | Voice | [Feledichuk Music Studio](https://feledichuk.musicteachershelper.com/Introduction) June 2019-Present |
-| Voice \| Dance | PSHS Musical Theatre  I & II (Lozana/Ballard/Newby) 2018-2020 |
+| Voice \| Dance | PSHS [Musical Theatre I & II](https://www.pisd.edu/Page/1161) (Lozana/Ballard/Newby) 2018-2020 |
 | Acting | [Texas Thespians Festival](https://www.texasthespians.org/) 2017-2019 |
-| Acting | VHS Theatre Production  I & II (Miller) 2016-2018 |
+| Acting | VHS [Theatre Production I & II](https://www.pisd.edu/Page/1161) (Miller) 2016-2018 |
 | Acting | [PISD Centerstage](https://www.pisd.edu/Page/19755) Summer (Price) 2017 |
 | Dance | Jazz/Ballet [PISD Centerstage](https://www.pisd.edu/Page/19755) (Lozano/Hefty) Summer 2017 |
 | Stage Combat | [PISD Centerstage](https://www.pisd.edu/Page/19755) (Stewart/Aarp) Summer 2017 |
