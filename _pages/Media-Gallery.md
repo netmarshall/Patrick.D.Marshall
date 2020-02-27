@@ -711,7 +711,7 @@ Scroll through the Media Gallery for additional details on productions, cast and
   data-title="Shrek - Photo Gallery"
   data-description="19 new photos added to shared album"
   data-delay="3"
-  data-fullpage-autoplay"false">
+  data-fullpage-autoplay="false">
   <object data="https://lh3.googleusercontent.com/W2KsR54_j0n1M2ciEfu96CsjJefBf3oq1y8UcBBkSnsneinqhrp512hmR8hl4Iyln3xQcAUvhOFRwdkUCP3Iz7WU5KKfE3krH0DC89WM1_E0nxio4hD63V8Fx9vm_0eRIUueJeE8t-I=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/aaTAfdl1BidC9c-cKxtuSLt_NL_ogI8KiDXZKqkvQYXRbBZ2d160Q2nNQQQHcSVcGIo1nchmMJHFXAkpDCI9t0H5qGIQSw_HAx_toHs7gMfyUzTL0BiNvv4wwnoq-CkrIepphIdfVS0=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/49cBA-jGrd6o4iCHkcwdS9YuPp8Lk3kILlhGXe2BgYrq4tZP2MCd1UrU_s6-027NESl3LNk7Bw7xASaqJ7qq8SwN4LVeixQlM-awyXouMvAGdw6OOYjTke1kmQglWk2a1IWTifByC8M=w1920-h1080"></object>
