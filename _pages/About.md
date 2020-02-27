@@ -21,20 +21,20 @@ Accomplished student, actor, and leader. Effective organizer who works comfortab
 | [Chicago](https://netmarshall.github.io/John.H.Marshall/gallery/#chicago) | Alvin Lipschitz \| Announcer \| <br>Jury \| Ensemble | [Plano Senior High School](https://www.pshstheatre.com/about) Jan. 2020 |
 | [Macabaret Night](https://netmarshall.github.io/John.H.Marshall/gallery/#macabaret-night) | Gomez Addams \| Ensemble | [Plano Senior High School](https://www.pshstheatre.com/about) Oct. 2019 |
 | [Wendy and Peter Pan](https://netmarshall.github.io/John.H.Marshall/gallery/#wendy-and-peter-pan) | George Darling | [Plano Senior High School](https://www.pshstheatre.com/about) Oct. 2019 |
-| [Violet Sharp](https://netmarshall.github.io/John.H.Marshall/gallery/#violet-sharp) | Harry Walsh | [Centerstage](https://www.pisd.edu/Page/19755) July 2019 |
+| [Violet Sharp](https://netmarshall.github.io/John.H.Marshall/gallery/#violet-sharp) | Harry Walsh | [PISD Centerstage](https://www.pisd.edu/Page/19755) July 2019 |
 | [Bright Ideas](https://netmarshall.github.io/John.H.Marshall/gallery/#bright-ideas) | Joshua Bradley | [Plano Senior High School](https://www.pshstheatre.com/about) April 2019 |
 | [These Shining Lives](https://netmarshall.github.io/John.H.Marshall/gallery/#these-shining-lives) | Tom Donohue | [Plano Senior High School](https://www.pshstheatre.com/about) March 2019 |
 | [Mamma Mia!](https://netmarshall.github.io/John.H.Marshall/gallery/#mamma-mia!) | Ensemble | [Plano Senior High School](https://www.pshstheatre.com/about) Jan. 2019 |
 | [Cabaret Night](https://netmarshall.github.io/John.H.Marshall/gallery/#cabaret-night)| Evan Hansen \| Ensemble | [Plano Senior High School](https://www.pshstheatre.com/about) Nov. 2018 |
 | [Almost, Maine](https://netmarshall.github.io/John.H.Marshall/gallery/#almost-main) | East | [Plano Senior High School](https://www.pshstheatre.com/about) Oct. 2018 |
-| [The Diviners](https://netmarshall.github.io/John.H.Marshall/gallery/#the-diviners) | Basil Bennett  | [Centerstage](https://www.pisd.edu/Page/19755) June 2018 |
+| [The Diviners](https://netmarshall.github.io/John.H.Marshall/gallery/#the-diviners) | Basil Bennett  | [PISD Centerstage](https://www.pisd.edu/Page/19755) June 2018 |
 | [Coffee House - Frozen](https://netmarshall.github.io/John.H.Marshall/gallery/#coffee-house---frozen) | Kristoff \| Hans| [Vines High School](https://www.pisd.edu/Page/15110#calendar72951/20200216/month) May 2018 |
 | [The Shakespeare Project](https://netmarshall.github.io/John.H.Marshall/gallery/#the-shakespeare-project) | Petruchio | [Vines High School](https://www.pisd.edu/Page/15110#calendar72951/20200216/month) April 2018 |
 | [On Having Good Fortune and <br>Other Worthwhile Things](https://netmarshall.github.io/John.H.Marshall/gallery/#on-having-good-fortune-and-other-worthwhile-things)| Director | [Vines High School](https://www.pisd.edu/Page/15110#calendar72951/20200216/month) Feb. 2018 |
 | [Coffee House - Little Mermaid](https://netmarshall.github.io/John.H.Marshall/gallery//#coffee-house---little-mermaid) | Ariel | [Vines High School](https://www.pisd.edu/Page/15110#calendar72951/20200216/month) Dec. 2017 |
 | [The Secret Life of Madame Defarge](https://netmarshall.github.io/John.H.Marshall/gallery/#the-secret-life-of-maddame-defarge) | Ernest Defarge | [Vines High School](https://www.pisd.edu/Page/15110#calendar72951/20200216/month) Nov. 2017 |
 | [Too Much Light Makes <br>The Baby Go Blind](https://netmarshall.github.io/John.H.Marshall/gallery/#too-much-light-makes-the-baby-go-blind) | Himself | [Vines High School](https://www.pisd.edu/Page/15110#calendar72951/20200216/month) Sept. 2017 |
-| [Oh, the Humanity](https://netmarshall.github.io/John.H.Marshall/gallery/#oh-the-humanity) | Man | [Centerstage](https://www.pisd.edu/Page/19755) July 2017 |
+| [Oh, the Humanity](https://netmarshall.github.io/John.H.Marshall/gallery/#oh-the-humanity) | Man | [PISD Centerstage](https://www.pisd.edu/Page/19755) July 2017 |
 | [Lend Me a Tenor](https://netmarshall.github.io/John.H.Marshall/gallery/#lend-me-a-tenor) | Max | [Vines High School](https://www.pisd.edu/Page/15110#calendar72951/20200216/month) May 2017 |
 | [The Drowsy Chaperone](https://netmarshall.github.io/John.H.Marshall/gallery/#the-drowsey-chaperone) | Ensemble  | [Vines High School](https://www.pisd.edu/Page/15110#calendar72951/20200216/month) Feb. 2017 |
 | [Coffee House - Lion King](https://netmarshall.github.io/John.H.Marshall/gallery/#coffee-house-lion---king) | Mustafah | [Vines High School](https://www.pisd.edu/Page/15110#calendar72951/20200216/month) Dec. 2016 |
@@ -69,9 +69,9 @@ Accomplished student, actor, and leader. Effective organizer who works comfortab
 | Voice \| Dance | PSHS Musical Theatre  I & II (Lozana/Ballard/Newby) 2018-2020 |
 | Acting | [Texas Thespians Festival](https://www.texasthespians.org/) 2017-2019 |
 | Acting | VHS Theatre Production  I & II (Miller) 2016-2018 |
-| Acting | PISD CenterStage Summer (Price) 2017 |
+| Acting | [PISD Centerstage](https://www.pisd.edu/Page/19755) Summer (Price) 2017 |
 | Dance | Jazz/Ballet PISD CenterStage (Lozano/Hefty) Summer 2017 |
-| Stage Combat | PISD CenterStage (Stewart/Aarp) Summer 2017 |
+| Stage Combat | [PISD Centerstage](https://www.pisd.edu/Page/19755) (Stewart/Aarp) Summer 2017 |
 
 
 ## Awards & Honors
