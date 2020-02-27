@@ -115,7 +115,8 @@ Scroll through the Media Gallery for additional details on productions, cast and
   data-link="https://photos.app.goo.gl/pkFsmvEXpMDMGX926"
   data-title="Chicago"
   data-description="68 new photos added to shared album"
-  data-fullpage-autoplay="false>
+  data-delay="3"
+  data-fullpage-autoplay="false">
   <object data="https://lh3.googleusercontent.com/TpIaN2VEZni5DE7yx2OnBNHmCAT5c14m6F9avvQyEXJzvo3F9tm-L_IHHFrEgXpwAqxAZHLB4Ufm1CARnf9619lWqQ1Et0C449ypik6AAos2o-4eTD0kRmQ2_cGJiuxpqD8cv4pscig=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/C9hg8aFOINoGiFo0BAs9xk-q5ZLplk7VkwQB1tDf_aCGikbvfnUN8i-u6ly7HMAqZSW-vdP5g_3nt5Jc3wy-V3xIa4ZiePyJ-D1s-Iz7Dth3Ea2TBU-6z2zTpQJ776qWrA739nVLomY=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/s5TRQSsvBbCyIcd3n0G8H8Onsa1jPNO0mRyLIKOKxmcawaRLueUC9cIgPmkzC09scLcQWIO0SN739QS_JjffuH83rYnZO1iM6SXsZOjA7O9E9N3xk9yzNUOda_QDtNnULFzsJGzKkfU=w1920-h1080"></object>
@@ -191,11 +192,13 @@ Scroll through the Media Gallery for additional details on productions, cast and
 ## Macabaret Night
 {% include feature_row id="feature_row2" type="left" %}
 <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
+<script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
 <div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;"
   data-link="https://photos.app.goo.gl/bqo1x3g7oA8E1Fwj6"
   data-title="Macabaret"
   data-description="39 new photos added to shared album"
-  data-delay="3">
+  data-delay="3"
+  data-fullpage-autoplay="false">
   <object data="https://lh3.googleusercontent.com/L8Yn6VNAfOFSUsXXSi90LINllM27UBUWtoziugN1sl_Id6dWA4UF9Hx9d_vf8bR7Wr2rl6Ebc7XnrsuhgJGlN4E_UU9hEa8r3For3ZGVhwurhpd4b4NCXIVu_D_Q_dD8PNnQ27xASOY=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/r8_HayhSKnH3GdIabIFHUx2y-pew8eV7L2MgsLzE0Yi4P3HOdIgZU69jAB4WtGiOaf3Cd4JDrE_mn4SnTQEbs3qdZlIG2RmU6q7pwNJDEaS5aU_cpN3Le1ZnDz9CL0CT40TrTsig98A=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/TghBMafFUiShXqVHcIfzpG45lgpakFl6JcdBGhQ0rwCfSJzZ-rccxa748BJ5OcVxD2M0VeCICmUEVMh8Oo745JBGIuM7wC_TKPt68GgiEtbjxrJUtGTsqmTwXwWb8qk6mNh8C59VIRE=w1920-h1080"></object>
@@ -237,6 +240,7 @@ Scroll through the Media Gallery for additional details on productions, cast and
   <object data="https://lh3.googleusercontent.com/LvgmPTo7scWicEpmnj3uwHjubz84GrPUlWSzfCZIkn2aRoR01IS4TwxmAuAEgFPFglsGcZjazg3KWl2xZtQmenEmV6BOBhVJFl2gc-0tUFrL0KcpWrDtg--qFn2iFlqAtCdJ-LGK2WA=w1920-h1080"></object>
 </div>
 
+
 ## Wendy and Peter Pan
 {% include feature_row id="feature_row3" type="left" %}
 <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
@@ -244,7 +248,8 @@ Scroll through the Media Gallery for additional details on productions, cast and
   data-link="https://photos.app.goo.gl/kdVwF5ZU55jrmffMA"
   data-title="Wendy and Peter Pan"
   data-description="37 new photos added to shared album"
-  data-delay="3">
+  data-delay="3"
+  >
   <object data="https://lh3.googleusercontent.com/OVjqxEQK-QG22u75W2RGIkAfnU2mh80wB5Lx1WjbP3pKtkxpwebTy931qsra8ZwEQIcHruXWtpSUvX5f0JqxTrHE5SRTQAmdzZMM8QzsYVCyfTHPsA2C6YRyu_4qR-CA_i6yyPm8V2k=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/-zjog8cJ7XpsbkJHRgkZukYfRtvqMfDFTzz3G6ZArIQtzU2i37GXYGnlXXd6ySBiV_zAJCX35gpXcCD7Uf7OE06VNU2b8mKH0SL4jzaukzoc3MQ4acxJja_9sde5q8vfGFs4Il1CvDw=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/kyYjrURhOxZa6XL1N5lrleW4qwe08dgDDpnl1t3sqnDjdxAqTAe1DD5V_NWObsAUp75At8l6v6bt1COr1eMVG1pY203C7zI-draM_9pSp--3Qm9AO3YyQQEuoyhdErT2hmFBXAT7c3w=w1920-h1080"></object>
