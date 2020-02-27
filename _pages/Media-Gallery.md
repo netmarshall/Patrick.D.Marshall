@@ -706,8 +706,8 @@ Scroll through the Media Gallery for additional details on productions, cast and
 <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
 <div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;"
   data-link="https://photos.app.goo.gl/fs5zFN6UnSn4UyCL8"
-  data-title="Shrek The Musical Jr."
-  data-description="17 new photos added to shared album"
+  data-title="Shrek - Photo Gallery"
+  data-description="19 new photos added to shared album"
   data-delay="3">
   <object data="https://lh3.googleusercontent.com/W2KsR54_j0n1M2ciEfu96CsjJefBf3oq1y8UcBBkSnsneinqhrp512hmR8hl4Iyln3xQcAUvhOFRwdkUCP3Iz7WU5KKfE3krH0DC89WM1_E0nxio4hD63V8Fx9vm_0eRIUueJeE8t-I=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/aaTAfdl1BidC9c-cKxtuSLt_NL_ogI8KiDXZKqkvQYXRbBZ2d160Q2nNQQQHcSVcGIo1nchmMJHFXAkpDCI9t0H5qGIQSw_HAx_toHs7gMfyUzTL0BiNvv4wwnoq-CkrIepphIdfVS0=w1920-h1080"></object>
@@ -724,7 +724,10 @@ Scroll through the Media Gallery for additional details on productions, cast and
   <object data="https://lh3.googleusercontent.com/ztF5niCAmsNkNxVA0K0dkJgcGqkRnxGJNuqPwO77PS6n5qVbT-RfHynBAnI26IyV43Os4eq0IyjHb16fUwMZ2mSDo8t_rdgDfwCvtFEmkfRkd3ao_685nGfQlXzWmRTPJEnMQ2REki8=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/yR5gwQLvhcwC2zWNhx92GiTVNE36QLHtacnZVmXtV1mccFMqy5YKxfmBm8I28VxH_DNFHJOodkiDDC-f23IvoBeeHHBSeVEjSPYaB_qJdKZ-B-DhdGxMAvdCKLetsYvhfGFh2SvOvbg=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/_b8EK041NaFa1okbfXzCUpp5_zvZn4BMT-jmVobxwJK7DJrUz9uhzIL4xhrfmaajfWnayXFSo5J-cZcoH0PXSjUVcNWXwpwmLPlLxPzFRDLXx5J-7H_chACXstoEbMnx6Hl2r6UFfmU=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/UVQ23lCONCIlpM7U9mhrXThpmJO78RREL2HzhoRpROz1Edzh-Ll7Fxc6rfBNTsrJHhL8_7hnnMXDjzetPbTJ3EmX9n4wURM1E8RAF1UIFv7fHboj2NEyUit9s518r7WgQdrx00Q6DI8=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/JdIXSktlHRr-B2wywZfJQN6Y8TSQriEEVJDT-Felc_52pivnUiDYqeTOpk4Tizq-V2-zaw0xw85gZywGHuco027D2-s1x2ADQo0alSD8g_DePdODuJAQLYjfAKUQEO-ZJaxmQRZwqew=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/Cj10ocV_O3qGt7OkC2G_QWfBivjTnPhNNMlsqvl38h473I4mByptyg3CsZ-e0NE0UXtn6M6HD1ZsSrfp2Sa8XVtmISF4UJ0Ti1HOH19uF8asGDZ79yquvJClW7o97gmwFK8G5XmwOKc=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/rOAAvLN6_uGPH4mprpKjWbXy5GJiU80zn5jEpgKsiPaGcy29JUF4jQvNgtI9R-e5Nu3nZa3fvEh7cRsylixggCK8aNsiNWK5L6GSmxW8GOHi_vpAod0q8v46DVaet4lVE5qE1dfn0cI=w1920-h1080"></object>
 </div>
+
 
