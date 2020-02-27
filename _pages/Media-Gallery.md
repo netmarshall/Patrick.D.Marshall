@@ -249,7 +249,7 @@ Scroll through the Media Gallery for additional details on productions, cast and
   data-title="Wendy and Peter Pan"
   data-description="37 new photos added to shared album"
   data-delay="3"
-  >
+  data-fullpage-autoplay="false">
   <object data="https://lh3.googleusercontent.com/OVjqxEQK-QG22u75W2RGIkAfnU2mh80wB5Lx1WjbP3pKtkxpwebTy931qsra8ZwEQIcHruXWtpSUvX5f0JqxTrHE5SRTQAmdzZMM8QzsYVCyfTHPsA2C6YRyu_4qR-CA_i6yyPm8V2k=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/-zjog8cJ7XpsbkJHRgkZukYfRtvqMfDFTzz3G6ZArIQtzU2i37GXYGnlXXd6ySBiV_zAJCX35gpXcCD7Uf7OE06VNU2b8mKH0SL4jzaukzoc3MQ4acxJja_9sde5q8vfGFs4Il1CvDw=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/kyYjrURhOxZa6XL1N5lrleW4qwe08dgDDpnl1t3sqnDjdxAqTAe1DD5V_NWObsAUp75At8l6v6bt1COr1eMVG1pY203C7zI-draM_9pSp--3Qm9AO3YyQQEuoyhdErT2hmFBXAT7c3w=w1920-h1080"></object>
@@ -299,7 +299,8 @@ Scroll through the Media Gallery for additional details on productions, cast and
   data-link="https://photos.app.goo.gl/Bg8AgaqD4YMLubPB7"
   data-title="Bright Ideas"
   data-description="26 new photos added to shared album"
-  data-delay="3">
+  data-delay="3"
+  data-fullpage-autoplay="false">
   <object data="https://lh3.googleusercontent.com/wJ34ezCcUBV9UArEtZUH0mC14pohp-rRi3P0VueKZHKBzA9qyP4q7Ds2169zXUUoVADtNiPcB3cBaDVEFjqPp2Xbgeoa9S124I9lCtxV5tNgHLK_ktQLw_ZEPpqeNKk5FAa4S4y5ZIY=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/oGM-qVz01pBCXfbO1741xSQ3oJmzkAvWHJPue-xG3anI5589Ea8NlGrQ5s6Pd7udEUkGpaQWw1Dj43py57tam3RC0ZMUI6WPMluNp1MIDuLOtFsOfmXMsKGtmKMU4D5TWhvnkMgt8xo=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/7kYRaOy5W0M7RXtZicLx1ck2aUErtNv7O0K-w0JXjsVBB-OeKC4R0s4lAS3nwYBdYKApvnnTTszoE8GvY3D4qmkRJ2TX5VUJ-LLCpbz58CWOpn-184ITG1DQORVSNxg-aXtEqGIzJPs=w1920-h1080"></object>
@@ -335,7 +336,8 @@ Scroll through the Media Gallery for additional details on productions, cast and
   data-link="https://photos.app.goo.gl/TusQ66BBDtdUQyoS6"
   data-title="These Shining Lives"
   data-description="42 new photos added to shared album"
-  data-delay="3">
+  data-delay="3"
+  data-fullpage-autoplay="false">
   <object data="https://lh3.googleusercontent.com/Lzn97rKANUIN3H4YcruWdIr9Aq4-sC3YnQa0BwmBMFmY6UeYN222XSziuXAA6EBueks0gpVkpKVFeWJjonOmqTw4K4IqN9KcV4HvuxUcS315H6rEbruPxGXb3joNGZjrRy2pQrLcxL0=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/IlGBO_VVdYbaTq7KwQAcJI_zBA_yGag2RtmncJ2SZ8RfItiVgjwcCiah6wYrMma42kNGgFgJhAc-sbiSsjykIYoXV7FQYB_4YTV6BN2WT3n5fLqzMBla2XYglorCHvFgd8MpJw1djoI=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/Mbv0dbCZCi2Woivt1l5eKx8HIP69XS3fa-SPHVSZcwrvkTV7ztuMiUG987GJW1osjg5ziwK7Xr1lI3YvvnNNwJnlaxIOXd3J5WPF_zCId2elr6GGW0cK4NdOPEP8pkmArGug4hQPjPI=w1920-h1080"></object>
@@ -387,7 +389,8 @@ Scroll through the Media Gallery for additional details on productions, cast and
   data-link="https://photos.app.goo.gl/zpd9DM3ewAyGLEjKA"
   data-title="Mamma Mia"
   data-description="29 new photos added to shared album"
-  data-delay="3">
+  data-delay="3"
+  data-fullpage-autoplay="false">
   <object data="https://lh3.googleusercontent.com/E2A6flMiILH1pFG1rumQK4twQMOOdGDSkkYN_q3ghWzK1zbnlRyLOZsTp8SFLbjmJN_TmDiAPa3SQV09Zd4hraUjYCV0i35xtK3qhjNT7WwoH-t2eyp57Mfc9MOlEHbP5zGBL-ijWxw=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/hkzb9oy5D_iE2ZPtLcBI45fERNLYMcA2yEd9MkXuDPS8frGdODDcclDehUJd90bge92ffEW0nlJI19O_EnzOLpDwhdWtfMpcJ4WDpllNwxxPIPnQ4F3LIY9lb4cWbuR4lUOu5IHmcVU=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/NUSH96QiMWki4oA91I5SHrOM7KNnNDLhJbNwmWSfa2pjx_XJgTyJsIdUw2aD4OTdtS5kNG8ZDKgCEHH43-G80nI9mG_mlGjjyn9GuBlVZZXcyynyL1CO8IavQIYig-ypxq9t3M-FPmk=w1920-h1080"></object>
@@ -425,11 +428,13 @@ Scroll through the Media Gallery for additional details on productions, cast and
 ## Cabaret Night 
 {% include feature_row id="feature_row8" type="left" %}
 <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
+<script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
 <div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;"
   data-link="https://photos.app.goo.gl/aY9tE5mxe84wxa51A"
   data-title="Cabaret "
   data-description="16 new photos added to shared album"
-  data-delay="3">
+  data-delay="3"
+  data-fullpage-autoplay="false">
   <object data="https://lh3.googleusercontent.com/IXJMnB_pbGkouLYa_ANUrJSztSjH1spYRq8MhxxIt73ILEXd6HrC4xh-UiE1hKtzYXiCX5XDXfD08e3s5NfJgMoll1-YmCcf1J7ZE_ExcOIO7p_SXNFpsSg3E1sbxSJZ8K66C597EU8=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/lppclES8c-Y3nnWHEKSfw7qErv5APDJ7hvJHl5wcBsm3XnAcd_TQdH3rzgv6LD5yaA45yxBNWXdZCbIoQRzfB4VXh2bfLfrE_DolSCIlMCMzHgiZUT2EqrvvDuLi_Lmpa-DLDLV7Jms=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/EsaoKBsRa5_7PJV5RlYQAJmyY4O_JCvtNnqBreTKd6snb0OVDsqXbRl8G-zmHQboj1KjeIVX2Mh23mhrJ83I8ramZGTUZSKT9x-3pxzShwD8Rdxx7Qbfat6AFbPbmxre_ly6JAWdmG8=w1920-h1080"></object>
@@ -455,7 +460,8 @@ Scroll through the Media Gallery for additional details on productions, cast and
   data-link="https://photos.app.goo.gl/kDdGhWwBDED6kzDH8"
   data-title="Almost Maine"
   data-description="24 new photos added to shared album"
-  data-delay="3">
+  data-delay="3"
+  data-fullpage-autoplay="false">
   <object data="https://lh3.googleusercontent.com/RAk_zJmKismsROg43j30a0ImPAEPf2w1WCdHjh6rnMUlYd02vK18_jyjx7OycvJMraWtn_HohzIFUCE35tqNkNyUzDjBiVIx1pH0Q5QTIctFvv-IKlHsKLSm5KQyKBjRgClDdFPO8us=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/iESxoUz0FAdFP0dSYlKHMSKnxcggHoF2YOJruox8mpgjf-ckSmqj7iHO1HaBXagmEm_8WIadYDky4AdAd5X0OxWdoCDsMEMIhgvaQ9L3maAT5DZsPSuD0huiaB8GpPUVKKRlJx-Raq0=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/4WFuKLOOk1KEXJ6j7Fb_Tk6lrJnogCXP1H4CMS-HPhpVox5ewglj2s3hcF4GiBMxi9OmleJSyq9G31VZgs9Vinjk0Wvn68MPyHnpSq11CUysyJD0DjukaKAOobNXtwbAuh_cKTj5Lqc=w1920-h1080"></object>
@@ -498,7 +504,8 @@ Scroll through the Media Gallery for additional details on productions, cast and
   data-link="https://photos.app.goo.gl/i7wYH9naxxKrgD2R7"
   data-title="The Shakespeare Project"
   data-description="10 new photos added to shared album"
-  data-delay="3">
+  data-delay="3"
+  data-fullpage-autoplay="false">
   <object data="https://lh3.googleusercontent.com/gTTEbPNLGi1kqVQxkUA_V5rR0OoGTdpzCu5v2-F82n-DAumJOQAA9ujGICBZaY_cUTfSv_zzAmGV13Mv2ZUtXtUnV9i04jGssQ8lWrAV2y8azPekYBwsA7i0WPTvOyLAD2xCvO3y0fw=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/e4UOktK6uUfEXHJdCMVNomFpumbiXbNb8tNTIzPOqkQi5VI5Kq3A-Vft4sL3Y8guwdlCWVM6k63kmQ72qz5mCZ7-11vkTeXpKDutQjm3kmAi6REECv1PFfHFSKbGhicPYXDT6pRPDFY=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/IiNlNqMb1kwb8AcPkdbuFePKDOtzHJVOtwHT_iYjeZn6B9M_rMfiFcRIsGy8I_KtJsXfLQTOgsBJklhwXl6w-SAnw12tVLolsH6bzDgoUes_4_fbEi7usF9D6LazITfKsb9V5fCQEGM=w1920-h1080"></object>
@@ -518,7 +525,8 @@ Scroll through the Media Gallery for additional details on productions, cast and
   data-link="https://photos.app.goo.gl/pvN1yXHxjbYEwqtV8"
   data-title="On Having Good Fortune and Other Worthwhile Things"
   data-description="17 new photos added to shared album"
-  data-delay="3">
+  data-delay="3"
+  data-fullpage-autoplay="false">
   <object data="https://lh3.googleusercontent.com/qLrrjxiGd6CXROONr_A9kCKcPOBx1E0CZabBLv3vZFSaraP1r5QcptvSYDr20JsPWXMLhxbb9mFPjvXXq1Hb7tFd_u1lvXbI5fOCvBAZxeQCHYByuQnc0u4_ITfiKMePveYst10Ufbw=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/ZGn5UlV3SQSCqXkpm_vfTFwrjmULm7Ti1MZttr9CotvCjs7ujGH4fw2e7JIW03gOxYGBQJisps7_29L5XfcMjdohqcsh2DHZBR4AAby3YRyzgne708edVMu6ssfXf3mEEtuV1cQWojY=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/a1qClSsngJd9QNmiDL9cQxyTfDMrTtWvR_eGP_0fyNHjSorNOsQAXmTFc4f-IzehCv6Uzk6LYZGekMqH_rWZzuaQES2i1oT-aZUvkB8DlwV4TQTDXWZiB1CncfLSsGSEZxzYQz-CLFY=w1920-h1080"></object>
@@ -549,7 +557,8 @@ Scroll through the Media Gallery for additional details on productions, cast and
   data-link="https://photos.app.goo.gl/oQJ1JSyRxFkHWnqK9"
   data-title="The Secret Life of Madame Defarge"
   data-description="24 new photos added to shared album"
-  data-delay="3">
+  data-delay="3"
+  data-fullpage-autoplay="false">
   <object data="https://lh3.googleusercontent.com/5L6obxC1ajwp5CIaRhUPhPkqZObkE-7WHzO-J6q9bNR1lr2x-9ItoBvzufILXHqaZXYoSkMTHk86fPAYKtbsb59eiB-CwUOpBbaCSfmbHl1RaGz-4IlAKMRf8xT4su7M9gto3OK9bKY=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/5_ATzG5g6CPrTrnNJL_7sDGYeQW5OurL87fmKXw11x3Ety174XKTwVUWh8k4q_SsCyRt_BxAFlAdTfGiGWNcwbbQASM_6hpTHOAhLOUDmUM9_KZYNaGufY9h9DxlD0TUQ2WfVKe4Pvg=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/n_xecEdcHhz8eK06YkpSJt-gwfV6FyWuO4WddLQsLnds-zxTtoB3so-7ge_e2FOPQIlRD6W2b5Z4UguJX31cLcAhHONhhB1l_5gQnnIxkZnpHxr0K_GSLHQLatgjwkOC_7mjGtiEMGc=w1920-h1080"></object>
@@ -583,7 +592,8 @@ Scroll through the Media Gallery for additional details on productions, cast and
   data-link="https://photos.app.goo.gl/wBELqAm4PZQhwMda8"
   data-title="Too Much Light Makes The Baby Go Blind"
   data-description="22 new photos added to shared album"
-  data-delay="3">
+  data-delay="3"
+  data-fullpage-autoplay="false">
   <object data="https://lh3.googleusercontent.com/E9-0jjSBM6RmHslefaRyGlBBY8w_WbuZoM0jJvZmGxoduTxLGuYYoUmHnN977me8R5HJieQ-mwuruJn5Z1rrQwi93H1wKGeXr9DMgt-JFFiX86yk84ivV3Ls9xuxUf7J6Ot6EsE54Vw=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/rpOdPuGnl6eCbuZZjJuGzHc-ev_finwKplOPJfsdvJ7k97xY_y0RajFumVJ6WWKzR0Po0XMQdpmcgXB46XsbniLksdFZVE5AHHGO9JgmY9kpMeEZi6PtsMAxJg0w0o1_VhB5jiDInWM=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/83Kl_69y04v_8j2Av-9xo7sIW4MTE9Q9Fejiqc3K3Uexs2FiNBZg5W5Z37_316eQnuSmmTN8qgnMYAr4r3jTQ95yE-jNvNCESUE44TOTntYQ03mUinbLX4HMLKmWm9EiItEwQbhAAc0=w1920-h1080"></object>
@@ -618,7 +628,8 @@ Scroll through the Media Gallery for additional details on productions, cast and
   data-link="https://photos.app.goo.gl/zNnZkWsBSDPbDS9f8"
   data-title="Lend Me a Tenor"
   data-description="20 new photos added to shared album"
-  data-delay="3">
+  data-delay="3"
+  data-fullpage-autoplay="false">
   <object data="https://lh3.googleusercontent.com/PJKh68F_9ejqZBxoRW8bfEhcbSwnhcMXlsp2lyAc_1Zbw_JXX_gOTsEUf6TCDLOksPcp2NseEgsXTkJ8mnFczDR79qLk0gnFzm-trunz4nnifJdrqEf_IdimyzRhV7DeiKmT9Hl0S88=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/M8beoCC1KYUiMwc-nK_RiEgETdatqyAFTdd_8iNYO8ojFC-5NejrfRyg4XDRbQ5gNCsr4uXmg-Q7gGEgm4fTSLNd9XG_gz5CYcSPLZKiIqStyIqwbvO--JTpktM_-o04UXozjDifBOs=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/kbeyJvN0SzcxHQ8Ki-4XNjfGb2zULdSwrHO6HlNH-5OmMzP46Yneuv3f_Ty3qWawEv-R4tbrYdgza6f5CVCGAk6C0zkHbqsDQD8hYAbnm5zF1II5j4IUOXABf6qDC8Xk9fwC_VpjmOo=w1920-h1080"></object>
@@ -648,7 +659,8 @@ Scroll through the Media Gallery for additional details on productions, cast and
   data-link="https://photos.app.goo.gl/w8fHgfoJjyDvTqJRA"
   data-title="The Drowsy Chaperone"
   data-description="9 new photos added to shared album"
-  data-delay="3">
+  data-delay="3"
+  data-fullpage-autoplay="false">
   <object data="https://lh3.googleusercontent.com/TTW71yoaTxo2pWOqvZ1zJvrPT-8-21IlxYbAD_LrpsUCpMPKTZh_FSnAKB4QDmFbQTYC9md686DP04r9uyu7eQdW8TiEYpGl9tzRYq_MTQhFqAuzQA5oSZft_NJb_kxR0rNd6x1ueh0=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/iiRBqBLRCD1F-m79pZZdustw6exrsLbUmCDnvZ93MJefX9WdfMbmGdhClEAzafhSPf5UpFGOG27359lUjnXic7L0u1oY9Hg6YdkXGwVUwxbg3cLyUcPENtbCYqtkRxGBc74vTc2iO6c=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/T6UhKvBQl3rHPoTUI1rMo7T_xNblD03V657TDGfUZQOwf4W_N6QzEBy7XSv1j-L8eiwPGSGB18rO0e--Yettt_IvmebcKqxjd0AEp5a2PGtK3pvKtNlDmQy3UcB1_Lk-MiDdEpaJRZg=w1920-h1080"></object>
@@ -675,7 +687,8 @@ Scroll through the Media Gallery for additional details on productions, cast and
   data-link="https://photos.app.goo.gl/rJKQvvjXi58d7nwC7"
   data-title="Front"
   data-description="10 new photos added to shared album"
-  data-delay="3">
+  data-delay="3"
+  data-fullpage-autoplay="false">
   <object data="https://lh3.googleusercontent.com/Q1NvSj6u_EefMQ1RA9ahb-Aii3F7hh4HJL7ECprms9sdSTkPSnRQQFFzWc-k9epE9P3DMIvaeMu-MeLKKE5grOX5qyfhC4VnqNJORqG48ExwpCPUkkRqsvMU4Ztj-4oxHWtUzF8R5XQ=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/BAfFdGj4C0eK4bXpRrjJncsfbXQ5HoZQE5ukuenx8XoU-xeuD2P_FyT3Hhg0RpsmTVkCvPljFJKgRHl-nFMtVmojGlomnrvk1GrtElIEYSMuwO8hJ2JS1Tz7dV6yfyReN9JSfTL8-v4=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/YRHg5_i_ulqJNKYpaKlVFw5ZX1BS-yqOxv1Tc_r0-aao7CiNu9CD1dmhxwWtseWBMif4HtaNX7ISyCXvDlqgtKqno-wJUO7QhrP2S-yVZw83BAQPOj9BKZnIYqGzzCi6NayRfZQgG9o=w1920-h1080"></object>
@@ -696,7 +709,8 @@ Scroll through the Media Gallery for additional details on productions, cast and
   data-link="https://photos.app.goo.gl/ASSmfJQn126q87UVA"
   data-title="subText - Photo Gallery"
   data-description="7 new photos added to shared album"
-  data-delay="3">
+  data-delay="3"
+  data-fullpage-autoplay="false">
   <object data="https://lh3.googleusercontent.com/n3z3W93H7jOW2KpuBAP6NjlCmWnIxvUwhg623T7fiHiC96S4KDFmqhV8pcGrL06tD_XsmD3CGVv2BKuT59iahGfsXwuXCHlECA3EbniytLNbwoLdalbk3dBtnkLx1blZ7epFfRyVCJ8=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/wjLzHwQPKYircL2Aa6_uPKUHOG9MP8LQ3lt83PmFiZIu4sR1iKWA6vQFm5Sif2etXRgmmV9IA_gKb6UiHGFpoTsnxlhqo9qdOHXksr8Wnzm0gxwoXGP-8QD2oET7tcBf_rgBk1CFLDY=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/L5fuQ4ntZp3lGa6a3KpYIMnqix1WqEP3fd05o81-wzXttlAI4crQh8EPCJ2eMFJsCuVODdcQnyneKDnDFxbQ8Q_twnA0PjABfILN5027dBP169IUFYO0APMzIKckisq9YkAsugUnSPY=w1920-h1080"></object>
