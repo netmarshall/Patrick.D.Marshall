@@ -70,7 +70,7 @@ Accomplished student, actor, and leader. Effective organizer who works comfortab
 | Acting | [Texas Thespians Festival](https://www.texasthespians.org/) 2017-2019 |
 | Acting | VHS Theatre Production  I & II (Miller) 2016-2018 |
 | Acting | [PISD Centerstage](https://www.pisd.edu/Page/19755) Summer (Price) 2017 |
-| Dance | Jazz/Ballet PISD CenterStage (Lozano/Hefty) Summer 2017 |
+| Dance | Jazz/Ballet [PISD Centerstage](https://www.pisd.edu/Page/19755) (Lozano/Hefty) Summer 2017 |
 | Stage Combat | [PISD Centerstage](https://www.pisd.edu/Page/19755) (Stewart/Aarp) Summer 2017 |
 
 
