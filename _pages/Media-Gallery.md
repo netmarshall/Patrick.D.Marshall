@@ -685,17 +685,19 @@ Scroll through the Media Gallery for additional details on productions, cast and
 ## subText
 {% include feature_row id="feature_row22" type="left" %}
 <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
-<div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;"
+<script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
+<div class="pa-gallery-player-widget" style="width:640px; height:480px; display:none;"
   data-link="https://photos.app.goo.gl/ASSmfJQn126q87UVA"
   data-title="subText - Photo Gallery"
-  data-description="6 new photos added to shared album"
-  data-repeat="false">
+  data-description="7 new photos added to shared album"
+  data-delay="3">
   <object data="https://lh3.googleusercontent.com/n3z3W93H7jOW2KpuBAP6NjlCmWnIxvUwhg623T7fiHiC96S4KDFmqhV8pcGrL06tD_XsmD3CGVv2BKuT59iahGfsXwuXCHlECA3EbniytLNbwoLdalbk3dBtnkLx1blZ7epFfRyVCJ8=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/wjLzHwQPKYircL2Aa6_uPKUHOG9MP8LQ3lt83PmFiZIu4sR1iKWA6vQFm5Sif2etXRgmmV9IA_gKb6UiHGFpoTsnxlhqo9qdOHXksr8Wnzm0gxwoXGP-8QD2oET7tcBf_rgBk1CFLDY=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/L5fuQ4ntZp3lGa6a3KpYIMnqix1WqEP3fd05o81-wzXttlAI4crQh8EPCJ2eMFJsCuVODdcQnyneKDnDFxbQ8Q_twnA0PjABfILN5027dBP169IUFYO0APMzIKckisq9YkAsugUnSPY=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/WsbDv-lkLDfzCNQAxzejxrxhaW80mPcsGVfBJopflN7MNtqgc0t04lNMLiOWI8NoS5UhYQENPD9GB3tzBHu56Ig0FYTCRwz4-vd2bBhHN9zVbPm6DIw9qdFkSPchCU_WFQ9ihYjR4VI=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/RCWkd_RpH0P2ecFd82YrGrf_GdVsZB491h7zgYXreGT6V2e8gh7z38M7c4YnTP8aD8VfwZwSpcL5YuMzrF5CnmYSsO9KmmNmdtg12KWMJOWJs-faWDTmf1zXKo04Y-VI05gHA-nduYA=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/aWOI7zqIuuVswB26he9SbTPh7Tf3ygie9NrEAlfKb6WjfMH9pYZYZkA_Y66I5BAzQLDNF1g7ydsS0SZi7YeEaybiWIGjMVsgQVioTCVQR1leMigh4Wk-mMZyobtqmY9Qr6nzR9PNMXE=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/ztuts1kXVLgsgEW1NuRpVmSzr1tgkIS6P7BVEjAF2Y4sGIFr4bjWWzejsCAS_y7xphQkznZHBsMIkzT6C2fXT05z-Zk9WNYSBS18wwDXlxW0P_CISj5t9csswYceb-02UwBPlz4EZPs=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/Iq3Qoey3pgOE2-_zW7ZuDbzrZ-zItjvibEc6g-ZAgm3uCYGo37pabHhRlK86KuJPPxqpKj6suBxBAQ01H_lk-TO6mJAY_6DSGGzL8SVR_61PC1VFZA2KWzSy50VI6edlG68bsxYvKso=w1920-h1080"></object>
 </div>
 
 ## Eurydice
