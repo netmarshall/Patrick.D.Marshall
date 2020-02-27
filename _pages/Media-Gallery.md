@@ -110,11 +110,12 @@ Scroll through the Media Gallery for additional details on productions, cast and
 ## Chicago
 {% include feature_row type="left" %}
 <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
+<script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
 <div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;"
   data-link="https://photos.app.goo.gl/pkFsmvEXpMDMGX926"
   data-title="Chicago"
   data-description="68 new photos added to shared album"
-  data-delay="3">
+  data-fullpage-autoplay="false>
   <object data="https://lh3.googleusercontent.com/TpIaN2VEZni5DE7yx2OnBNHmCAT5c14m6F9avvQyEXJzvo3F9tm-L_IHHFrEgXpwAqxAZHLB4Ufm1CARnf9619lWqQ1Et0C449ypik6AAos2o-4eTD0kRmQ2_cGJiuxpqD8cv4pscig=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/C9hg8aFOINoGiFo0BAs9xk-q5ZLplk7VkwQB1tDf_aCGikbvfnUN8i-u6ly7HMAqZSW-vdP5g_3nt5Jc3wy-V3xIa4ZiePyJ-D1s-Iz7Dth3Ea2TBU-6z2zTpQJ776qWrA739nVLomY=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/s5TRQSsvBbCyIcd3n0G8H8Onsa1jPNO0mRyLIKOKxmcawaRLueUC9cIgPmkzC09scLcQWIO0SN739QS_JjffuH83rYnZO1iM6SXsZOjA7O9E9N3xk9yzNUOda_QDtNnULFzsJGzKkfU=w1920-h1080"></object>
