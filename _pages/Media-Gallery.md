@@ -476,7 +476,6 @@ Scroll through the Media Gallery for additional details on productions, cast and
   <object data="https://lh3.googleusercontent.com/G8yQ1t3fEgbV6YLcOHAAh-sg4JSgm0_rWR_VQWU0K6FGY8mkgtZBEJLUi034RkmUtHGBykF3S6CtFPnGZojXGvanl6C0VpwW36RBxgST6W3Y578gJIaV6UHgDAmxs9Vu92n_o0A4WLU=w1920-h1080"></object>
 </div>
 
-
 <br><br>
 {% include video id="295641795" provider="vimeo" %}
 
@@ -685,6 +684,19 @@ Scroll through the Media Gallery for additional details on productions, cast and
 
 ## subText
 {% include feature_row id="feature_row22" type="left" %}
+<script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
+<div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;"
+  data-link="https://photos.app.goo.gl/ASSmfJQn126q87UVA"
+  data-title="subText - Photo Gallery"
+  data-description="6 new photos added to shared album"
+  data-repeat="false">
+  <object data="https://lh3.googleusercontent.com/n3z3W93H7jOW2KpuBAP6NjlCmWnIxvUwhg623T7fiHiC96S4KDFmqhV8pcGrL06tD_XsmD3CGVv2BKuT59iahGfsXwuXCHlECA3EbniytLNbwoLdalbk3dBtnkLx1blZ7epFfRyVCJ8=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/wjLzHwQPKYircL2Aa6_uPKUHOG9MP8LQ3lt83PmFiZIu4sR1iKWA6vQFm5Sif2etXRgmmV9IA_gKb6UiHGFpoTsnxlhqo9qdOHXksr8Wnzm0gxwoXGP-8QD2oET7tcBf_rgBk1CFLDY=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/L5fuQ4ntZp3lGa6a3KpYIMnqix1WqEP3fd05o81-wzXttlAI4crQh8EPCJ2eMFJsCuVODdcQnyneKDnDFxbQ8Q_twnA0PjABfILN5027dBP169IUFYO0APMzIKckisq9YkAsugUnSPY=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/WsbDv-lkLDfzCNQAxzejxrxhaW80mPcsGVfBJopflN7MNtqgc0t04lNMLiOWI8NoS5UhYQENPD9GB3tzBHu56Ig0FYTCRwz4-vd2bBhHN9zVbPm6DIw9qdFkSPchCU_WFQ9ihYjR4VI=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/RCWkd_RpH0P2ecFd82YrGrf_GdVsZB491h7zgYXreGT6V2e8gh7z38M7c4YnTP8aD8VfwZwSpcL5YuMzrF5CnmYSsO9KmmNmdtg12KWMJOWJs-faWDTmf1zXKo04Y-VI05gHA-nduYA=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/aWOI7zqIuuVswB26he9SbTPh7Tf3ygie9NrEAlfKb6WjfMH9pYZYZkA_Y66I5BAzQLDNF1g7ydsS0SZi7YeEaybiWIGjMVsgQVioTCVQR1leMigh4Wk-mMZyobtqmY9Qr6nzR9PNMXE=w1920-h1080"></object>
+</div>
 
 ## Eurydice
 **Haggard Middle School**: Feb. 2016<br><br>*The classic myth of Orpheus reimagined through the eyes of its heroine. Dying too young on her wedding day, Eurydice must journey to the underworld, where she reunites with her father and struggles to remember her lost love.*<br><br>John Marshall - Father (Understudy)
