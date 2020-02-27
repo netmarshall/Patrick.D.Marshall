@@ -706,11 +706,12 @@ Scroll through the Media Gallery for additional details on productions, cast and
 ## Shrek the Musical Jr. 
 **Haggard Middle School**: Nov. 2015<br><br>*Everyone's favorite ogre is back in this hilarious stage spectacle, based on the Oscar-winning smash hit film and outrageous Broadway musical.*<br><br>John Marshall - Captain of the Guard
 <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
-<div class="pa-gallery-player-widget" style="width:640px; height:480px; display:none;"
+<div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;"
   data-link="https://photos.app.goo.gl/fs5zFN6UnSn4UyCL8"
   data-title="Shrek - Photo Gallery"
   data-description="19 new photos added to shared album"
-  data-delay="3">
+  data-delay="3"
+  data-fullpage-autoplay"false">
   <object data="https://lh3.googleusercontent.com/W2KsR54_j0n1M2ciEfu96CsjJefBf3oq1y8UcBBkSnsneinqhrp512hmR8hl4Iyln3xQcAUvhOFRwdkUCP3Iz7WU5KKfE3krH0DC89WM1_E0nxio4hD63V8Fx9vm_0eRIUueJeE8t-I=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/aaTAfdl1BidC9c-cKxtuSLt_NL_ogI8KiDXZKqkvQYXRbBZ2d160Q2nNQQQHcSVcGIo1nchmMJHFXAkpDCI9t0H5qGIQSw_HAx_toHs7gMfyUzTL0BiNvv4wwnoq-CkrIepphIdfVS0=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/49cBA-jGrd6o4iCHkcwdS9YuPp8Lk3kILlhGXe2BgYrq4tZP2MCd1UrU_s6-027NESl3LNk7Bw7xASaqJ7qq8SwN4LVeixQlM-awyXouMvAGdw6OOYjTke1kmQglWk2a1IWTifByC8M=w1920-h1080"></object>
@@ -731,6 +732,7 @@ Scroll through the Media Gallery for additional details on productions, cast and
   <object data="https://lh3.googleusercontent.com/Cj10ocV_O3qGt7OkC2G_QWfBivjTnPhNNMlsqvl38h473I4mByptyg3CsZ-e0NE0UXtn6M6HD1ZsSrfp2Sa8XVtmISF4UJ0Ti1HOH19uF8asGDZ79yquvJClW7o97gmwFK8G5XmwOKc=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/rOAAvLN6_uGPH4mprpKjWbXy5GJiU80zn5jEpgKsiPaGcy29JUF4jQvNgtI9R-e5Nu3nZa3fvEh7cRsylixggCK8aNsiNWK5L6GSmxW8GOHi_vpAod0q8v46DVaet4lVE5qE1dfn0cI=w1920-h1080"></object>
 </div>
+
 
 
 
