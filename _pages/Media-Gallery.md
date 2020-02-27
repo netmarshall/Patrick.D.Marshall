@@ -374,7 +374,7 @@ Scroll through the Media Gallery for additional details on productions, cast and
   <object data="https://lh3.googleusercontent.com/2zxqaAnIO9B0CpmrYdIukJq8cwrD590SO1sCBNyIea35D5CQGX7FvRYUq8TlV5WoHbCqCyx0prYA6Sp8PlcxDnsCJ4TlMJcdG_NtFibGsSJJz5Y-XLJX1fDrAAUmGGIjbSNdr8XQsyk=w1920-h1080"></object>
 </div>
 
-## Mamma Mia
+## Mamma Mia!
 {% include feature_row id="feature_row7" type="left" %}
 <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
 <div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;"
@@ -636,7 +636,7 @@ Scroll through the Media Gallery for additional details on productions, cast and
   <object data="https://lh3.googleusercontent.com/mbDgLaH56SrrcOVd9vdeDslitcI3r3DmTFo7Nll8QZALyvvodQd0-J8J2jXhvwTMwr1cjz5GXXCK9EupFDxNJYvuOvSWrf6G2qtFkeoGe6Dxw9Nb9gb123F7h7VDNofj8vLZz3MusSM=w1920-h1080"></object>
 </div>
 
-## The Drowsey Chaperone
+## The Drowsy Chaperone
 {% include feature_row id="feature_row19" type="left" %}
 <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
 <div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;"
