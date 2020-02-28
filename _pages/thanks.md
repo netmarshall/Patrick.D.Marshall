@@ -7,7 +7,7 @@ header:
   overlay_image: /assets/images/Credits.png
 feature_row:
   - image_path: /assets/images/Miller.jpg
-    alt: "Chicago"
+    alt: "Ellen Miller"
     excerpt: "**Ellen Miller**: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."  
     
 
