@@ -9,6 +9,8 @@ tags:
 ---
 Just testing this out to see how it works: 
 
+{% include video id="287-76faa6cf-c1c4-46fe-9e00-2c786471ea4a" provider="wfaa" %}
+
 <div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;"
   data-link="https://photos.app.goo.gl/wBELqAm4PZQhwMda8"
   data-title="Too Much Light Makes The Baby Go Blind"
