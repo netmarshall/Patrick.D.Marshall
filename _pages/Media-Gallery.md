@@ -423,7 +423,7 @@ Scroll through the Media Gallery for additional details on productions, cast and
 </div>
 
 <br><br>
-<iframe width="100%" height="360" style="border-width:1px; border-style:solid; border-color:#e6e6e6;" src="https://media.wfaa.com/embeds/video/287-76faa6cf-c1c4-46fe-9e00-2c786471ea4a/iframe" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+<iframe width="640" height="360" style="border-width:1px; border-style:solid; border-color:#e6e6e6;" src="https://media.wfaa.com/embeds/video/287-76faa6cf-c1c4-46fe-9e00-2c786471ea4a/iframe" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
 ## Cabaret Night 
 {% include feature_row id="feature_row8" type="left" %}
@@ -705,7 +705,7 @@ Scroll through the Media Gallery for additional details on productions, cast and
 {% include feature_row id="feature_row22" type="left" %}
 <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
 <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
-<div class="pa-gallery-player-widget" style="width:640px; height:480px; display:none;"
+<div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;"
   data-link="https://photos.app.goo.gl/ASSmfJQn126q87UVA"
   data-title="subText - Photo Gallery"
   data-description="7 new photos added to shared album"
