@@ -9,10 +9,10 @@ tags:
 ---
 Just testing this out to see how it works: 
 
+<style>video.labnol, img.labnol {max-width:100%; width: 100% !important; height: auto !important;}</style> <video class='labnol' width='750' height='750' controls poster='https://scontent-bos3-1.cdninstagram.com/v/t51.2885-15/e15/17596624_197018177464686_5086404806579322880_n.jpg?_nc_ht=scontent-bos3-1.cdninstagram.com&_nc_cat=106&_nc_ohc=2pHVkqqh4C0AX_WX-vm&oh=0d60309aa87ad5d689ec89fb1a8155be&oe=5E5C433D'><source src='https://scontent-bos3-1.cdninstagram.com/v/t50.2886-16/17551279_398676410502852_3236243791518105600_n.mp4?_nc_ht=scontent-bos3-1.cdninstagram.com&_nc_cat=100&_nc_ohc=VE89Kz8d-sEAX-VyKf8&oe=5E5B6AE9&oh=8502c04a071b82951b4d37b381a1f8c5' type='video/mp4'></video>Credit: @<a href='https://instagram.com/vinestheatre'>Vines Theatre</a>
 
 
-
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe style='border-width:1px; border-style:solid; border-color:#e6e6e6;' src='https://www.instagram.com/p/BSKlAb_AnCQ/iframe' allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true'></iframe></div>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'>https://www.instagram.com/p/BSKlAb_AnCQ/</div>
 <br><br>
 
 
