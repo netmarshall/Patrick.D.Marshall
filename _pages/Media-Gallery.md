@@ -96,8 +96,12 @@ feature_row22:
   - image_path: /assets/images/SubText-VHS.jpg
     alt: "subText"
     excerpt: "**Vines High School**: Sept. 23-24, 2016<br><br>*Even though everybody on the planet is just a text away, getting your message across has never been more complicated. subText is a hilarious series of vignettes detailing the awkwardness of dating in the digital age, from capturing the perfect selfie to making a relationship Facebook official. At its heart, subText is a reminder that love is a lot of things, but it is rarely a thing of convenience.*<br><br>John Marshall - Drew/Boy #2"
+feature_row23:
+  - image_path: /assets/images/Eurydice-HMS.jpg
+    alt: "Eurydice"
+    excerpt: "**Haggard Middle School**: Feb. 2016<br><br>*The classic myth of Orpheus reimagined through the eyes of its heroine. Dying too young on her wedding day, Eurydice must journey to the underworld, where she reunites with her father and struggles to remember her lost love.*<br><br>John Marshall - Father (Understudy)"
 feature_row24:
-  - image_path: /assets/images/Shrek-poster.jpg
+  - image_path: /assets/images/Shrek_poster.jpg
     alt: "Shrek"
     excerpt: "**Haggard Middle School**: Nov. 2015<br><br>*Everyone's favorite ogre is back in this hilarious stage spectacle, based on the Oscar-winning smash hit film and outrageous Broadway musical.*<br><br>John Marshall - Captain of the Guard"
 feature_row25:
@@ -725,7 +729,7 @@ Scroll through the Media Gallery for additional details on productions, cast and
 </div>
 
 ## Eurydice
-**Haggard Middle School**: Feb. 2016<br><br>*The classic myth of Orpheus reimagined through the eyes of its heroine. Dying too young on her wedding day, Eurydice must journey to the underworld, where she reunites with her father and struggles to remember her lost love.*<br><br>John Marshall - Father (Understudy)
+{% include feature_row id="feature_row23" type="left" %}
 
 ## Shrek the Musical Jr. 
 {% include feature_row id="feature_row24" type="left" %}
@@ -756,8 +760,3 @@ Scroll through the Media Gallery for additional details on productions, cast and
   <object data="https://lh3.googleusercontent.com/Cj10ocV_O3qGt7OkC2G_QWfBivjTnPhNNMlsqvl38h473I4mByptyg3CsZ-e0NE0UXtn6M6HD1ZsSrfp2Sa8XVtmISF4UJ0Ti1HOH19uF8asGDZ79yquvJClW7o97gmwFK8G5XmwOKc=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/rOAAvLN6_uGPH4mprpKjWbXy5GJiU80zn5jEpgKsiPaGcy29JUF4jQvNgtI9R-e5Nu3nZa3fvEh7cRsylixggCK8aNsiNWK5L6GSmxW8GOHi_vpAod0q8v46DVaet4lVE5qE1dfn0cI=w1920-h1080"></object>
 </div>
-
-
-
-
-
