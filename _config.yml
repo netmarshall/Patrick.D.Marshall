@@ -27,6 +27,11 @@ minimal_mistakes_skin: neon
 search: true
 search_full_content: true 
 google_site_verification: "ricVq3bpJ2Io5jMOVS0LhyNKAWhysE3A6mEHtIo6XZU"
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "UA-159315790-1"
+    anonymize_ip: false # default
 
 # Build settings
 markdown: kramdown
