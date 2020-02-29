@@ -26,6 +26,7 @@ github_username: username
 minimal_mistakes_skin: neon
 search: true
 search_full_content: true 
+google_site_verification: "ricVq3bpJ2Io5jMOVS0LhyNKAWhysE3A6mEHtIo6XZU"
 
 # Build settings
 markdown: kramdown
