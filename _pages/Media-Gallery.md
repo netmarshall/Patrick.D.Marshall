@@ -103,7 +103,7 @@ feature_row25:
     
 ---
 # Media Gallery 
-Scroll through the Media Gallery for additional details on productions, cast and crew photos, and select videos that are approved for public use (or are original works). As an artist, I strongly support copyright laws and unfortunatley can't share videos of these amazing shows online. Should the need arise, I can arrange for one to one viewings. 
+Scroll through the Media Gallery for additional details on productions, cast and crew photos, and select videos that are approved for public use (or are original works). As an artist I strongly support copyright laws, and unfortunatley can't share videos of these amazing shows online. Should the need arise, I can arrange for a private viewing - or better yet, an audition :-) 
 
 ## Eurydice
 {% include feature_row id="feature_row25" type="left" %}
