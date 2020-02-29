@@ -730,6 +730,22 @@ Scroll through the Media Gallery for additional details on productions, cast and
 
 ## Eurydice
 {% include feature_row id="feature_row23" type="left" %}
+<script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
+<div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;"
+  data-link="https://photos.app.goo.gl/Y6hGLtoLQVGCJhMn8"
+  data-title="Eurydice HMS -  Photo Gallery"
+  data-description="7 new photos added to shared album"
+  data-delay="3"
+  data-fullpage-autoplay="false">
+  <object data="https://lh3.googleusercontent.com/nNrfC-joYUyOBWV1AvHX8F5HnuNJwO94x1fWUf9ac2PsRYedx0hELjfIwOXmCVEmiaw-4UeXHqPmehOgVKXWoRJEOkNutx7eCzdBUSv90N_Eu4DTqwpXSX6FonKiDc_1z447Me4--b8=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/K0UWbqrQw2icfX7Vqo4uLNNNI7DJQ0rpsmUVtxbVigfNfDiOTqyUB9O32zs7fpn-PFUkYq1u09k6UKoF34b3WWPfboUjS2DdKAU7SbE1-hiTFkjKTzE0m2arJOpaYsqEfFdYBqP1Tc8=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/lxlKiS0wunmRUTzsuzWCHJ1IPuv4XpwtjbmMrIlHi8lHgOAIpERfp7tyCXfoarF0jbq7ogsAwUAmMWL5lzpgV50eA-3-xue1lvqtchRsJERK6ZnB_xaYu21Y6HnlOGAOOvWq-zNyWDM=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/5rjNCAI12Kdw5oFDq_4M3d02V6KlU8fCV3TDNzlyjuaggju9KrcA6WsFb-ueaHs3KJAOKKgktknsLtksTTB23TdTLMCRZTCG2qHXgyU5X2LPtMJ7x7BVJQezh3ZmZzY9cCFsO-4MdX0=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/LOSqPAAvIUjjDdhYhWLPKLqRdD_D6RIb_L5qG3aBqr0cH4kAbbu2LcTHvo65L3KH-3nVoQz-7OPzKKlYhWVriS2IMVSx-HHXDu1w4rvsXTrpja2aaG1HsCtp1gtTnaOzBI6UTrF_kE4=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/rCRbQMgBKoDblXv4V9wFSzC1NzWim7xmxxiD1RGn7kz5YhmqsthVKPr7cSqhdfM9tu8Bz4TNpz0BY6Vk1wfUNO78VOjT7KQQvycYTnx866XeSJR0JNLRT56fKW8xrrhNtFRYEAECSMo=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/Zx9UJuZkCEMDIF0CtWH4tV4lbA0yiF75T9wahulrEZv0_8vNiCAZWzlfmzcRJrPKhUHra5lUP8v53x-l7-kLAjMm7KxALHe5toDoLZiw8pnYMvXw5z1aT6jFTz5Kn5_Kt5mpS6xEHIA=w1920-h1080"></object>
+</div>
+
 
 ## Shrek the Musical Jr. 
 {% include feature_row id="feature_row24" type="left" %}
