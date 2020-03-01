@@ -29,7 +29,8 @@ Finally, I'd be remiss if I didn't give a plug to my amazing baby sister Allison
   data-link="https://photos.app.goo.gl/MR9zjXFGeP5wm6Jk9"
   data-title="Allison Marshall - Photo Gallery"
   data-description="20 new photos added to shared album"
-  data-delay="3">
+  data-delay="3"
+  data-fullpage-autoplay="false">
   <object data="https://lh3.googleusercontent.com/Nom159d3kRtJ3dBOt8FmQrBNNuxTMctF10vQjbp5IpLXJh0oiJzWfF20MTNUtzQmRMoF6A15b_Wjty4WF2LvzrjsHd11zL7RPoqSuOfEX28Bg-U203qtNf6wFhb6M4xIhZp3uad24o0=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/R5_E89JXIYAtKiWYBpIQP5I3IFOane3pMj_WJyO6RJnmov6YTKhP9qZzgThL8HeFFst8Uh_QlMRZWlIfTgpUa3653zDd-DBOJoUvfR4_jTPJieKIm7tbTs0rNH5RpPLUOPqIrlzqHAI=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/4wVxdhz25ltaeoNEboEA5rIaFeRW2XZnupKwZYmiVwGVIApMSSaca3G3SPTXhur4aBD9i_BN5y480kBcT_9Kk9c35H4TbkXCcjgPzvoxD4vN2RVSdBcslKM_bVNY-6sbHnf2wUSuxuY=w1920-h1080"></object>
