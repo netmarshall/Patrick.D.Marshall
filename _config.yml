@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: John H. Marshall
 title_separator: "|"
-email: john.h.marshall04@gmail.com
+email: john.hughes.marshall@gmail.com
 locale: "en-US"
 url: "https://netmarshall.github.io"
 baseurl: "/John.H.Marshall"
@@ -74,9 +74,9 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Height: 5’9” <br>Weight: 140 <br>Voice: Bass"
   links:
-    - label: "john.h.marshall04@gmail.com"
+    - label: "john.hughes.marshall@gmail.com"
       icon: "fas fa-envelope"
-      url: mailto:john.h.marshall04@gmail.com
+      url: mailto:john.hughes.marshall@gmail.com
     - label: "214 886 7791"
       icon: "fas fa-mobile-alt"
       url: "tel:+12148867791"
