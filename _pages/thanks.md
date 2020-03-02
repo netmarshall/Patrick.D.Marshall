@@ -3,7 +3,7 @@ permalink: thanks/
 title: "So Much Love!"
 header:
   overlay_color: "#000"
-  overlay_filter: "0.4"
+  overlay_filter: "0.1"
   overlay_image: /assets/images/Credits.png
 excerpt: "So many to thank!"
 feature_row:
@@ -22,7 +22,10 @@ feature_row4:
   - image_path: /assets/images/family.jpg
     alt: "Family"
     excerpt: "**Mom, Dad, Ellie, Allison**: Thank you for supporting me through all the rehearsals, Booster Club meetings, ticket taking, concessions, fund raisers, t-shirts, pizzas, late nights, and early mornings. You rocked it!" 
-    
+feature_row5:
+  - image_path: /assets/images/friends.jpg
+    alt: "Friends"
+    excerpt: "**Friends for Life**: There are too many of you, no way to get everyone in a single picture! Thanks to the best friends, cast mates, and goofballs anyone could every ask for! I love each of you!"     
 ---
 
 ![Seniors2020]({{ "/assets/images/Ballard-Lozano-nobackground.png" | relative_url }}){: .align-center}
