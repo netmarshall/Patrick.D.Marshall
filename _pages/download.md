@@ -16,7 +16,7 @@ gallery:
    
 ---
 ## Resume
-<i class="far fa-file-powerpoint"></i> <a href="https://netmarshall.github.io/John.H.Marshall/assets/docs/John-H-Marshall-Resume.pdf">Resume Download</a>
+<i class="far fa-file-pdf"></i> <a href="https://netmarshall.github.io/John.H.Marshall/assets/docs/John-H-Marshall-Resume.pdf">Resume Download</a>
 
 ## References
 Coming soon!
