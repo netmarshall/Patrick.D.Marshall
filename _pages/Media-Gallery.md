@@ -49,7 +49,7 @@ feature_row9:
     alt: "Almost, Maine"
     excerpt: "**Plano Senior High School**: Oct 18-20, 2018<br><br>*Welcome to Almost, Maine, a town that’s so far north, it’s almost not in the United States-it’s almost in Canada. And it almost doesn’t exist. Because its residents never got around to getting organized. So it’s just…Almost..*<br><br>**ALMOST, MAINE**: It’s love. But not quite.<br><br>Featuring John Marshall as **East**"
 feature_row10:
-  - image_path: /assets/images/Almost-Maine-PSHS.jpg
+  - image_path: /assets/images/Diviners.jpg
     alt: "Almost, Maine"
     excerpt: "**PISD CenterStage**: June 2018<br><br>*A luminous story of religion and magic, faith and doubt, love and grief. The story of a disturbed young man and his friendship with a disenchanted preacher in southern Indiana in the early 1930s.*<br><br> Featuring John Marshall as Basil Bennett."
 feature_row11:
