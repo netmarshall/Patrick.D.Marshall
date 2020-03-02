@@ -27,7 +27,7 @@ feature_row3:
 feature_row4:
   - image_path: /assets/images/Violet-Sharp-banner.png
     alt: "Violet Sharp"
-    excerpt: "**PISD CenterStage**: July, 2019<br><br>*Based on the true story of the 1932 Lindbergh Kidnapping, Violet Sharp is a young British maid who raises suspicion with contradictory testimony about her whereabouts. Under pressure from her own personal demons as well as the police, Violet’s efforts to clear her name can't overcome a growing reputation of guilt.*<br><br>Featuring John Marshall as overvealous police interrogator Harry Walsh."
+    excerpt: "**PISD CenterStage**: July, 2019<br><br>*Based on the true story of the 1932 Lindbergh Kidnapping, Violet Sharp is a young British maid who raises suspicion with contradictory testimony about her whereabouts. Under pressure from her own personal demons as well as the police, Violet’s efforts to clear her name can't overcome a growing reputation of guilt.*<br><br>Featuring John Marshall as overZealous police interrogator Harry Walsh."
 feature_row5:
   - image_path: /assets/images/Bright-Ideas-VHS.jpg
     alt: "Bright Ideas"
