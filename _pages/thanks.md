@@ -11,19 +11,26 @@ feature_row:
     alt: "Ellen Miller"
     excerpt: "**Ellen Miller**: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."  
 feature_row2:
-  - image_path: /assets/images/Ballard.jpg
-    alt: "Ellen Miller"
-    excerpt: "**Racey Ballard**: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."    
-
+  - image_path: /assets/images/Miller.jpg
+    alt: "Racey Ballard"
+    excerpt: "**Racey Ballard**: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat." 
+feature_row3:
+  - image_path: /assets/images/Miller.jpg
+    alt: "Danny Lozano"
+    excerpt: "**Danny Lozano**: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."     
+feature_row4:
+  - image_path: /assets/images/Miller.jpg
+    alt: "Family"
+    excerpt: "**Mom, Dad, Ellie, Allison**: Thank you for supporting me through all the rehearsals, Booster Club meetings, ticket taking, concessions, fund raisers, t-shirts, pizzas, late nights, and early mornings. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat." 
 ---
 ## Special Thanks!
 
 ![Seniors2020]({{ "/assets/images/Ballard-Lozano-nobackground.png" | relative_url }}){: .align-center}
 I want to offer my sincerest thanks to the wonderful, talented, creative, inspirational and tireless educators, friends, and family that have truly been the wind beneath my wings in my journey so far. I am so humbled and blessed to have been lifted up by each of you:
 
-{% include feature_row type="left" %}{% include feature_row type="left" %}
+{% include feature_row id="feature_row2" type="left" %}{% include feature_row type="left" %}{% include feature_row id="feature_row3" type="left" %}{% include feature_row id="feature_row4" type="left" %}{% include feature_row id="feature_row5" type="left" %}
 
-Finally, I just have to give a plug to my amazing baby sister Allison Marshall, who is also a thespian and Vines High School Theatre Vice President. Allison recently starred in VHS productions of "Almost, Maine", "Peter and the Starcatcher", and "Bob, a Life in Five Acts":
+Finally, I just have to give a special plug to my amazing baby sister Allison Marshall, who is also a thespian and Vines High School Theatre Vice President. Allison recently starred in VHS productions of "Almost, Maine", "Peter and the Starcatcher", and "Bob, a Life in Five Acts":
 
 <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
 <div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;"
