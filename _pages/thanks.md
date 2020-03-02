@@ -11,11 +11,11 @@ feature_row:
     alt: "Ellen Miller"
     excerpt: "**Ellen Miller**: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."  
 feature_row2:
-  - image_path: /assets/images/Miller.jpg
+  - image_path: /assets/images/ballard.jpg
     alt: "Racey Ballard"
     excerpt: "**Racey Ballard**: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat." 
 feature_row3:
-  - image_path: /assets/images/Miller.jpg
+  - image_path: /assets/images/lozano.jpg
     alt: "Danny Lozano"
     excerpt: "**Danny Lozano**: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."     
 feature_row4:
