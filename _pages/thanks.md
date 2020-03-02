@@ -22,8 +22,8 @@ feature_row4:
   - image_path: /assets/images/family.jpg
     alt: "Family"
     excerpt: "**Mom, Dad, Ellie, Allison**: Thank you for supporting me through all the rehearsals, Booster Club meetings, ticket taking, concessions, fund raisers, t-shirts, pizzas, late nights, and early mornings. You rocked it!" 
+    
 ---
-## Special Thanks!
 
 ![Seniors2020]({{ "/assets/images/Ballard-Lozano-nobackground.png" | relative_url }}){: .align-center}
 I want to offer my sincerest thanks to the wonderful, talented, creative, inspirational and tireless educators, friends, and family that have truly been the wind beneath my wings in my journey so far. I am so humbled and blessed to have been lifted up by each of you:
