@@ -5,6 +5,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.4"
   overlay_image: /assets/images/Credits.png
+excerpt: "So many to thank..."
 feature_row:
   - image_path: /assets/images/Miller.jpg
     alt: "Ellen Miller"
