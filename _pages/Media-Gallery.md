@@ -48,6 +48,10 @@ feature_row9:
   - image_path: /assets/images/Almost-Maine-PSHS.jpg
     alt: "Almost, Maine"
     excerpt: "**Plano Senior High School**: Oct 18-20, 2018<br><br>*Welcome to Almost, Maine, a town that’s so far north, it’s almost not in the United States-it’s almost in Canada. And it almost doesn’t exist. Because its residents never got around to getting organized. So it’s just…Almost..*<br><br>**ALMOST, MAINE**: It’s love. But not quite.<br><br>Featuring John Marshall as **East**"
+feature_row10:
+  - image_path: /assets/images/Almost-Maine-PSHS.jpg
+    alt: "Almost, Maine"
+    excerpt: "**PISD CenterStage**: June 2018<br><br>*A luminous story of religion and magic, faith and doubt, love and grief. The story of a disturbed young man and his friendship with a disenchanted preacher in southern Indiana in the early 1930s.*<br><br> Featuring John Marshall as Basil Bennett."
 feature_row11:
   - image_path: /assets/images/May-Coffee-House.png
     alt: "Vines Spring Coffee House - Frozen"
@@ -248,7 +252,6 @@ Scroll through the Media Gallery for additional details on productions, cast and
   <object data="https://lh3.googleusercontent.com/RNSYyZdFQVDbvNd-NjJWBdxYs1e4aYoAPFTUMnfTJ3DIwC4oZ7yuNUx2wtvKLVUEUGDyN875frRxK_j3KmzmRNkqroUTDZgDS4VEwavEp5BR-VkpqY7wHl-x5hOr2Qa8qIrArBtNvNw=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/LvgmPTo7scWicEpmnj3uwHjubz84GrPUlWSzfCZIkn2aRoR01IS4TwxmAuAEgFPFglsGcZjazg3KWl2xZtQmenEmV6BOBhVJFl2gc-0tUFrL0KcpWrDtg--qFn2iFlqAtCdJ-LGK2WA=w1920-h1080"></object>
 </div>
-
 
 ## Wendy and Peter Pan
 {% include feature_row id="feature_row3" type="left" %}
@@ -501,7 +504,7 @@ Scroll through the Media Gallery for additional details on productions, cast and
 {% include video id="295641795" provider="vimeo" %}
 
 ## The Diviners
-**PISD CenterStage**: June 2018<br><br>*A luminous story of religion and magic, faith and doubt, love and grief. The story of a disturbed young man and his friendship with a disenchanted preacher in southern Indiana in the early 1930s.*<br><br> Featuring John Marshall as Basil Bennett.
+{% include feature_row id="feature_row10" type="left" %}
 
 ## Coffee House - Frozen
 {% include feature_row id="feature_row11" type="left" %}
