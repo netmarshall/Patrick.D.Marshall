@@ -19,9 +19,9 @@ feature_row3:
     alt: "Danny Lozano"
     excerpt: "**Danny Lozano**: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."     
 feature_row4:
-  - image_path: /assets/images/Miller.jpg
+  - image_path: /assets/images/family.jpg
     alt: "Family"
-    excerpt: "**Mom, Dad, Ellie, Allison**: Thank you for supporting me through all the rehearsals, Booster Club meetings, ticket taking, concessions, fund raisers, t-shirts, pizzas, late nights, and early mornings. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat." 
+    excerpt: "**Mom, Dad, Ellie, Allison**: Thank you for supporting me through all the rehearsals, Booster Club meetings, ticket taking, concessions, fund raisers, t-shirts, pizzas, late nights, and early mornings. You rocked it!" 
 ---
 ## Special Thanks!
 
