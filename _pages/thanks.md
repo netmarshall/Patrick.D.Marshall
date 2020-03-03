@@ -25,9 +25,9 @@ feature_row4:
 feature_row5:
   - image_path: /assets/images/friends.jpg
     alt: "Friends"
-    excerpt: "**Friends for Life**: There are too many of you, no way to get everyone in a single picture! Thanks to the best friends, cast mates, and goofballs anyone could every ask for! I love each of you!"     
+    excerpt: "**Friends for Life**: There are too many of you, no way to get everyone in a single picture! Thanks to the best friends, cast mates, and goofballs anyone could every ask for! I love each of you!"  
+    
 ---
-
 ![Seniors2020]({{ "/assets/images/Ballard-Lozano-nobackground.png" | relative_url }}){: .align-center}
 I want to offer my sincerest thanks to the wonderful, talented, creative, inspirational and tireless educators, friends, and family that have truly been the wind beneath my wings in my journey so far. I am so humbled and blessed to have been lifted up by each of you:
 
