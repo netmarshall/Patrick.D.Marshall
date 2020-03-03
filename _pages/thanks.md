@@ -21,7 +21,7 @@ feature_row3:
 feature_row4:
   - image_path: /assets/images/family.jpg
     alt: "Family"
-    excerpt: "**Mom, Dad, Ellie, Allison**: Thank you for supporting me through all the rehearsals, Booster Club meetings, ticket taking, concessions, fund raisers, t-shirts, pizzas, late nights, and early mornings. You rocked it!" 
+    excerpt: "**Mom, Dad, Ellie, Allison, and Grandma**: Thank you for supporting me through all the rehearsals, Booster Club meetings, ticket taking, concessions, fund raisers, t-shirts, pizzas, late nights, and early mornings. You rocked it!" 
 feature_row5:
   - image_path: /assets/images/friends.jpg
     alt: "Friends"
@@ -33,7 +33,7 @@ I want to offer my sincerest thanks to the wonderful, talented, creative, inspir
 
 {% include feature_row id="feature_row2" type="left" %}{% include feature_row type="left" %}{% include feature_row id="feature_row3" type="left" %}{% include feature_row id="feature_row4" type="left" %}{% include feature_row id="feature_row5" type="left" %}
 
-Finally, I just have to give a special plug to my amazing baby sister Allison Marshall, who is also a thespian and Vines High School Theatre Vice President. Allison recently starred in VHS productions of "Almost, Maine", "Peter and the Starcatcher", and "Bob, a Life in Five Acts":
+Finally, I have to give a special plug to my amazing baby sister Allison Marshall, who is also a thespian and Vines High School Theatre Vice President. Allison recently starred in VHS productions of "Peter and the Starcatcher", "Bob, a Life in Five Acts", and "Almost, Maine":
 
 <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
 <div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;"
