@@ -29,6 +29,7 @@ feature_row5:
     
 ---
 ![Seniors2020]({{ "/assets/images/Ballard-Lozano-nobackground.png" | relative_url }}){: .align-center}
+
 I want to offer my sincerest thanks to the wonderful, talented, creative, inspirational and tireless educators, friends, and family that have truly been the wind beneath my wings in my journey so far. I am so humbled and blessed to have been lifted up by each of you:
 
 {% include feature_row id="feature_row2" type="left" %}{% include feature_row type="left" %}{% include feature_row id="feature_row3" type="left" %}{% include feature_row id="feature_row4" type="left" %}{% include feature_row id="feature_row5" type="left" %}
