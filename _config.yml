@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Patrick D. Marshall
+title: Patrick.D.Marshall
 title_separator: "|"
 email: patrick.d.marshall@gmail.com
 locale: "en-US"
