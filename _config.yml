@@ -13,16 +13,16 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: John H. Marshall
+title: Patrick D. Marshall
 title_separator: "|"
-email: john.hughes.marshall@gmail.com
+email: patrick.d.marshall@gmail.com
 locale: "en-US"
 url: "https://netmarshall.github.io"
-baseurl: "/John.H.Marshall"
-description: "John H. Marshall - Actor. Student. All around decent human."
-twitter_username: John_HMarshall
+baseurl: "/Patrick.D.Marshall"
+description: "Patrick D. Marshall - Resume"
+twitter_username: 
 github_username: username
-minimal_mistakes_skin: neon
+minimal_mistakes_skin: 
 search: true
 search_full_content: true 
 
@@ -65,41 +65,41 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "John Marshall"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Height: 5’9” <br>Weight: 140 <br>Voice: Bass"
+  name   : "Patrick D. Marshall"
+  avatar : ""
+  bio    : ""
   links:
-    - label: "john.hughes.marshall@gmail.com"
+    - label: "patrick.d.marshall@gmail.com"
       icon: "fas fa-envelope"
-      url: mailto:john.hughes.marshall@gmail.com
-    - label: "214 886 7791"
+      url: mailto:patrick.d.marshall@gmail.com
+    - label: "214 651 9872"
       icon: "fas fa-mobile-alt"
-      url: "tel:+12148867791"
+      url: "tel:+12146419872"
     - label: "Send a text"  
       icon: "fas fa-comment-alt"
-      url: "sms:+12148867791"
+      url: "sms:+12146419872"
     - label: "Plano, TX"
       icon: "fas fa-map-marker-alt"
       url: "https://www.google.com/maps/search/?api=1&query=Plano%2C+Plano%2C+TX%2C+us&query_place_id=ChIJE5XFE9ohTIYRK2DNiWQDqmI"
     - label: "Twitter"
       icon: "fab fa-twitter"
-      url: "https://twitter.com/John_HMarshall"
+      url: ""
     - label: "Instagram"
       icon: "fab fa-instagram"
-      url: "https://www.instagram.com/johnhmarshall/"
+      url: ""
    
 
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/John_HMarshall"
+      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/johnhmarshall/"
+      url: "https://www.instagram.com/"
 
 defaults:
    # _pages
