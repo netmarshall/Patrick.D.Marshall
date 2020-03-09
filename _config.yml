@@ -75,7 +75,7 @@ author:
     - label: "patrick.d.marshall@gmail.com"
       icon: "fas fa-envelope"
       url: mailto:patrick.d.marshall@gmail.com
-    - label: "214 651 9872"
+    - label: "214 641 9872"
       icon: "fas fa-mobile-alt"
       url: "tel:+12146419872"
     - label: "Send a text"  
@@ -84,25 +84,21 @@ author:
     - label: "Plano, TX"
       icon: "fas fa-map-marker-alt"
       url: "https://www.google.com/maps/search/?api=1&query=Plano%2C+Plano%2C+TX%2C+us&query_place_id=ChIJE5XFE9ohTIYRK2DNiWQDqmI"
-    - label: "Twitter"
-      icon: "fab fa-twitter"
-      url: ""
-    - label: "Instagram"
-      icon: "fab fa-instagram"
-      url: ""
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/patrick-marshall/"
+    
    
 
 footer:
   links:
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      icon: "fab fa-fw fa-LinkedIn"
+      url: "https://www.linkedin.com/in/patrick-marshall/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/"
+    
 
 defaults:
    # _pages
