@@ -69,8 +69,8 @@ plugins:
 
 author:
   name   : "Patrick D. Marshall"
-  avatar : "18768241_10209490663688825_2078276080441293945_o.jpg"
-  bio    : "18768241_10209490663688825_2078276080441293945_o.jpg"
+  avatar : "images/18768241_10209490663688825_2078276080441293945_o.jpg"
+  bio    : ""
   links:
     - label: "patrick.d.marshall@gmail.com"
       icon: "fas fa-envelope"
