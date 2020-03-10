@@ -40,9 +40,9 @@ Product Owner for DXC's "Front Door" single point of entry for global solutionin
 * *"Patrick had a very strong year in his role as product owner for Front Door and Sales Information Center. He enthusiastically embraced the use of bots to automate tasks previously done by analysts, greatly enhancing his digital skills and experience with digital tools."* - **Direct Leader**
 
 ### Senior Analyst Sales Information Center
-**DXC Technology (2012 -2016)** 
+**DXC Technology (2012 -2017)** 
 Consults with global DXC sales and account teams on sales strategy, competitive intelligence, proposal & orals preparation, effective use of references, proof points, and sales collateral to grow new business. Our team touches over $40B in total opportunity value each year across all stages of the sales pipeline from prospecting and demand generation, to qualification, through negotiation, close, and post sales expansion.
-* **2016 Winners Summit** – *“One of the highest accolades a [DXC] client-facing employee can earn. The honor goes to the top performers who not only exceed their growth commitment but also demonstrate a strong will to win with tenacity, integrity and passion.”*
+* **2017 DXC Winners Summit** – *“One of the highest accolades a client-facing employee can earn. The honor goes to the top performers who not only exceed their growth commitment but also demonstrate a strong will to win with tenacity, integrity and passion.”*
 
 ### Strategic Sales Center - Content Consultant
 **Hewlett Packard Enterprise (2006 - 2012)** 
