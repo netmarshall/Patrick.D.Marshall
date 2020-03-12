@@ -1,6 +1,6 @@
 ---
 permalink: /ContactMe/
-title: "Contact"
+title: "Contact Me"
 sitemap: false
 ---
 <div itemscope itemtype="https://schema.org/Person">
