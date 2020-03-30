@@ -1,6 +1,5 @@
 main:
   - title: "Home"
     url: /
-  - title: "Download"
-    url: /downloads/
+  
  
