@@ -30,7 +30,7 @@ Decisive, creative, technology professional with extensive experience leading co
 ## Experience
 
 ### Product Owner & Business Analyst
-**DXC Technology (2017-Present)**
+**DXC Technology (2017 - Present)**
 Product Owner for DXC's "Front Door" single point of entry for global solutioning and sales support. Successfully transitioned to an Agile development model while deploying the first smart agent chatbot on DXC’s award winning sales portal. Current user, peer, and leader feedback: 
 * *“Guys, the bot is awesome! Just test drove it and works perfectly...Great work!”* – **Americas Offering Leader**
 * *“Good stuff! I am telling everyone about it -It’s a great piece of work -well done!”* – **Deployment Lead** 
@@ -40,8 +40,9 @@ Product Owner for DXC's "Front Door" single point of entry for global solutionin
 * *"Patrick had a very strong year in his role as product owner for Front Door and Sales Information Center. He enthusiastically embraced the use of bots to automate tasks previously done by analysts, greatly enhancing his digital skills and experience with digital tools."* - **Direct Leader**
 
 ### Senior Analyst Sales Information Center
-**DXC Technology (2012 -2017)** 
+**DXC Technology (2012 - 2017)** 
 Consults with global DXC sales and account teams on sales strategy, competitive intelligence, proposal & orals preparation, effective use of references, proof points, and sales collateral to grow new business. Our team touches over $40B in total opportunity value each year across all stages of the sales pipeline from prospecting and demand generation, to qualification, through negotiation, close, and post sales expansion.
+* Lead Analyst for DXC's third party advisor (ISG, Gartner, Pace Harmon, KPMG, Alsbridge, Deloitte) survey response program, supporting about 20 surveys a year across all offering areas. As a direct result of my efforts, in the first post merger survey, DXC earned 8 awards from ISG - **more than any other provider**
 * **2017 DXC Winners Summit** – *“One of the highest accolades a client-facing employee can earn. The honor goes to the top performers who not only exceed their growth commitment but also demonstrate a strong will to win with tenacity, integrity and passion.”*
 
 ### Strategic Sales Center - Content Consultant
@@ -55,7 +56,7 @@ Founding member of knowledge management “tiger team” of senior sales, soluti
 
 ### Sales Support Executive/Client Sales Executive
 **Electronic Data Systems (1996 - 2006)**
-* **Sales Support Executive (2001-2006)** - End to end management of outsourcing bids across functional teams of solution architects, financial analysts, legal, HR, marketing, and sales specialists to meet demanding external client deadlines, navigate internal governance processes, and win new business
+* **Sales Support Executive (2001 - 2006)** - End to end management of outsourcing bids across functional teams of solution architects, financial analysts, legal, HR, marketing, and sales specialists to meet demanding external client deadlines, navigate internal governance processes, and win new business
 * **Client Sales Executive, Internet & New Media and Infrastructure Solutions (1996-2001)** – Responsible for developing relationships at the CEO, CFO, and CIO level to drive new business opportunities in the Internet and electronic markets space
 *	Personally led sales efforts resulting in more than $80 million in new business for EDS - including new contracts with the largest manufacturer and the largest distributor in my assigned industry sector
 *	Conceptualized and sold web-based supply chain management system to streamline government procurement - resulting in a 300% increase in sales for EDS' client
@@ -78,7 +79,7 @@ Managed state sized sales territory for nationally renowned diagnostic testing c
 ## Education
 
 ### BBA Managment
-**Texas A&M University (1984-1988)**
+**Texas A&M University (1984 - 988)**
 *	Distinguished Military Graduate
 *	College of Business Administration Distinguished Student
 
