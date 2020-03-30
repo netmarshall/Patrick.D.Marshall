@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/images/Banner.jpg
   show_overlay_button: false 
       
-excerpt: "20+ years progressive experience in complex multi-tower Infrastructure Technology, Applications, and Business Process outsourcing sales, sales enablement, and knowledge management."
+excerpt: "20+ years progressive experience in complex multi-tower Infrastructure Technology, Applications, and Business Process outsourcing sales, sales enablement, and knowledge management"
 
 ---
 {% include toc title="On this Page" %}<script type="text/javascript"
