@@ -46,8 +46,8 @@ Consults with global DXC sales and account teams on sales strategy, competitive 
 ### Strategic Sales Center - Content Consultant
 **Hewlett Packard Enterprise (2006 - 2012)** 
 Founding member of knowledge management “tiger team” of senior sales, solution, and delivery professionals focused on enhancing agility, re-use, and quality of proposal and orals responses for Strategic Sales pursuits (>$100 million USD). Built out a library of re-usable templates and artifacts for third party sourcing advisor led opportunities (such as ISG/TPI, KPMG/EquaTerra, Alsbridge, and Everest Group).  
-*	Personally supported over 100 Strategic Sales pursuits, and consulted on countless others
-*	Directly recognized as a core contributor to more than $3B in new contract wins
+*	Personally supported over **100 Strategic Sales pursuits**, and consulted on countless others
+*	Directly recognized as a core contributor to more than **$3B in new contract wins**
 *	Global Sales Support “Top Performer” – Annual Corporate wide sales recognition Award
 *	Strategic Sales Center “Content Consultant of the Year” – Annual Peer nominated recognition Award
 *	Two-time Strategic Sales Center “Lantern Award” winner – Annual Leadership nominated recognition Award
