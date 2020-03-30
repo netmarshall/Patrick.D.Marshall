@@ -6,10 +6,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.4"
   overlay_image: /assets/images/Banner.jpg
-  actions:
-    - label: ""
-      url: ""
-    
+      
 excerpt: "20+ years progressive experience in complex multi-tower Infrastructure Technology, Applications, and Business Process outsourcing sales, sales enablement, and knowledge management."
 
 ---
