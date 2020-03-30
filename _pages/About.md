@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: "Resume - Summary"
 sitemap: false
 header:
   overlay_color: "#000"
