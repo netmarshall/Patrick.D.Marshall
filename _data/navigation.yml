@@ -1,12 +1,6 @@
 main:
-  - title: "About"
+  - title: "Home"
     url: /
-  - title: "Media"
-    url: /gallery/
   - title: "Download"
     url: /downloads/
-  - title: "Special Thanks"
-    url: /thanks/
-  - title: "Blog"
-    url: /blog/
-
+ 
