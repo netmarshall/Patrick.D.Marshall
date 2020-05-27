@@ -29,7 +29,11 @@ Decisive, creative, technology professional with extensive experience leading co
 
 ### Product Owner & Business Analyst
 **DXC Technology (2017 - Present)**
-Product Owner for DXC's "Front Door" single point of entry for global solutioning and sales support. Successfully transitioned to an Agile development model while deploying the first smart agent chatbot on DXC’s award winning sales portal. Conceived, piloted, and deployed DXC's global Pursuit Launch tool, which uses AI to push Salesforce opportunity details to Kanban boards, enabling bid teams to visualize and collaborate on their pipeline and "drag and drop" opportunities forward through the sales life-cycle. Recent user, peer, and leader feedback: 
+Product Owner for DXC's "Front Door" single point of entry for global solutioning and sales support. Successfully transitioned to an Agile development model while deploying the first smart agent chatbot on DXC’s award winning sales portal. 
+
+Conceived, piloted, and deployed DXC's global Pursuit Launch tool, which uses AI to push Salesforce opportunity details to Kanban boards, enabling bid teams to visualize and collaborate on their pipeline and "drag and drop" opportunities forward through the sales life-cycle. Recent user, peer, and leader feedback: 
+
+* *"Pursuit Launch is the most Agile project I have ever seen”* – **Global Solutioning Leader**
 * *“Guys, the bot is awesome! Just test drove it and works perfectly...Great work!”* – **Americas Offering Leader**
 * *“Good stuff! I am telling everyone about it -It’s a great piece of work -well done!”* – **Deployment Lead** 
 * *“Front Door assistant is wonderful."* – **Bid Manager US Public Sector**
